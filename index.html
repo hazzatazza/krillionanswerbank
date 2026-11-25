@@ -1,0 +1,1388 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Krillion Unlimited</title>
+<style>
+@font-face { font-family: "VT323"; src: url(data:font/woff2;base64,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) format("woff2"); font-display: block; }
+:root {
+  --pink: #ff5d8f;
+  --pink-dim: #b8385a;
+  --cyan: #4de3ff;
+  --cyan-dim: #2b8fb0;
+  --gold: #ffd166;
+  --ink: #e8f1ff;
+  --mute: #7d93b8;
+  --panel: rgba(16, 29, 51, 0.9);
+  --panel-edge: #2a4470;
+  --deep: #050a14;
+  --t0: #d7e1f2; --t1: #ff9f43; --t2: #7deaff; --t3: #ff7bac; --t4: #bfa7ff; --t5: #ffd166;
+  --pixel: "VT323", ui-monospace, monospace;
+  --label: "VT323", ui-monospace, monospace;
+  --mono: "VT323", ui-monospace, monospace;
+}
+
+* { box-sizing: border-box; }
+html, body {
+  margin: 0; height: 100%; overflow: hidden;
+  background: var(--deep); color: var(--ink);
+  font-family: var(--mono);
+  -webkit-font-smoothing: none;
+}
+button { font: inherit; color: inherit; cursor: pointer; }
+[hidden] { display: none !important; }
+
+#sea { position: fixed; inset: 0; width: 100%; height: 100%; display: block; image-rendering: pixelated; }
+.scan {
+  position: fixed; inset: 0; pointer-events: none; z-index: 50;
+  background: repeating-linear-gradient(to bottom, rgba(255,255,255,0.035) 0 1px, transparent 1px 3px);
+  mix-blend-mode: overlay;
+}
+.vignette {
+  position: fixed; inset: 0; pointer-events: none; z-index: 49;
+  background: radial-gradient(ellipse at center, transparent 55%, rgba(0,0,0,0.45) 100%);
+}
+
+.screen { position: fixed; inset: 0; z-index: 10; }
+
+/* ---------- pixel panels ---------- */
+.px {
+  background: var(--panel);
+  border: 2px solid var(--panel-edge);
+  clip-path: polygon(0 6px, 6px 6px, 6px 0, calc(100% - 6px) 0, calc(100% - 6px) 6px, 100% 6px,
+    100% calc(100% - 6px), calc(100% - 6px) calc(100% - 6px), calc(100% - 6px) 100%, 6px 100%, 6px calc(100% - 6px), 0 calc(100% - 6px));
+}
+
+/* ---------- HUD ---------- */
+.hud {
+  position: fixed; top: 8px; left: 50%; transform: translateX(-50%);
+  width: min(560px, calc(100% - 16px)); z-index: 30;
+  display: flex; align-items: flex-start; justify-content: space-between; gap: 8px;
+  pointer-events: none;
+}
+.gauge {
+  min-width: 92px; padding: 6px 12px 6px;
+  background: var(--panel); border: 2px solid var(--panel-edge);
+  display: flex; flex-direction: column;
+  clip-path: polygon(0 6px, 6px 0, calc(100% - 6px) 0, 100% 6px, 100% calc(100% - 6px), calc(100% - 6px) 100%, 6px 100%, 0 calc(100% - 6px));
+}
+.gauge.score { align-items: flex-end; }
+.lbl { font-family: var(--label); font-size: 12px; letter-spacing: 0.25em; color: var(--mute); }
+.val { font-family: var(--pixel); font-size: 29px; line-height: 1.1; }
+.depth .val { color: var(--cyan); text-shadow: 0 0 8px rgba(92,225,255,0.5); }
+.score .val { color: var(--pink); text-shadow: 0 0 8px rgba(255,79,123,0.5); }
+.prog { display: flex; flex-direction: column; align-items: center; gap: 4px; padding-top: 6px; flex: 1; min-width: 0; }
+.squares { display: flex; flex-wrap: wrap; justify-content: center; gap: 3px; max-width: 100%; }
+.squares i {
+  width: 10px; height: 10px; background: #1a2740; border: 1px solid #2c3d5c; display: block;
+}
+.squares.tiny i { width: 7px; height: 7px; }
+.squares i.cur { background: var(--pink); border-color: #ffd0dc; box-shadow: 0 0 6px var(--pink); }
+.squares i.t0 { background: var(--t0); border-color: var(--t0); }
+.squares i.t1 { background: var(--t1); border-color: var(--t1); }
+.squares i.t2 { background: var(--t2); border-color: var(--t2); }
+.squares i.t3 { background: var(--t3); border-color: var(--t3); }
+.squares i.t4 { background: var(--t4); border-color: var(--t4); }
+.squares i.t5 { background: var(--t5); border-color: var(--t5); }
+.squares i.miss { background: #0b111c; border-color: #3a4a66; }
+.squares .tank { width: 12px; height: 16px; border-radius: 3px 3px 1px 1px; background: var(--cyan); border: 1px solid #bff3ff; }
+.squares .tank.empty { background: #0b111c; border-color: #3a4a66; }
+
+.iconbtn {
+  position: fixed; top: 64px; z-index: 40; width: 32px; height: 32px;
+  display: grid; place-items: center;
+  background: var(--panel); border: 2px solid var(--panel-edge); color: #b9c7da;
+}
+.iconbtn:hover { color: #fff; border-color: #4c6a96; }
+.iconbtn.tl { left: 8px; }
+.iconbtn.tr { right: 18px; }
+.muted #soundWaves { display: none; }
+
+.menu {
+  position: fixed; top: 102px; left: 8px; z-index: 45;
+  display: flex; flex-direction: column; min-width: 240px;
+  background: var(--panel); border: 2px solid var(--panel-edge);
+}
+.menu button {
+  text-align: left; background: none; border: 0; border-bottom: 1px solid #1f2d46;
+  padding: 10px 14px; font-family: var(--label); font-size: 16px; letter-spacing: 0.12em;
+}
+.menu button small { display: block; font-family: var(--mono); letter-spacing: 0; color: var(--mute); font-size: 14px; margin-top: 2px; }
+.menu button:hover { background: #1a2740; }
+
+/* ---------- TITLE ---------- */
+#title { display: flex; flex-direction: column; align-items: center; }
+.title-top { margin-top: max(6vh, 40px); text-align: center; padding: 0 16px; }
+.logo {
+  margin: 0; font-family: var(--label); font-weight: 400;
+  font-size: clamp(44px, 9.5vw, 125px); letter-spacing: 0.06em; line-height: 1;
+  color: #fbeef3;
+  text-shadow: -4px 0 0 var(--pink), 4px 0 0 var(--cyan), 0 0 18px rgba(255,255,255,0.35);
+  animation: glitch 4s infinite steps(1);
+}
+@keyframes glitch {
+  0%, 92%, 100% { transform: none; }
+  93% { transform: translateX(3px) skewX(-6deg); }
+  95% { transform: translateX(-2px); }
+}
+.sub {
+  margin-top: 14px; font-family: var(--label); font-size: clamp(17px, 2.4vw, 23px);
+  letter-spacing: 0.55em; color: #3ec8ee; text-shadow: 0 0 10px rgba(62,200,238,0.55);
+}
+.tag { margin: 18px 0 0; font-size: 17px; color: #4d6581; letter-spacing: 0.05em; }
+
+.title-bottom {
+  position: absolute; bottom: 24px; left: 50%; transform: translateX(-50%);
+  width: min(480px, calc(100% - 32px));
+  display: flex; flex-direction: column; gap: 10px;
+}
+.how summary {
+  font-family: var(--label); font-size: 14px; letter-spacing: 0.2em; color: #7f93ad; cursor: pointer; list-style: none;
+}
+.how summary::-webkit-details-marker { display: none; }
+.how[open] summary { color: var(--cyan); }
+.how ol { margin: 8px 0 4px; padding: 10px 14px 10px 30px; background: var(--panel); border: 2px solid var(--panel-edge); }
+.how li { font-family: var(--label); font-size: 14px; line-height: 1.6; color: #a9b8cc; letter-spacing: 0.04em; }
+
+.opt-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.opt-lbl { font-family: var(--label); font-size: 13px; letter-spacing: 0.2em; color: #8aa0bd; }
+.seg { display: flex; gap: 4px; }
+.seg button {
+  min-width: 52px; padding: 8px 10px; background: var(--panel); border: 2px solid var(--panel-edge);
+  font-family: var(--label); font-size: 17px; color: #9fb1c8;
+}
+.seg button:hover { border-color: #4c6a96; color: #fff; }
+.seg button.on { border-color: var(--cyan); color: var(--cyan); box-shadow: 0 0 10px rgba(92,225,255,0.35), inset 0 0 8px rgba(92,225,255,0.15); }
+
+.bigbtn {
+  width: 100%; padding: 18px 12px; background: #111a2d; border: 3px solid var(--cyan);
+  font-family: var(--label); font-weight: 400; font-size: clamp(21px, 3.4vw, 26px); letter-spacing: 0.18em;
+  color: #fff; transition: transform 0.08s;
+}
+.bigbtn:hover { transform: translateY(-1px); background: #16223a; }
+.bigbtn:active { transform: translateY(1px); }
+.bigbtn.small { width: auto; padding: 12px 26px; font-size: 18px; }
+.glow-cyan { border-color: var(--cyan); box-shadow: 0 0 16px rgba(92,225,255,0.45), inset 0 0 12px rgba(92,225,255,0.12); }
+.glow-pink { border-color: var(--pink); box-shadow: 0 0 16px rgba(255,79,123,0.45), inset 0 0 12px rgba(255,79,123,0.12); }
+.title-foot { display: flex; justify-content: space-between; font-family: var(--label); font-size: 13px; letter-spacing: 0.18em; color: #6a7f9c; }
+
+/* ---------- PLAY ---------- */
+.card {
+  position: absolute; top: 22%; left: 50%; transform: translateX(-50%);
+  width: min(560px, calc(100% - 32px)); padding: 18px 20px 14px;
+  background: rgba(16, 26, 44, 0.9); border: 2px solid #33476a;
+  box-shadow: 0 0 0 2px rgba(5,9,18,0.5);
+  clip-path: polygon(0 8px, 8px 8px, 8px 0, calc(100% - 8px) 0, calc(100% - 8px) 8px, 100% 8px,
+    100% calc(100% - 8px), calc(100% - 8px) calc(100% - 8px), calc(100% - 8px) 100%, 8px 100%, 8px calc(100% - 8px), 0 calc(100% - 8px));
+  transition: opacity 0.35s, transform 0.35s;
+}
+.card.gone { opacity: 0; transform: translate(-50%, -12px); }
+.card-k { font-family: var(--label); font-size: 13px; letter-spacing: 0.35em; color: var(--pink); }
+.card-q { font-family: var(--pixel); font-weight: 400; font-size: clamp(29px, 4.6vw, 42px); line-height: 1.3; margin: 10px 0 10px; color: #f3f7fb; text-shadow: 0 0 10px rgba(255,255,255,0.15); }
+.card-h { font-size: 14px; color: #6b8099; letter-spacing: 0.08em; }
+
+.pill {
+  position: absolute; bottom: 58px; left: 50%; transform: translateX(-50%);
+  padding: 9px 16px; background: var(--panel); border: 2px solid var(--panel-edge);
+  font-size: 16px; color: #9fb1c8; white-space: nowrap; letter-spacing: 0.06em;
+}
+.pill b { color: var(--cyan); font-family: var(--pixel); font-size: 20px; }
+
+.answerbar {
+  position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%);
+  width: min(560px, calc(100% - 20px));
+  display: flex; align-items: stretch; gap: 8px;
+  animation: rise 0.25s ease-out;
+}
+@keyframes rise { from { opacity: 0; transform: translate(-50%, 14px); } }
+.clock { position: relative; width: 50px; height: 50px; flex: none; }
+.clock svg { width: 100%; height: 100%; transform: rotate(-90deg); }
+.ring-bg { fill: rgba(10,18,32,0.9); stroke: #1e3150; stroke-width: 3; }
+.ring { fill: none; stroke: var(--cyan); stroke-width: 3; stroke-dasharray: 119.4; stroke-dashoffset: 0; filter: drop-shadow(0 0 3px var(--cyan)); }
+.clock span { position: absolute; inset: 0; display: grid; place-items: center; font-family: var(--pixel); font-size: 22px; color: var(--cyan); }
+.clock.hurry .ring { stroke: var(--pink); filter: drop-shadow(0 0 3px var(--pink)); }
+.clock.hurry span { color: var(--pink); animation: pulse 0.5s infinite alternate; }
+@keyframes pulse { to { transform: scale(1.15); } }
+.inputwrap { position: relative; flex: 1; min-width: 0; }
+#ans {
+  width: 100%; height: 50px; padding: 0 12px;
+  background: rgba(8, 14, 26, 0.92); border: 2px solid #3a8fb0; outline: none;
+  color: #fff; font-family: var(--pixel); font-size: 26px;
+  caret-color: var(--pink);
+}
+#ans::placeholder { color: #50637d; }
+#ans:focus { border-color: var(--cyan); box-shadow: 0 0 12px rgba(92,225,255,0.3); }
+.timebar { position: absolute; left: 0; right: 0; bottom: -6px; height: 3px; background: #14223a; }
+.timebar i { display: block; height: 100%; width: 100%; background: var(--cyan); box-shadow: 0 0 6px var(--cyan); transform-origin: left; }
+.shake { animation: shake 0.35s; }
+@keyframes shake { 20%, 60% { transform: translateX(-6px); } 40%, 80% { transform: translateX(6px); } }
+.toast {
+  position: absolute; left: 0; bottom: 58px; font-size: 16px; color: var(--pink);
+  opacity: 0; transition: opacity 0.2s; white-space: nowrap; pointer-events: none;
+  background: var(--panel); padding: 4px 8px; border: 1px solid var(--pink-dim);
+}
+.toast.on { opacity: 1; }
+.divebtn {
+  flex: none; width: 76px; background: #8f2b4b; border: 2px solid var(--pink);
+  font-family: var(--label); font-weight: 400; font-size: 20px; letter-spacing: 0.12em; color: #ffe3ea;
+}
+.divebtn:hover { background: #a83257; }
+
+.banner {
+  position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotate(-2deg);
+  padding: 12px 18px; background: rgba(16, 26, 44, 0.92); border: 2px solid #33476a;
+  font-family: var(--pixel); font-weight: 400; font-size: clamp(23px, 4vw, 34px); letter-spacing: 0.06em;
+  color: #ff8aa6; text-shadow: 0 0 8px rgba(255,79,123,0.6); white-space: nowrap; max-width: calc(100% - 24px); overflow: hidden; text-overflow: ellipsis;
+  animation: bannerIn 0.3s ease-out;
+}
+@keyframes bannerIn { from { transform: translate(-50%, -80%) rotate(-2deg); opacity: 0; } }
+
+.result {
+  position: absolute; top: 14%; left: 50%; transform: translateX(-50%);
+  width: min(520px, calc(100% - 24px)); text-align: center;
+  display: flex; flex-direction: column; align-items: center; gap: 10px;
+  padding: 18px 12px 22px;
+  background: radial-gradient(closest-side, rgba(5,9,18,0.62) 0%, rgba(5,9,18,0.4) 60%, rgba(5,9,18,0) 100%);
+  animation: fadeUp 0.35s ease-out;
+}
+@keyframes fadeUp { from { opacity: 0; transform: translate(-50%, 16px); } }
+#tierIcon { width: 96px; height: 96px; image-rendering: pixelated; }
+.t-name { font-family: var(--label); font-weight: 400; font-size: clamp(34px, 6vw, 52px); letter-spacing: 0.12em; }
+.t-ans { font-family: var(--pixel); font-size: 26px; color: #f4f7fb; }
+.t-pts { font-family: var(--pixel); font-size: 23px; color: #dfe7f1; }
+.t-pts #tPts { font-weight: 400; }
+.t-flav { font-size: 16px; color: #7e93ad; letter-spacing: 0.06em; }
+.result .bigbtn { margin-top: 18px; }
+
+/* ---------- END ---------- */
+#end { overflow-y: auto; display: flex; justify-content: center; padding: 104px 12px 24px; z-index: 35; }
+.log {
+  width: min(520px, 100%); height: max-content; padding: 22px 20px;
+  background: rgba(10, 16, 30, 0.92); border: 2px solid #33476a; text-align: center;
+  animation: fadeUpS 0.5s ease-out;
+}
+@keyframes fadeUpS { from { opacity: 0; transform: translateY(16px); } }
+.log-k { font-family: var(--label); font-size: 14px; letter-spacing: 0.35em; color: var(--pink); }
+.log-depth { font-family: var(--pixel); font-weight: 400; font-size: clamp(60px, 12vw, 94px); color: var(--cyan); text-shadow: 0 0 18px rgba(92,225,255,0.45); line-height: 1.1; margin-top: 8px; }
+.log-zone { font-family: var(--label); font-size: 17px; letter-spacing: 0.3em; color: #9fb1c8; margin-top: 2px; }
+.log-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin: 18px 0 14px; }
+.log-stats div { background: #111a2d; border: 1px solid #243653; padding: 8px 4px; display: flex; flex-direction: column; gap: 2px; }
+.log-stats b { font-family: var(--pixel); font-size: 26px; color: #fff; }
+.tally { display: flex; justify-content: center; flex-wrap: wrap; gap: 6px 14px; font-family: var(--label); font-size: 14px; letter-spacing: 0.08em; }
+.tally span i { display: inline-block; width: 9px; height: 9px; margin-right: 5px; vertical-align: 0; }
+.grid { display: flex; flex-wrap: wrap; gap: 4px; justify-content: center; max-width: 196px; margin: 16px auto 6px; }
+.grid i { width: 16px; height: 16px; display: block; }
+.answers { text-align: left; margin: 10px 0 4px; }
+.answers summary { font-family: var(--label); font-size: 14px; letter-spacing: 0.2em; color: #7f93ad; cursor: pointer; list-style: none; text-align: center; }
+.answers summary::-webkit-details-marker { display: none; }
+.answers ol { margin: 10px 0 0; padding: 0 0 0 28px; max-height: 260px; overflow-y: auto; font-size: 16px; line-height: 1.7; color: #a9b8cc; }
+.answers li span { color: #62789a; }
+.log-btns { display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 18px; }
+.linkbtn { margin-top: 14px; background: none; border: 0; color: #6a7f9c; font-size: 16px; text-decoration: underline; text-underline-offset: 3px; }
+.linkbtn:hover { color: #fff; }
+
+.c-t0 { color: var(--t0); } .b-t0 { background: var(--t0); }
+.c-t1 { color: var(--t1); } .b-t1 { background: var(--t1); }
+.c-t2 { color: var(--t2); } .b-t2 { background: var(--t2); }
+.c-t3 { color: var(--t3); } .b-t3 { background: var(--t3); }
+.c-t4 { color: var(--t4); } .b-t4 { background: var(--t4); }
+.c-t5 { color: var(--t5); } .b-t5 { background: var(--t5); }
+.c-miss { color: #52627a; } .b-miss { background: #1b2436; outline: 1px solid #3a4a66; outline-offset: -1px; }
+
+@media (max-width: 520px) {
+  .gauge { min-width: 74px; padding: 5px 8px; }
+  .val { font-size: 23px; }
+  .iconbtn { top: 58px; }
+  .iconbtn.tr { right: 8px; }
+  .card { top: 18%; }
+  .divebtn { width: 62px; font-size: 17px; }
+  .seg button { min-width: 36px; padding: 8px 4px; }
+  .seg { gap: 3px; }
+  .grid { max-width: 176px; } .grid i { width: 14px; height: 14px; }
+}
+@media (max-height: 560px) {
+  .title-top { margin-top: 20px; }
+  .tag { display: none; }
+  .card { top: 16%; }
+  .result { top: 8%; gap: 6px; }
+}
+
+
+/* ---------- real-Krillion look: VT323 / abyss palette ---------- */
+.logo { font-size: clamp(56px, 16vw, 150px); letter-spacing: 0.04em; text-shadow: -3px 0 0 var(--pink), 3px 0 0 var(--cyan), 0 0 18px rgba(232,241,255,0.35); }
+.sub { letter-spacing: 0.32em; color: var(--cyan); }
+.tag { color: #7d93b8; letter-spacing: 0.04em; }
+.eyebrow { margin-top: 22px; font-family: var(--label); font-size: 20px; letter-spacing: 0.3em; color: var(--drift, #7d93b8); }
+.bigbtn { letter-spacing: 0.12em; background: #0b1730; }
+.how summary, .opt-lbl, .title-foot { text-transform: lowercase; letter-spacing: 0.12em; }
+.opt-lbl, .how summary, .title-foot { font-size: 20px; }
+.how li { font-size: 19px; line-height: 1.35; }
+.seg button { font-size: 24px; padding: 4px 10px; }
+.tag { font-size: 22px; }
+.sub { font-size: clamp(20px, 3.4vw, 28px); }
+.lbl { font-size: 16px; }
+.card-k { font-size: 18px; }
+.card-h { font-size: 18px; }
+.menu button { font-size: 22px; }
+.menu button small { font-size: 17px; }
+
+</style>
+</head>
+<body>
+<canvas id="sea"></canvas>
+<div class="scan" aria-hidden="true"></div>
+<div class="vignette" aria-hidden="true"></div>
+
+<header class="hud" id="hud" hidden>
+  <div class="gauge depth"><span class="lbl">DEPTH</span><span id="hudDepth" class="val">0m</span></div>
+  <div class="prog">
+    <div id="squares" class="squares"></div>
+    <div id="progLbl" class="lbl">PROMPT 1 OF 20</div>
+  </div>
+  <div class="gauge score"><span class="lbl">SCORE</span><span id="hudScore" class="val">0</span></div>
+</header>
+
+<button id="menuBtn" class="iconbtn tl" aria-label="Menu">
+  <svg viewBox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M2 3h12v2H2zM2 7h12v2H2zM2 11h12v2H2z"/></svg>
+</button>
+<button id="soundBtn" class="iconbtn tr" aria-label="Toggle sound">
+  <svg viewBox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M2 6h3l4-3v10l-4-3H2z"/><path id="soundWaves" fill="currentColor" d="M11 5h1v6h-1zM13 3h1v10h-1z"/></svg>
+</button>
+
+<nav id="menu" class="menu" hidden>
+  <button data-act="surface">▲ SURFACE NOW <small>end this dive &amp; see your log</small></button>
+  <button data-act="quit">⟲ QUIT TO TITLE <small>abandon this dive</small></button>
+  <button data-act="close">✕ CLOSE</button>
+</nav>
+
+<!-- TITLE -->
+<section id="title" class="screen">
+  <div class="title-top">
+    <h1 class="logo" data-text="KRILLION">KRILLION</h1>
+    <div class="sub">THE ENDLESS DIVE</div>
+    <p class="tag">every prompt, every depth · the original ∞</p>
+  </div>
+  <div class="title-bottom">
+    <details class="how">
+      <summary>▸ how to play</summary>
+      <ol>
+        <li>Pick a dive length. 7 (the daily-dive length), 10, 20, 30, 50 prompts, or endless.</li>
+        <li>Each prompt gives you a few seconds to name ONE thing.</li>
+        <li>Rare answers score big. Obvious ones float.</li>
+        <li>Plankton 10 · Too Clever 15 · Schooler 30 · Rare 60 · Deep Cut 85 · One in a Krillion 100.</li>
+        <li>Nonsense doesn't count. You can retry until the clock runs out.</li>
+        <li>A perfect dive touches the trench floor at 10,935m.</li>
+        <li>Endless: 3 oxygen tanks. Every timeout burns one.</li>
+      </ol>
+    </details>
+    <div class="opt-row">
+      <span class="opt-lbl">dive length</span>
+      <div class="seg" id="modeSeg">
+        <button data-v="7">7</button>
+        <button data-v="10">10</button>
+        <button data-v="20">20</button>
+        <button data-v="30">30</button>
+        <button data-v="50">50</button>
+        <button data-v="0">∞</button>
+      </div>
+    </div>
+    <div class="opt-row">
+      <span class="opt-lbl">clock</span>
+      <div class="seg" id="timeSeg">
+        <button data-v="15">15s</button>
+        <button data-v="25">25s</button>
+        <button data-v="40">40s</button>
+      </div>
+    </div>
+    <button id="begin" class="bigbtn glow-cyan">DESCEND ∞ ↓</button>
+    <div class="title-foot">
+      <span id="diveNo">DIVE #1</span>
+      <span id="bestLbl">BEST —</span>
+    </div>
+  </div>
+</section>
+
+<!-- PLAY -->
+<section id="play" class="screen" hidden>
+  <div class="card" id="card">
+    <div class="card-k" id="cardK">PROMPT 1 OF 20</div>
+    <div class="card-q" id="cardQ">…</div>
+    <div class="card-h">▼ rarer answers sink deeper ▼</div>
+  </div>
+
+  <div id="banner" class="banner" hidden></div>
+
+  <div id="countdown" class="pill" hidden>descending · the clock starts in <b id="cdNum">3</b></div>
+
+  <form id="answerBar" class="answerbar" autocomplete="off" hidden>
+    <div class="clock">
+      <svg viewBox="0 0 44 44"><circle cx="22" cy="22" r="19" class="ring-bg"/><circle id="ring" cx="22" cy="22" r="19" class="ring"/></svg>
+      <span id="clockNum">25</span>
+    </div>
+    <div class="inputwrap">
+      <input id="ans" type="text" placeholder="type one answer…" maxlength="60" spellcheck="false" autocapitalize="off" autocorrect="off" enterkeyhint="go">
+      <div class="timebar"><i id="timebar"></i></div>
+      <div id="toast" class="toast"></div>
+    </div>
+    <button type="submit" class="divebtn">DIVE</button>
+  </form>
+
+  <div id="result" class="result" hidden>
+    <canvas id="tierIcon" width="96" height="96"></canvas>
+    <div class="t-name" id="tName">RARE</div>
+    <div class="t-ans" id="tAns"></div>
+    <div class="t-pts"><span id="tPts">+60 PTS</span> · <span id="tSink">sink 600m</span></div>
+    <div class="t-flav" id="tFlav"></div>
+    <button id="descend" class="bigbtn small glow-pink">DESCEND ▼</button>
+  </div>
+</section>
+
+<!-- END -->
+<section id="end" class="screen" hidden>
+  <div class="log">
+    <div class="log-k" id="endK">DIVE LOG · 20 PROMPTS</div>
+    <div class="log-depth" id="endDepth">0m</div>
+    <div class="log-zone" id="endZone">THE SUNLIGHT ZONE</div>
+    <div class="log-stats">
+      <div><span class="lbl">SCORE</span><b id="endScore">0</b></div>
+      <div><span class="lbl">AVG / PROMPT</span><b id="endAvg">0</b></div>
+      <div><span class="lbl">BEST</span><b id="endBest">—</b></div>
+    </div>
+    <div class="tally" id="tally"></div>
+    <div class="grid" id="grid"></div>
+    <details class="answers">
+      <summary>▸ YOUR ANSWERS</summary>
+      <ol id="ansList"></ol>
+    </details>
+    <div class="log-btns">
+      <button id="shareBtn" class="bigbtn small glow-pink">SHARE</button>
+      <button id="againBtn" class="bigbtn small glow-cyan">DIVE AGAIN ▼</button>
+    </div>
+    <button id="homeBtn" class="linkbtn">change dive length</button>
+  </div>
+</section>
+
+<script>
+(() => {
+  "use strict";
+
+  // ---------------------------------------------------------------- constants
+  const TRENCH = 10935; // Challenger Deep, metres
+  const TIERS = [
+    { name: "PLANKTON", pts: 10, color: "#d7e1f2", emoji: "⬜",
+      flav: ["The answer everyone blurts out.", "Half the reef said that too.", "Solid, but it floats.", "The current carried that one in."] },
+    { name: "TOO CLEVER", pts: 15, color: "#ff9f43", emoji: "🟧",
+      flav: ["The school thought of it too.", "Clever. So did everyone else.", "Big brain, small ocean.", "Too smart by half."] },
+    { name: "SCHOOLER", pts: 30, color: "#7deaff", emoji: "🟦",
+      flav: ["Swimming with the school.", "A decent catch. Plenty found it too.", "Respectable. Not rare.", "Good pull, but you had company."] },
+    { name: "RARE", pts: 60, color: "#ff7bac", emoji: "🟥",
+      flav: ["Genuinely uncommon. Nice pull.", "Few divers reach that one.", "Now we're sinking.", "That one scattered the school."] },
+    { name: "DEEP CUT", pts: 85, color: "#bfa7ff", emoji: "🟪",
+      flav: ["Seriously deep dive.", "The angler lights its lure for you.", "Way down in the dark.", "Almost nobody finds that one."] },
+    { name: "ONE IN A KRILLION", pts: 100, color: "#ffd166", emoji: "🟨",
+      flav: ["The abyss salutes you.", "Almost nobody goes there.", "Bioluminescent brilliance.", "The anglerfish are impressed."] },
+  ];
+  const MISS = { name: "NOTHING LANDED", pts: 0, color: "#5d6c84", emoji: "⬛", flav: ["The clock beat you to it."] };
+
+  const ZONES = [
+    [0, "THE SUNLIGHT ZONE"], [200, "THE TWILIGHT ZONE"], [1000, "THE MIDNIGHT ZONE"],
+    [4000, "THE ABYSSAL ZONE"], [6000, "THE HADAL ZONE"], [TRENCH, "THE TRENCH FLOOR"], [12000, "UNCHARTED DEPTHS"],
+  ];
+  const FACTS = [
+    [60, "── light begins to fade"],
+    [200, "most sunlight stops here ──"],
+    [200, "── THE TWILIGHT ZONE", 1],
+    [332, "deepest scuba dive ever — 332m ──"],
+    [480, "── sperm whales hunt below here"],
+    [565, "emperor penguins dive this deep ──"],
+    [700, "── pressure: 70× the surface"],
+    [850, "siphonophore drift zone ──"],
+    [1000, "── THE MIDNIGHT ZONE", 1],
+    [1000, "no sunlight reaches past here ──"],
+    [1400, "── anglerfish territory"],
+    [2000, "sperm whales duel giant squid here ──"],
+    [2400, "── colossal squid eyes: football-sized"],
+    [2990, "cuvier's beaked whales dive to 2,992m ──"],
+    [3200, "── the water is 2°C and utterly black"],
+    [3800, "the Titanic rests here — 3,800m ──"],
+    [4000, "── THE ABYSSAL ZONE", 1],
+    [4600, "the abyssal plain stretches out ──"],
+    [5200, "── cusk eels patrol the plain"],
+    [6000, "THE HADAL ZONE ──", 1],
+    [6000, "── named for Hades. fitting."],
+    [7000, "deeper than most submarines survive ──"],
+    [8336, "── deepest fish ever filmed: a snailfish"],
+    [8849, "Everest would fit up to here ──"],
+    [9800, "── amphipods the size of your hand"],
+    [TRENCH, "the trench floor — a perfect dive ends here ──", 1],
+    [12262, "── deepest hole ever dug (Kola) — 12,262m"],
+    [15000, "the krill union has lost contact ──"],
+    [20000, "── uncharted. nothing is written here."],
+    [30000, "you are, frankly, inside the planet ──"],
+    [50000, "── still sinking. still krill."],
+  ];
+
+  const WATER = [
+    [0, [42, 112, 160]], [150, [27, 79, 124]], [400, [18, 58, 96]], [1000, [11, 34, 64]],
+    [2500, [8, 22, 43]], [4000, [6, 15, 31]], [6000, [4, 10, 21]], [11000, [2, 5, 12]],
+  ];
+
+  // ---------------------------------------------------------------- storage
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem("krU_" + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
+    set(k, v) { try { localStorage.setItem("krU_" + k, JSON.stringify(v)); } catch (e) { /* ignore */ } },
+  };
+
+  // ---------------------------------------------------------------- answer matching
+  function norm(s) {
+    return s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase()
+      .replace(/&/g, " and ").replace(/['’`´]/g, "")
+      .replace(/[^a-z0-9+#]+/g, " ").trim()
+      .replace(/^(the|a|an) /, "");
+  }
+  const squash = (s) => norm(s).replace(/ /g, "");
+  function variants(k) {
+    const v = [k];
+    if (k.length > 4 && k.endsWith("ies")) v.push(k.slice(0, -3) + "y");
+    if (k.length > 4 && k.endsWith("es")) v.push(k.slice(0, -2));
+    if (k.length > 3 && k.endsWith("s")) v.push(k.slice(0, -1));
+    return v;
+  }
+
+  const TIER_IDX = { "plankton": 0, "too clever": 1, "schooler": 2, "rare": 3, "deep cut": 4, "one in a krillion": 5, "krillion": 5 };
+  // Builds a prompt from one answer-bank file: { question, answers: [{ title, tier }] }
+  function compileBank(j, id) {
+    if (!j || typeof j.question !== "string" || !Array.isArray(j.answers)) return null;
+    const map = new Map(), items = [];
+    const add = (form, display, tier) => { const k = squash(form); if (k && !map.has(k)) map.set(k, { display, tier }); };
+    j.answers.forEach((a) => {
+      if (!a || typeof a.title !== "string") return;
+      const t = TIER_IDX[String(a.tier || "").toLowerCase().trim()];
+      if (t == null) return;
+      items.push({ title: a.title, t });
+      add(a.title, a.title, t);
+    });
+    // friendly aliases (second pass so full titles always win): "A / B" -> A, B ; "Anna (Go to Him)" -> "Anna"
+    items.forEach(({ title, t }) => {
+      title.split(/\s+\/\s+/).forEach((p) => add(p, title, t));
+      add(title.replace(/\s*\([^)]*\)/g, ""), title, t);
+    });
+    // plural / singular forms, added only where they don't collide
+    [...map.entries()].forEach(([k, v]) => {
+      variants(k).slice(1).forEach((alt) => { if (!map.has(alt)) map.set(alt, v); });
+      if (!map.has(k + "s")) map.set(k + "s", v);
+    });
+    if (!map.size) return null;
+    return { id: id || j.question, text: j.question, map, keys: [...map.keys()] };
+  }
+
+  function lev(a, b, max) {
+    if (Math.abs(a.length - b.length) > max) return max + 1;
+    let prev = Array.from({ length: b.length + 1 }, (_, i) => i);
+    for (let i = 1; i <= a.length; i++) {
+      const cur = [i]; let rowMin = i;
+      for (let j = 1; j <= b.length; j++) {
+        cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+        if (cur[j] < rowMin) rowMin = cur[j];
+      }
+      if (rowMin > max) return max + 1;
+      prev = cur;
+    }
+    return prev[b.length];
+  }
+
+  function judge(p, input) {
+    const q = squash(input);
+    if (!q) return null;
+    for (const v of variants(q)) if (p.map.has(v)) return p.map.get(v);
+    // typo tolerance
+    const tol = q.length >= 9 ? 2 : q.length >= 5 ? 1 : 0;
+    if (tol) {
+      let best = null, bd = tol + 1;
+      for (const k of p.keys) {
+        if (k.length < 4) continue;
+        const d = lev(q, k, tol);
+        if (d < bd) { bd = d; best = k; if (d === 1 && tol === 1) break; }
+      }
+      if (best) return p.map.get(best);
+    }
+    // phrase containing a known answer, e.g. "a big red apple"
+    const words = norm(input).split(" ");
+    if (words.length > 1 && words.length <= 5) {
+      let hit = null, hitLen = 0;
+      for (let i = 0; i < words.length; i++) for (let j = i + 1; j <= words.length; j++) {
+        const k = words.slice(i, j).join("");
+        if (k.length >= 4 && k.length > hitLen && p.map.has(k)) { hit = p.map.get(k); hitLen = k.length; }
+      }
+      if (hit && hitLen >= q.length * 0.45) return hit;
+    }
+    return null;
+  }
+
+  const PROMPTS = []; // filled from the GitHub answer bank (see loader below)
+
+  // ---------------------------------------------------------------- DOM
+  const $ = (id) => document.getElementById(id);
+  const el = {
+    title: $("title"), play: $("play"), end: $("end"), hud: $("hud"),
+    hudDepth: $("hudDepth"), hudScore: $("hudScore"), squares: $("squares"), progLbl: $("progLbl"),
+    card: $("card"), cardK: $("cardK"), cardQ: $("cardQ"), banner: $("banner"),
+    countdown: $("countdown"), cdNum: $("cdNum"),
+    bar: $("answerBar"), ans: $("ans"), clockNum: $("clockNum"), ring: $("ring"), timebar: $("timebar"), toast: $("toast"),
+    result: $("result"), tierIcon: $("tierIcon"), tName: $("tName"), tAns: $("tAns"), tPts: $("tPts"), tSink: $("tSink"),
+    tFlav: $("tFlav"), descend: $("descend"),
+    menu: $("menu"), menuBtn: $("menuBtn"), soundBtn: $("soundBtn"),
+  };
+
+  // ---------------------------------------------------------------- audio
+  let actx = null, muted = store.get("muted", false);
+  function beep(freq, dur = 0.08, type = "square", vol = 0.05, slide = 0, delay = 0) {
+    if (muted) return;
+    try {
+      actx = actx || new (window.AudioContext || window.webkitAudioContext)();
+      const t = actx.currentTime + delay;
+      const o = actx.createOscillator(), g = actx.createGain();
+      o.type = type; o.frequency.setValueAtTime(freq, t);
+      if (slide) o.frequency.exponentialRampToValueAtTime(Math.max(40, freq + slide), t + dur);
+      g.gain.setValueAtTime(vol, t); g.gain.exponentialRampToValueAtTime(0.0001, t + dur);
+      o.connect(g).connect(actx.destination); o.start(t); o.stop(t + dur + 0.02);
+    } catch (e) { /* audio unavailable */ }
+  }
+  const sfx = {
+    click: () => beep(660, 0.05),
+    tick: () => beep(1200, 0.04, "square", 0.03),
+    bad: () => { beep(160, 0.12, "sawtooth", 0.05); beep(120, 0.14, "sawtooth", 0.05, 0, 0.1); },
+    dive: () => beep(520, 0.5, "triangle", 0.07, -380),
+    tier: (t) => [523, 659, 784, 1047, 1319, 1568].slice(0, t + 2).forEach((f, i) => beep(f, 0.12, "square", 0.045, 0, i * 0.09)),
+    miss: () => beep(220, 0.4, "triangle", 0.06, -120),
+    blub: () => beep(300 + Math.random() * 300, 0.06, "sine", 0.04, 300),
+  };
+  function applyMuted() { document.body.classList.toggle("muted", muted); }
+  applyMuted();
+
+  // ---------------------------------------------------------------- sprites
+  function sprite(rows, pal) {
+    const h = rows.length, w = Math.max(...rows.map((r) => r.length));
+    const c = document.createElement("canvas"); c.width = w; c.height = h;
+    const g = c.getContext("2d");
+    rows.forEach((r, y) => [...r].forEach((ch, x) => { if (pal[ch]) { g.fillStyle = pal[ch]; g.fillRect(x, y, 1, 1); } }));
+    return c;
+  }
+  const SPR = {
+    krill: sprite([
+      "..........##....",
+      "............#...",
+      "....#######..#..",
+      "..###hh#####....",
+      ".####hh#####o#..",
+      "##.##########...",
+      "#..#.#.#.#.#....",
+      "...#.#.#.#......",
+    ], { "#": "#ff4f7b", h: "#ff9ab3", o: "#2a0712" }),
+    boat: sprite([
+      ".........FFF........",
+      ".........FF.........",
+      ".........#..........",
+      ".........#..........",
+      ".......#####........",
+      ".......#w#w#........",
+      "..#################.",
+      "...###############..",
+      "....#############...",
+    ], { "#": "#14233b", F: "#ff4f7b", w: "#3d5a80" }),
+    fish: sprite([
+      "......###.....",
+      "...#######...#",
+      ".##########.##",
+      "##o#########..",
+      ".##########.##",
+      "...#######...#",
+      "......###.....",
+    ], { "#": "#5ce1ff", o: "#07202b" }),
+    squid: sprite([
+      "....#....",
+      "...###...",
+      "..#####..",
+      "..##h##..",
+      "..#####..",
+      ".#######.",
+      "##.###.##",
+      "..#o#o#..",
+      "..#####..",
+      ".#.#.#.#.",
+      ".#.#.#.#.",
+      "#..#.#..#",
+      "#.#...#.#",
+      "..#...#..",
+    ], { "#": "#ff4f7b", h: "#ff9ab3", o: "#2a0712" }),
+    angler: sprite([
+      "....L.........",
+      ".....#........",
+      "......#.......",
+      "...######....#",
+      ".##########.##",
+      "#o##########.#",
+      "##########..##",
+      "#V#V#V####...#",
+      ".#########....",
+      "..######......",
+    ], { "#": "#ffc94d", L: "#fffbe0", o: "#2b1d00", V: "#fff6d8" }),
+  };
+
+  // ---------------------------------------------------------------- canvas world
+  const cv = $("sea"), ctx = cv.getContext("2d");
+  let W = 0, H = 0, DPR = 1, ppm = 1;
+  function resize() {
+    DPR = Math.min(window.devicePixelRatio || 1, 2);
+    W = window.innerWidth; H = window.innerHeight;
+    cv.width = Math.round(W * DPR); cv.height = Math.round(H * DPR);
+    ctx.setTransform(DPR, 0, 0, DPR, 0, 0);
+    ctx.imageSmoothingEnabled = false;
+    ppm = H / 340;
+  }
+  window.addEventListener("resize", resize); resize();
+
+  const cam = { y: -40, from: -40, to: -40, t0: 0, dur: 1 };
+  function camTo(y, dur) { cam.from = cam.y; cam.to = y; cam.t0 = performance.now(); cam.dur = dur; }
+  const krillY = () => H * 0.47;
+  const toScreen = (m) => krillY() + (m - cam.y) * ppm;
+
+  const snow = Array.from({ length: 90 }, () => ({ x: Math.random(), y: Math.random() * 4000, z: 0.3 + Math.random() * 0.7, r: Math.random() < 0.15 ? 2 : 1 }));
+  const fish = [];
+  const bubbles = [];
+  const clouds = [
+    { x: 0.12, m: -230, w: 9 }, { x: 0.62, m: -260, w: 7 }, { x: 0.86, m: -150, w: 10 }, { x: 0.35, m: -140, w: 6 },
+  ];
+
+  function waterColor(m) {
+    if (m <= WATER[0][0]) return WATER[0][1];
+    for (let i = 1; i < WATER.length; i++) {
+      if (m <= WATER[i][0]) {
+        const [m0, c0] = WATER[i - 1], [m1, c1] = WATER[i];
+        const t = (m - m0) / (m1 - m0);
+        return c0.map((c, k) => Math.round(c + (c1[k] - c) * t));
+      }
+    }
+    return WATER[WATER.length - 1][1];
+  }
+  const rgb = (c, a = 1) => `rgba(${c[0]},${c[1]},${c[2]},${a})`;
+
+  function spawnFish(initial) {
+    const deep = cam.y > 1100;
+    const dir = Math.random() < 0.5 ? 1 : -1;
+    fish.push({
+      x: initial ? Math.random() * W : dir > 0 ? -40 : W + 40,
+      m: cam.y + (Math.random() * 2 - 0.6) * (H / ppm) * 0.6,
+      v: (12 + Math.random() * 28) * dir,
+      s: 1 + Math.floor(Math.random() * 3),
+      glow: deep, hue: Math.random() < 0.3 ? "#ff4f7b" : "#5ce1ff", ph: Math.random() * 6,
+    });
+  }
+
+  let last = performance.now();
+  function frame(now) {
+    const dt = Math.min(0.05, (now - last) / 1000); last = now;
+    // camera tween
+    const k = Math.min(1, (now - cam.t0) / cam.dur);
+    const e = k < 0.5 ? 4 * k * k * k : 1 - Math.pow(-2 * k + 2, 3) / 2;
+    const prevY = cam.y;
+    cam.y = cam.from + (cam.to - cam.from) * e;
+    const moving = Math.abs(cam.y - prevY) > 0.05;
+
+    ctx.clearRect(0, 0, W, H);
+    // background bands
+    const band = 6;
+    for (let y = 0; y < H; y += band) {
+      const m = cam.y + (y - krillY()) / ppm;
+      if (m < 0) {
+        const t = Math.min(1, -m / 340);
+        ctx.fillStyle = `rgb(${Math.round(214 - 70 * t)},${Math.round(236 - 40 * t)},${Math.round(246 - 12 * t)})`;
+      } else ctx.fillStyle = rgb(waterColor(m));
+      ctx.fillRect(0, y, W, band + 1);
+    }
+
+    const surf = toScreen(0);
+    // sky things
+    if (surf > 0) {
+      // sun
+      const sunY = toScreen(-290), sx = W * 0.84;
+      if (sunY > -80) {
+        ctx.fillStyle = "rgba(255,235,150,0.25)"; ctx.fillRect(sx - 56, sunY - 56, 112, 112);
+        ctx.fillStyle = "#ffd86b"; ctx.fillRect(sx - 38, sunY - 38, 76, 76);
+        ctx.fillStyle = "#ffe89a"; ctx.fillRect(sx - 30, sunY - 30, 52, 52);
+      }
+      clouds.forEach((c, i) => {
+        const cy = toScreen(c.m), p = 8;
+        let cx = ((c.x * W + now * 0.006 * (i % 2 ? 1 : 0.6)) % (W + 200)) - 100;
+        ctx.fillStyle = "rgba(255,255,255,0.92)";
+        ctx.fillRect(cx, cy, c.w * p * 2, p * 2);
+        ctx.fillRect(cx + p * 2, cy - p * 2, c.w * p * 1.2, p * 2);
+        ctx.fillRect(cx + p * 5, cy - p * 3.5, c.w * p * 0.6, p * 2);
+        ctx.fillStyle = "rgba(200,224,240,0.9)"; ctx.fillRect(cx, cy + p * 2, c.w * p * 2, p);
+      });
+      // boat
+      const bs = 4, bx = W * 0.3;
+      ctx.drawImage(SPR.boat, bx, surf - SPR.boat.height * bs + 6 + Math.sin(now / 700) * 2, SPR.boat.width * bs, SPR.boat.height * bs);
+      // waves
+      ctx.fillStyle = "#1f5f8f";
+      for (let x = 0; x < W; x += 4) {
+        const wy = surf + Math.round(Math.sin(x / 40 + now / 600) * 3 + Math.sin(x / 13 + now / 900) * 1.5);
+        ctx.fillRect(x, wy, 4, surf - wy + 8);
+      }
+      ctx.fillStyle = "rgba(255,255,255,0.35)"; ctx.fillRect(0, surf + 6, W, 2);
+    }
+
+    // light rays near the surface
+    if (cam.y < 500) {
+      const a = Math.max(0, 0.07 * (1 - Math.max(0, cam.y) / 500));
+      ctx.fillStyle = `rgba(190,230,255,${a})`;
+      for (let i = 0; i < 5; i++) {
+        const x = W * (0.15 + i * 0.19) + Math.sin(now / 3000 + i) * 20, top = Math.max(0, surf);
+        ctx.beginPath(); ctx.moveTo(x, top); ctx.lineTo(x + 40, top); ctx.lineTo(x + 160, H); ctx.lineTo(x + 70, H); ctx.fill();
+      }
+    }
+
+    // marine snow
+    snow.forEach((p) => {
+      let y = ((p.y - cam.y * ppm * p.z) % H + H) % H;
+      if (toScreen(0) > y) return;
+      p.x += (dt * 0.004) * (p.z - 0.5);
+      const x = ((p.x % 1) + 1) % 1 * W;
+      ctx.fillStyle = `rgba(200,225,255,${0.12 + p.z * 0.25})`;
+      ctx.fillRect(Math.round(x), Math.round(y), p.r, p.r);
+    });
+
+    // fish
+    if (fish.length < 9 && Math.random() < 0.03) spawnFish(false);
+    for (let i = fish.length - 1; i >= 0; i--) {
+      const f = fish[i];
+      f.x += f.v * dt;
+      const y = toScreen(f.m);
+      if (f.x < -80 || f.x > W + 80 || y < -H || y > 2 * H) { fish.splice(i, 1); continue; }
+      if (f.m < 5) continue;
+      if (f.glow) {
+        const a = 0.5 + 0.5 * Math.sin(now / 400 + f.ph);
+        ctx.fillStyle = f.hue; ctx.globalAlpha = 0.25 * a; ctx.fillRect(f.x - 5, y - 5, 10, 10);
+        ctx.globalAlpha = 0.8 * a; ctx.fillRect(f.x - 1, y - 1, 3, 3); ctx.globalAlpha = 1;
+      } else {
+        const s = f.s * 2, d = Math.sign(f.v);
+        ctx.fillStyle = rgb(waterColor(f.m).map((c) => c * 0.35));
+        ctx.fillRect(f.x - 4 * s, y - s, 8 * s, 2 * s);
+        ctx.fillRect(f.x - 3 * s, y - 1.5 * s, 6 * s, 3 * s);
+        ctx.fillRect(f.x - d * 5 * s - s / 2, y - 1.5 * s, s, 3 * s);
+      }
+    }
+
+    // fact labels
+    ctx.font = "15px 'VT323', monospace";
+    ctx.textBaseline = "middle";
+    if (state.phase !== "title") FACTS.forEach(([m, txt, big]) => {
+      if (m >= TRENCH && state.mode && m > TRENCH) return;
+      const y = toScreen(m);
+      if (y < -20 || y > H + 20) return;
+      const left = txt.startsWith("──");
+      ctx.font = big ? "17px 'VT323', monospace" : "15px 'VT323', monospace";
+      const dim = state.phase === "result" ? 0.35 : 1;
+      ctx.fillStyle = big ? `rgba(160,200,235,${0.55 * dim})` : `rgba(150,180,210,${0.38 * dim})`;
+      ctx.textAlign = left ? "left" : "right";
+      ctx.fillText(txt, left ? Math.max(12, W * 0.05) : Math.min(W - 60, W * 0.9), y);
+    });
+
+    // trench floor
+    if (state.mode) {
+      const fy = toScreen(TRENCH);
+      if (fy < H + 10) {
+        ctx.fillStyle = "#0b0d14";
+        for (let x = 0; x < W; x += 8) {
+          const h = 10 + Math.abs(Math.sin(x * 0.037) * 22 + Math.sin(x * 0.11) * 8);
+          ctx.fillRect(x, fy - h + 14, 8, H);
+        }
+        ctx.fillStyle = "#151a26"; ctx.fillRect(0, fy + 14, W, H);
+      }
+    }
+
+    // bubbles
+    if (moving && cam.to > cam.from && Math.random() < 0.6) {
+      bubbles.push({ x: W * 0.15 + (Math.random() - 0.5) * 30, y: krillY(), r: 1 + Math.random() * 3, v: 40 + Math.random() * 60 });
+    }
+    for (let i = bubbles.length - 1; i >= 0; i--) {
+      const b = bubbles[i];
+      b.y -= b.v * dt + (cam.y - prevY) * ppm; b.x += Math.sin(b.y / 12) * 0.4;
+      if (b.y < -10 || b.y < toScreen(0)) { bubbles.splice(i, 1); continue; }
+      ctx.strokeStyle = "rgba(210,235,255,0.55)"; ctx.lineWidth = 1;
+      ctx.strokeRect(Math.round(b.x), Math.round(b.y), b.r * 2, b.r * 2);
+    }
+
+    // depth ruler
+    const rx = W - 6;
+    ctx.fillStyle = "rgba(170,200,230,0.35)"; ctx.fillRect(rx, 0, 1, H);
+    const top = cam.y - krillY() / ppm, bot = cam.y + (H - krillY()) / ppm;
+    ctx.textAlign = "right"; ctx.font = "13px 'VT323', monospace";
+    for (let m = Math.ceil(Math.max(0, top) / 25) * 25; m <= bot; m += 25) {
+      const y = toScreen(m), major = m % 100 === 0;
+      ctx.fillRect(rx - (major ? 10 : 5), Math.round(y), major ? 10 : 5, 1);
+      if (major) ctx.fillText(`${m.toLocaleString()}m`, rx - 13, y);
+    }
+    if (state.phase !== "title") {
+      const y = krillY();
+      ctx.fillStyle = "#ff4f7b"; ctx.fillRect(rx - 26, y, 20, 1);
+      ctx.beginPath(); ctx.moveTo(rx - 6, y); ctx.lineTo(rx, y - 4); ctx.lineTo(rx, y + 4); ctx.fill();
+      ctx.fillText("YOU", rx - 30, y);
+    }
+
+    // krill
+    const kx = W * 0.15, ky = krillY() + Math.sin(now / 500) * 6, ks = Math.max(3, Math.round(H / 220));
+    ctx.save();
+    ctx.shadowColor = "#ff4f7b"; ctx.shadowBlur = 14;
+    ctx.translate(kx, ky); ctx.rotate(moving && cam.to > cam.from ? 0.5 : Math.sin(now / 900) * 0.08);
+    ctx.drawImage(SPR.krill, -SPR.krill.width * ks / 2, -SPR.krill.height * ks / 2, SPR.krill.width * ks, SPR.krill.height * ks);
+    ctx.restore();
+
+    // HUD depth readout follows the camera during a sink
+    if (state.phase === "sinking") el.hudDepth.textContent = fmtM(Math.max(0, cam.y));
+    requestAnimationFrame(frame);
+  }
+  for (let i = 0; i < 6; i++) spawnFish(true);
+
+  // ---------------------------------------------------------------- game state
+  const state = {
+    phase: "title", mode: store.get("mode", 20), secs: store.get("secs", 25),
+    queue: [], round: 0, score: 0, depth: 0, mpp: 1, results: [], tanks: 3,
+    prompt: null, timer: null, deadline: 0, lastTick: 0,
+  };
+  const fmtM = (m) => `${Math.round(m).toLocaleString()}m`;
+  const zoneOf = (m) => ZONES.reduce((z, [d, n]) => (m >= d ? n : z), ZONES[0][1]);
+  const pick = (a) => a[Math.floor(Math.random() * a.length)];
+  const shuffle = (a) => { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+
+  function buildQueue(n) {
+    const recent = new Set(store.get("recent", []));
+    const fresh = shuffle(PROMPTS.filter((p) => !recent.has(p.id)));
+    const stale = shuffle(PROMPTS.filter((p) => recent.has(p.id)));
+    const q = fresh.concat(stale);
+    return n ? q.slice(0, n) : q;
+  }
+  function rememberPrompt(id) {
+    const r = store.get("recent", []).filter((x) => x !== id);
+    r.push(id);
+    store.set("recent", r.slice(-Math.floor(PROMPTS.length * 0.7)));
+  }
+
+  function show(screen) {
+    ["title", "play", "end"].forEach((s) => (el[s].hidden = s !== screen));
+    el.hud.hidden = screen === "title";
+    el.menuBtn.hidden = screen !== "play";
+    el.menu.hidden = true;
+  }
+
+  // ---------------------------------------------------------------- title
+  function segInit(id, key, onChange) {
+    const seg = $(id);
+    const paint = () => seg.querySelectorAll("button").forEach((b) => b.classList.toggle("on", +b.dataset.v === state[key]));
+    seg.addEventListener("click", (e) => {
+      const b = e.target.closest("button"); if (!b) return;
+      state[key] = +b.dataset.v; store.set(key, state[key]); paint(); sfx.click(); onChange && onChange();
+    });
+    paint();
+  }
+  function refreshTitle() {
+    const stats = store.get("stats", { dives: 0, best: {} });
+    const best = stats.best[state.mode || "endless"];
+    $("diveNo").textContent = `DIVE #${stats.dives + 1}`;
+    $("bestLbl").textContent = best ? `BEST ${state.mode ? state.mode : "∞"}: ${fmtM(best.depth)} · ${best.score} PTS` : `BEST ${state.mode ? state.mode : "∞"}: —`;
+  }
+  segInit("modeSeg", "mode", refreshTitle);
+  segInit("timeSeg", "secs");
+
+  function toTitle() {
+    clearInterval(state.timer);
+    state.phase = "title";
+    show("title");
+    refreshTitle();
+    camTo(-40, 1400);
+  }
+
+  // ---------------------------------------------------------------- dive flow
+  function startDive() {
+    sfx.click();
+    const n = state.mode;
+    state.queue = buildQueue(n);
+    state.round = 0; state.score = 0; state.depth = 0; state.results = []; state.tanks = 3;
+    state.mpp = n ? TRENCH / (100 * n) : 4;
+    el.hudScore.textContent = "0"; el.hudDepth.textContent = "0m";
+    show("play");
+    camTo(0, 900);
+    setTimeout(nextPrompt, 400);
+  }
+
+  function renderProgress() {
+    const sq = el.squares; sq.innerHTML = "";
+    if (state.mode) {
+      sq.classList.toggle("tiny", state.mode > 20);
+      sq.style.maxWidth = state.mode > 30 ? "230px" : "";
+      for (let i = 0; i < state.mode; i++) {
+        const r = state.results[i], d = document.createElement("i");
+        if (r) d.className = r.tier < 0 ? "miss" : "t" + r.tier;
+        else if (i === state.round) d.className = "cur";
+        sq.appendChild(d);
+      }
+      el.progLbl.textContent = `PROMPT ${Math.min(state.round + 1, state.mode)} OF ${state.mode}`;
+    } else {
+      sq.classList.remove("tiny"); sq.style.maxWidth = "";
+      for (let i = 0; i < 3; i++) {
+        const d = document.createElement("i"); d.className = "tank" + (i < state.tanks ? "" : " empty"); sq.appendChild(d);
+      }
+      el.progLbl.textContent = `PROMPT ${state.round + 1} · ENDLESS`;
+    }
+  }
+
+  function nextPrompt() {
+    if (state.mode && state.round >= state.mode) return endDive();
+    if (!state.mode && state.tanks <= 0) return endDive();
+    if (!state.queue.length) state.queue = buildQueue(0);
+    const p = state.queue.shift();
+    state.prompt = p; rememberPrompt(p.id);
+    state.phase = "countdown";
+    el.result.hidden = true; el.banner.hidden = true;
+    el.cardK.textContent = state.mode ? `PROMPT ${state.round + 1} OF ${state.mode}` : `PROMPT ${state.round + 1}`;
+    el.cardQ.textContent = p.text;
+    el.card.classList.remove("gone"); el.card.hidden = false;
+    renderProgress();
+    el.bar.hidden = true;
+    el.countdown.hidden = false;
+    let n = 2; el.cdNum.textContent = n;
+    const cd = setInterval(() => {
+      n--; if (n > 0) { el.cdNum.textContent = n; return; }
+      clearInterval(cd); if (state.phase === "countdown") openAnswer();
+    }, 800);
+  }
+
+  function openAnswer() {
+    state.phase = "answering";
+    el.countdown.hidden = true;
+    el.bar.hidden = false; el.ans.value = ""; el.toast.classList.remove("on");
+    setTimeout(() => el.ans.focus(), 30);
+    state.deadline = performance.now() + state.secs * 1000;
+    state.lastTick = state.secs + 1;
+    updateClock();
+    clearInterval(state.timer);
+    state.timer = setInterval(updateClock, 50);
+  }
+
+  function updateClock() {
+    const left = Math.max(0, state.deadline - performance.now()) / 1000;
+    const frac = left / state.secs;
+    const s = Math.ceil(left);
+    el.clockNum.textContent = s;
+    el.ring.style.strokeDashoffset = (119.4 * (1 - frac)).toFixed(1);
+    el.timebar.style.transform = `scaleX(${frac})`;
+    el.clockNum.parentElement.classList.toggle("hurry", left <= 5);
+    if (left <= 5 && s < state.lastTick && s > 0) { sfx.tick(); }
+    state.lastTick = s;
+    if (left <= 0) { clearInterval(state.timer); resolve(null, ""); }
+  }
+
+  let toastT = 0;
+  function reject(msg) {
+    sfx.bad();
+    el.ans.classList.remove("shake"); void el.ans.offsetWidth; el.ans.classList.add("shake");
+    el.toast.textContent = msg; el.toast.classList.add("on");
+    clearTimeout(toastT); toastT = setTimeout(() => el.toast.classList.remove("on"), 1600);
+    el.ans.select();
+  }
+
+  el.bar.addEventListener("submit", (e) => {
+    e.preventDefault();
+    if (state.phase !== "answering") return;
+    const raw = el.ans.value.trim();
+    if (!raw) return;
+    const hit = judge(state.prompt, raw);
+    if (!hit) return reject(pick(["not on the charts — try another", "the krill don't recognise that", "hmm, no. try again", "that one sank without a trace"]));
+    clearInterval(state.timer);
+    resolve(hit, raw);
+  });
+
+  function resolve(hit, raw) {
+    state.phase = "sinking";
+    el.bar.hidden = true; el.ans.blur();
+    el.card.classList.add("gone");
+    const tier = hit ? hit.tier : -1;
+    const T = hit ? TIERS[tier] : MISS;
+    const pts = T.pts, sink = pts * state.mpp;
+    const res = { prompt: state.prompt.text, answer: hit ? hit.display : "", typed: raw, tier, pts };
+    state.results.push(res);
+    if (!hit && !state.mode) state.tanks--;
+    state.score += pts; state.depth += sink;
+
+    if (hit) {
+      el.banner.textContent = `“${hit.display.toUpperCase()}” ▼`;
+      el.banner.style.color = T.color;
+      el.banner.hidden = false;
+      sfx.dive();
+      const dur = Math.min(2600, 1100 + sink * 6);
+      camTo(state.depth, dur);
+      let blubs = 0; const bt = setInterval(() => { sfx.blub(); if (++blubs > 3) clearInterval(bt); }, 280);
+      setTimeout(() => showResult(res, T, sink), dur + 150);
+    } else {
+      sfx.miss();
+      setTimeout(() => showResult(res, T, 0), 500);
+    }
+  }
+
+  function drawTierIcon(tier) {
+    const c = el.tierIcon, g = c.getContext("2d");
+    g.clearRect(0, 0, c.width, c.height); g.imageSmoothingEnabled = false;
+    const put = (s, scale) => {
+      const w = s.width * scale, h = s.height * scale;
+      g.save(); g.shadowColor = tier >= 0 ? TIERS[tier].color : "#000"; g.shadowBlur = 16;
+      g.drawImage(s, (c.width - w) / 2, (c.height - h) / 2, w, h); g.restore();
+    };
+    if (tier === 0 || tier < 0) {
+      g.strokeStyle = tier < 0 ? "#44536b" : "#cfe6f5"; g.lineWidth = 3;
+      [[48, 44, 16], [70, 58, 8], [60, 74, 6], [30, 66, 5]].forEach(([x, y, r]) => { g.beginPath(); g.arc(x, y, r, 0, 7); g.stroke(); });
+      if (tier === 0) { g.fillStyle = "rgba(255,255,255,0.6)"; g.fillRect(40, 36, 5, 5); }
+    } else if (tier === 1) { // too clever: a lightbulb
+      g.save(); g.shadowColor = TIERS[1].color; g.shadowBlur = 16; g.fillStyle = TIERS[1].color;
+      g.beginPath(); g.arc(60, 52, 24, 0, 7); g.fill();
+      g.fillStyle = "#5b3a14"; g.fillRect(50, 76, 20, 6); g.fillRect(52, 84, 16, 5);
+      g.fillStyle = "rgba(255,255,255,0.55)"; g.fillRect(48, 40, 7, 7); g.restore();
+    } else if (tier === 2) put(SPR.fish, 5);
+    else if (tier === 3) put(SPR.squid, 5);
+    else if (tier === 4) put(SPR.angler, 6);
+    else put(SPR.krill, 7);
+  }
+
+  function showResult(res, T, sink) {
+    state.phase = "result";
+    el.banner.hidden = true;
+    el.hudDepth.textContent = fmtM(state.depth);
+    el.hudScore.textContent = state.score.toLocaleString();
+    state.round++;
+    renderProgress();
+    drawTierIcon(res.tier);
+    el.tName.textContent = T.name;
+    el.tName.style.color = T.color;
+    el.tName.style.textShadow = `0 0 16px ${T.color}88`;
+    el.tAns.textContent = res.answer ? `“${res.answer.charAt(0).toUpperCase() + res.answer.slice(1)}”` : "—";
+    el.tPts.textContent = `+${res.pts} PTS`;
+    el.tPts.style.color = res.pts ? T.color : "";
+    el.tSink.textContent = sink ? `sink ${fmtM(sink)}` : state.mode ? "no sink" : `oxygen: ${state.tanks} tank${state.tanks === 1 ? "" : "s"} left`;
+    el.tFlav.textContent = pick(T.flav);
+    const last = state.mode ? state.round >= state.mode : state.tanks <= 0;
+    el.descend.textContent = last ? "SURFACE THE LOG ▲" : "DESCEND ▼";
+    el.result.hidden = false;
+    if (res.tier >= 0) sfx.tier(res.tier);
+    setTimeout(() => el.descend.focus(), 50);
+  }
+  const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+  el.descend.addEventListener("click", () => {
+    if (state.phase !== "result") return;
+    sfx.click();
+    el.result.hidden = true;
+    nextPrompt();
+  });
+
+  // ---------------------------------------------------------------- end
+  function endDive() {
+    clearInterval(state.timer);
+    state.phase = "end";
+    const n = state.results.length;
+    const key = state.mode || "endless";
+    const stats = store.get("stats", { dives: 0, best: {} });
+    if (n > 0) {
+      stats.dives++;
+      const prev = stats.best[key];
+      if (!prev || state.score > prev.score) stats.best[key] = { score: state.score, depth: Math.round(state.depth) };
+      store.set("stats", stats);
+    }
+    const best = stats.best[key];
+
+    show("end");
+    $("endK").textContent = state.mode ? (n < state.mode ? `DIVE LOG · ${n} OF ${state.mode} PROMPTS` : `DIVE LOG · ${state.mode} PROMPTS`) : `DIVE LOG · ENDLESS · ${n} PROMPTS`;
+    $("endDepth").textContent = fmtM(state.depth);
+    $("endZone").textContent = zoneOf(state.depth);
+    $("endScore").textContent = state.score.toLocaleString();
+    $("endAvg").textContent = n ? Math.round(state.score / n) : 0;
+    $("endBest").textContent = best ? best.score.toLocaleString() : "—";
+
+    const counts = TIERS.map(() => 0), miss = state.results.filter((r) => r.tier < 0).length;
+    state.results.forEach((r) => r.tier >= 0 && counts[r.tier]++);
+    $("tally").innerHTML = TIERS.map((t, i) => `<span class="c-t${i}"><i class="b-t${i}"></i>${t.name} ×${counts[i]}</span>`).join("") +
+      (miss ? `<span class="c-miss"><i class="b-miss"></i>MISSED ×${miss}</span>` : "");
+    $("grid").innerHTML = state.results.map((r) => `<i class="${r.tier < 0 ? "b-miss" : "b-t" + r.tier}" title="${esc(r.prompt)}"></i>`).join("");
+    $("ansList").innerHTML = state.results.map((r) =>
+      `<li>${esc(r.prompt)} — <b class="${r.tier < 0 ? "c-miss" : "c-t" + r.tier}">${r.answer ? esc(r.answer) : "nothing"}</b> <span>+${r.pts}</span></li>`).join("");
+  }
+
+  function shareText() {
+    const head = state.mode ? `KRILLION UNLIMITED · ${state.mode}-prompt dive` : `KRILLION UNLIMITED · endless dive (${state.results.length})`;
+    const rows = [];
+    for (let i = 0; i < state.results.length; i += 10) {
+      rows.push(state.results.slice(i, i + 10).map((r) => (r.tier < 0 ? MISS.emoji : TIERS[r.tier].emoji)).join(""));
+    }
+    return `${head}\n🦐 ${fmtM(state.depth)} · ${state.score} pts · ${zoneOf(state.depth).toLowerCase()}\n${rows.join("\n")}`;
+  }
+  $("shareBtn").addEventListener("click", async () => {
+    const txt = shareText(), b = $("shareBtn");
+    try {
+      if (navigator.share && matchMedia("(pointer: coarse)").matches) await navigator.share({ text: txt });
+      else { await navigator.clipboard.writeText(txt); b.textContent = "COPIED ✓"; setTimeout(() => (b.textContent = "SHARE"), 1600); }
+    } catch (e) { b.textContent = "COPY FAILED"; setTimeout(() => (b.textContent = "SHARE"), 1600); }
+  });
+  $("againBtn").addEventListener("click", () => { camTo(-40, 800); startDive(); });
+  $("homeBtn").addEventListener("click", () => { sfx.click(); toTitle(); });
+
+  // ---------------------------------------------------------------- answer bank (GitHub)
+  // All prompts + answers come from https://github.com/hazzatazza/krillionanswerbank
+  // Every *.json file there is one prompt: { "question": "...", "answers": [{ "title": "...", "tier": "..." }] }
+  const BANK_REPO = "hazzatazza/krillionanswerbank"; // (unused now: files are loaded from the same folder as this page)
+  const BANK_FALLBACK_FILES = [
+    "name-a-beatles-song.json",
+    "name-a-bird-of-prey.json",
+    "name-a-board-game.json",
+    "name-a-bone-in-the-human-body.json",
+    "name-a-breakfast-cereal-brand.json",
+    "name-a-card-game.json",
+    "name-a-cheese.json",
+    "name-a-citrus-fruit.json",
+    "name-a-city-that-has-hosted-the-summer-or-winter-olympics.json",
+    "name-a-cocktail.json",
+    "name-a-coffee-drink.json",
+    "name-a-country-in-africa.json",
+    "name-a-country-in-asia.json",
+    "name-a-country-in-the-americas.json",
+    "name-a-country-with-a-mediterranean-coastline.json",
+    "name-a-desert.json",
+    "name-a-dinosaur.json",
+    "name-a-dog-breed.json",
+    "name-a-former-republic-of-the-soviet-union.json",
+    "name-a-gemstone.json",
+    "name-a-greek-god-or-goddess.json",
+    "name-a-greek-letter.json",
+    "name-a-harry-potter-character.json",
+    "name-a-james-bond-film.json",
+    "name-a-landlocked-country.json",
+    "name-a-language-spoken-in-europe.json",
+    "name-a-martial-art.json",
+    "name-a-moon-of-a-planet-in-our-solar-system.json",
+    "name-a-movie-that-won-the-best-picture-oscar.json",
+    "name-a-muscle-in-the-human-body.json",
+    "name-a-mythical-creature.json",
+    "name-a-nut.json",
+    "name-a-penguin-species.json",
+    "name-a-pixar-film.json",
+    "name-a-pizza-topping.json",
+    "name-a-programming-language.json",
+    "name-a-river-in-europe.json",
+    "name-a-roman-emperor.json",
+    "name-a-root-vegetable.json",
+    "name-a-scooby-doo-character.json",
+    "name-a-shakespeare-play.json",
+    "name-a-shark-species.json",
+    "name-a-snake-species.json",
+    "name-a-species-of-wild-cat.json",
+    "name-a-studio-ghibli-film.json",
+    "name-a-style-of-dance.json",
+    "name-a-style-of-hat.json",
+    "name-a-summer-olympic-sport.json",
+    "name-a-tropical-fruit.json",
+    "name-a-tv-sitcom.json",
+    "name-a-type-of-bread.json",
+    "name-a-type-of-cloud.json",
+    "name-a-type-of-flower.json",
+    "name-a-type-of-pasta.json",
+    "name-a-unit-of-measurement.json",
+    "name-a-us-president.json",
+    "name-a-us-state-capital.json",
+    "name-a-venomous-or-poisonous-animal.json",
+    "name-a-video-game-console.json",
+    "name-a-walt-disney-animation-studios-feature-film.json",
+    "name-a-whale-species.json",
+    "name-an-animal-that-starts-with-k.json",
+    "name-an-element-that-ends-in-ium.json",
+    "name-an-herb-or-spice.json",
+    "name-an-island-country.json",
+    "name-an-nba-team.json",
+    "name-an-officially-recognized-constellation.json",
+    "name-an-olympic-track-and-field-event.json",
+    "name-an-orchestral-instrument.json",
+    "name-the-capital-city-of-a-european-country.json"
+  ];
+  const enc = encodeURIComponent;
+  async function fetchJSON(url) { const r = await fetch(url, { cache: "no-cache" }); if (!r.ok) throw new Error(r.status); return r.json(); }
+
+  // File list: optional index.json ({"files":["a.json", ...]} or [{name}]) in the same folder, else the built-in names.
+  async function bankNames() {
+    try {
+      const j = await fetchJSON("index.json");
+      const arr = Array.isArray(j) ? j : j.files;
+      const names = (arr || []).map((f) => (typeof f === "string" ? f : f && f.name)).filter((n) => n && /\.json$/i.test(n) && n !== "index.json");
+      if (names.length) return names;
+    } catch (e) { /* no index.json */ }
+    return BANK_FALLBACK_FILES;
+  }
+
+  function applyBank(raw) {
+    const seen = new Set();
+    PROMPTS.length = 0;
+    raw.forEach((j) => {
+      const p = compileBank(j);
+      if (p && !seen.has(p.id)) { seen.add(p.id); PROMPTS.push(p); }
+    });
+  }
+
+  let bankReady = false, bankLoading = null;
+  function bankStatus() {
+    const b = $("begin");
+    b.disabled = !bankReady;
+    b.textContent = bankReady ? "DESCEND ∞ ↓" : "LOADING PROMPTS…";
+  }
+
+  // Loads the JSON files that sit next to this html file (same repo / same folder).
+  function loadBank() {
+    if (bankLoading) return bankLoading;
+    bankLoading = (async () => {
+      const names = await bankNames();
+      const out = [];
+      for (let i = 0; i < names.length; i += 12) {
+        const got = await Promise.all(names.slice(i, i + 12).map((n) => fetchJSON(enc(n)).catch(() => null)));
+        got.forEach((j) => j && out.push(j));
+      }
+      applyBank(out);
+      bankReady = PROMPTS.length > 0; bankStatus();
+      if (!bankReady) throw new Error("empty");
+    })().catch(() => {
+      bankLoading = null; // allow retry
+      const b = $("begin");
+      if (!bankReady) { b.disabled = false; b.textContent = "COULDN'T LOAD PROMPTS · RETRY"; }
+    });
+    return bankLoading;
+  }
+  bankStatus();
+
+  // ---------------------------------------------------------------- controls
+  $("begin").addEventListener("click", () => { if (!bankReady) { $("begin").textContent = "LOADING PROMPTS…"; $("begin").disabled = true; loadBank().then(bankStatus); return; } startDive(); });
+  el.soundBtn.addEventListener("click", () => { muted = !muted; store.set("muted", muted); applyMuted(); sfx.click(); });
+  el.menuBtn.addEventListener("click", () => { el.menu.hidden = !el.menu.hidden; });
+  el.menu.addEventListener("click", (e) => {
+    const b = e.target.closest("button"); if (!b) return;
+    el.menu.hidden = true;
+    if (b.dataset.act === "surface") endDive();
+    if (b.dataset.act === "quit") toTitle();
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") { el.menu.hidden = true; return; }
+    if (state.phase === "title" && bankReady && e.key === "Enter" && !e.target.closest("button, summary")) startDive();
+  });
+
+  loadBank();
+  toTitle();
+  cam.y = cam.from = cam.to = -40;
+  requestAnimationFrame(frame);
+})();
+
+</script>
+</body>
+</html>
