@@ -1,0 +1,129 @@
+{
+  "question": "Name a Pixar film",
+  "answers": [
+    {
+      "title": "Elio",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Cars 3",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Onward",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cars 2",
+      "tier": "Rare"
+    },
+    {
+      "title": "Elemental",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hoppers",
+      "tier": "Rare"
+    },
+    {
+      "title": "Incredibles 2",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lightyear",
+      "tier": "Rare"
+    },
+    {
+      "title": "Toy Story 4",
+      "tier": "Rare"
+    },
+    {
+      "title": "Toy Story 5",
+      "tier": "Rare"
+    },
+    {
+      "title": "Turning Red",
+      "tier": "Rare"
+    },
+    {
+      "title": "A Bug's Life",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Brave",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cars",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Coco",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Finding Dory",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Inside Out 2",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Luca",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Monsters University",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ratatouille",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Soul",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Toy Story 2",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Toy Story 3",
+      "tier": "Schooler"
+    },
+    {
+      "title": "WALL-E",
+      "tier": "Schooler"
+    },
+    {
+      "title": "The Good Dinosaur",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Finding Nemo",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Inside Out",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Monsters, Inc.",
+      "tier": "Plankton"
+    },
+    {
+      "title": "The Incredibles",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Toy Story",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Up",
+      "tier": "Plankton"
+    }
+  ]
+}

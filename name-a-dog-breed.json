@@ -1,0 +1,457 @@
+{
+  "question": "Name a dog breed",
+  "answers": [
+    {
+      "title": "Lagotto Romagnolo",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Affenpinscher",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Airedale Terrier",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "American Foxhound",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Anatolian Shepherd",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Azawakh",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bluetick Coonhound",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Borzoi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Brittany",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Brussels Griffon",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bullmastiff",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cairn Terrier",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Catahoula Leopard Dog",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Chesapeake Bay Retriever",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Chinese Crested",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Clumber Spaniel",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dogue de Bordeaux",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dutch Shepherd",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "English Setter",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Flat-Coated Retriever",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fox Terrier",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Gordon Setter",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Irish Wolfhound",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kangal",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kelpie",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Komondor",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Leonberger",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Miniature Pinscher",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mudi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Neapolitan Mastiff",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Newfoundland",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Norwegian Elkhound",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nova Scotia Duck Tolling Retriever",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Otterhound",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pharaoh Hound",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Portuguese Water Dog",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Presa Canario",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Puli",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rat Terrier",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Saluki",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Scottish Deerhound",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tibetan Mastiff",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Xoloitzcuintli",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Afghan Hound",
+      "tier": "Rare"
+    },
+    {
+      "title": "Akita",
+      "tier": "Rare"
+    },
+    {
+      "title": "Alaskan Malamute",
+      "tier": "Rare"
+    },
+    {
+      "title": "Australian Cattle Dog",
+      "tier": "Rare"
+    },
+    {
+      "title": "Belgian Malinois",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bernese Mountain Dog",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bichon Frise",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bloodhound",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bull Terrier",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cane Corso",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cavalier King Charles Spaniel",
+      "tier": "Rare"
+    },
+    {
+      "title": "Chow Chow",
+      "tier": "Rare"
+    },
+    {
+      "title": "German Shorthaired Pointer",
+      "tier": "Rare"
+    },
+    {
+      "title": "Great Pyrenees",
+      "tier": "Rare"
+    },
+    {
+      "title": "Havanese",
+      "tier": "Rare"
+    },
+    {
+      "title": "Irish Setter",
+      "tier": "Rare"
+    },
+    {
+      "title": "Italian Greyhound",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lhasa Apso",
+      "tier": "Rare"
+    },
+    {
+      "title": "Maltese",
+      "tier": "Rare"
+    },
+    {
+      "title": "Old English Sheepdog",
+      "tier": "Rare"
+    },
+    {
+      "title": "Papillon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pekingese",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pointer",
+      "tier": "Rare"
+    },
+    {
+      "title": "Rhodesian Ridgeback",
+      "tier": "Rare"
+    },
+    {
+      "title": "Samoyed",
+      "tier": "Rare"
+    },
+    {
+      "title": "Scottish Terrier",
+      "tier": "Rare"
+    },
+    {
+      "title": "Shar Pei",
+      "tier": "Rare"
+    },
+    {
+      "title": "Shetland Sheepdog",
+      "tier": "Rare"
+    },
+    {
+      "title": "Springer Spaniel",
+      "tier": "Rare"
+    },
+    {
+      "title": "Staffordshire Bull Terrier",
+      "tier": "Rare"
+    },
+    {
+      "title": "Vizsla",
+      "tier": "Rare"
+    },
+    {
+      "title": "Weimaraner",
+      "tier": "Rare"
+    },
+    {
+      "title": "West Highland White Terrier",
+      "tier": "Rare"
+    },
+    {
+      "title": "Whippet",
+      "tier": "Rare"
+    },
+    {
+      "title": "Australian Shepherd",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Basset Hound",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Beagle",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Border Collie",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Boston Terrier",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Boxer",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Chihuahua",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cocker Spaniel",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Collie",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Dachshund",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Dalmatian",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Doberman",
+      "tier": "Schooler"
+    },
+    {
+      "title": "French Bulldog",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Goldendoodle",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Great Dane",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Greyhound",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Husky",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Jack Russell Terrier",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Labradoodle",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Mastiff",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pit Bull",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pomeranian",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pug",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Rottweiler",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Saint Bernard",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Schnauzer",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Shiba Inu",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Shih Tzu",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Yorkshire Terrier",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Basenji",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Corgi",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Bulldog",
+      "tier": "Plankton"
+    },
+    {
+      "title": "German Shepherd",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Golden Retriever",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Labrador Retriever",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Poodle",
+      "tier": "Plankton"
+    }
+  ]
+}

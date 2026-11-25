@@ -1,0 +1,841 @@
+{
+  "question": "Name a Beatles song",
+  "answers": [
+    {
+      "title": "The Inner Light",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "A Taste of Honey",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Act Naturally",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "All I've Got to Do",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "All Together Now",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "And Your Bird Can Sing",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Anna (Go to Him)",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Another Girl",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Any Time at All",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ask Me Why",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Baby You're a Rich Man",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Baby's in Black",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bad Boy",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Because",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Being for the Benefit of Mr. Kite!",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Blue Jay Way",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Boys",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Carry That Weight",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Chains",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Christmas Time (Is Here Again)",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cry Baby Cry",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Devil in Her Heart",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dig a Pony",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dig It",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dizzy Miss Lizzy",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Do You Want to Know a Secret",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Doctor Robert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Don't Bother Me",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Don't Pass Me By",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Every Little Thing",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Everybody's Trying to Be My Baby",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fixing a Hole",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Flying",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "For No One",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "For You Blue",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Free as a Bird",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Getting Better",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Girl",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Glass Onion",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Good Morning Good Morning",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Good Night",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Happiness Is a Warm Gun",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Her Majesty",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hey Bulldog",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hold Me Tight",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Honey Don't",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Honey Pie",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "I Call Your Name",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "I Don't Want to Spoil the Party",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "I Me Mine",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "I Wanna Be Your Man",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "I Want to Tell You",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "I Want You (She's So Heavy)",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "I Will",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "I'll Be Back",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "I'll Cry Instead",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "I'll Follow the Sun",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "I'll Get You",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "I'm a Loser",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "I'm Down",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "I'm Looking Through You",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "I'm Only Sleeping",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "I'm So Tired",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "I've Got a Feeling",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "I've Just Seen a Face",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "If I Fell",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "If I Needed Someone",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "It Won't Be Long",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "It's All Too Much",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Julia",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kansas City / Hey-Hey-Hey-Hey!",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Komm, gib mir deine Hand",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Little Child",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Long Tall Sally",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Long, Long, Long",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Love You To",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Lovely Rita",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Maggie Mae",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Martha My Dear",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Matchbox",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mean Mr. Mustard",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Misery",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Money (That's What I Want)",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mother Nature's Son",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mr. Moonlight",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "No Reply",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Not a Second Time",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Old Brown Shoe",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "One After 909",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Only a Northern Song",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "P.S. I Love You",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Piggies",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Please Mister Postman",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Polythene Pam",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rain",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Real Love",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rock and Roll Music",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rocky Raccoon",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Roll Over Beethoven",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Run for Your Life",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Savoy Truffle",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sexy Sadie",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "She Came In Through the Bathroom Window",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "She Said She Said",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "She's a Woman",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "She's Leaving Home",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sie liebt dich",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Slow Down",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sun King",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tell Me What You See",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tell Me Why",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Thank You Girl",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "The Continuing Story of Bungalow Bill",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "The End",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "The Word",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "There's a Place",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Things We Said Today",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Think for Yourself",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "This Boy",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Till There Was You",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Two of Us",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Wait",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "What Goes On",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "When I Get Home",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Why Don't We Do It in the Road?",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Wild Honey Pie",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Within You Without You",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Words of Love",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Yer Blues",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Yes It Is",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "You Can't Do That",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "You Know My Name (Look Up the Number)",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "You Like Me Too Much",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "You Never Give Me Your Money",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "You Won't See Me",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "You've Really Got a Hold on Me",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "You're Going to Lose That Girl",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Your Mother Should Know",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Across the Universe",
+      "tier": "Rare"
+    },
+    {
+      "title": "All My Loving",
+      "tier": "Rare"
+    },
+    {
+      "title": "And I Love Her",
+      "tier": "Rare"
+    },
+    {
+      "title": "Birthday",
+      "tier": "Rare"
+    },
+    {
+      "title": "Can't Buy Me Love",
+      "tier": "Rare"
+    },
+    {
+      "title": "Day Tripper",
+      "tier": "Rare"
+    },
+    {
+      "title": "Dear Prudence",
+      "tier": "Rare"
+    },
+    {
+      "title": "Don't Let Me Down",
+      "tier": "Rare"
+    },
+    {
+      "title": "Drive My Car",
+      "tier": "Rare"
+    },
+    {
+      "title": "Eight Days a Week",
+      "tier": "Rare"
+    },
+    {
+      "title": "From Me to You",
+      "tier": "Rare"
+    },
+    {
+      "title": "Golden Slumbers",
+      "tier": "Rare"
+    },
+    {
+      "title": "Good Day Sunshine",
+      "tier": "Rare"
+    },
+    {
+      "title": "Got to Get You into My Life",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hello, Goodbye",
+      "tier": "Rare"
+    },
+    {
+      "title": "Here, There and Everywhere",
+      "tier": "Rare"
+    },
+    {
+      "title": "I Feel Fine",
+      "tier": "Rare"
+    },
+    {
+      "title": "I Saw Her Standing There",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lady Madonna",
+      "tier": "Rare"
+    },
+    {
+      "title": "Magical Mystery Tour",
+      "tier": "Rare"
+    },
+    {
+      "title": "Maxwell's Silver Hammer",
+      "tier": "Rare"
+    },
+    {
+      "title": "Michelle",
+      "tier": "Rare"
+    },
+    {
+      "title": "Now and Then",
+      "tier": "Rare"
+    },
+    {
+      "title": "Nowhere Man",
+      "tier": "Rare"
+    },
+    {
+      "title": "Oh! Darling",
+      "tier": "Rare"
+    },
+    {
+      "title": "Paperback Writer",
+      "tier": "Rare"
+    },
+    {
+      "title": "Please Please Me",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "tier": "Rare"
+    },
+    {
+      "title": "She Loves You",
+      "tier": "Rare"
+    },
+    {
+      "title": "Taxman",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Ballad of John and Yoko",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Fool on the Hill",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Long and Winding Road",
+      "tier": "Rare"
+    },
+    {
+      "title": "Ticket to Ride",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tomorrow Never Knows",
+      "tier": "Rare"
+    },
+    {
+      "title": "We Can Work It Out",
+      "tier": "Rare"
+    },
+    {
+      "title": "With a Little Help from My Friends",
+      "tier": "Rare"
+    },
+    {
+      "title": "You've Got to Hide Your Love Away",
+      "tier": "Rare"
+    },
+    {
+      "title": "A Day in the Life",
+      "tier": "Schooler"
+    },
+    {
+      "title": "A Hard Day's Night",
+      "tier": "Schooler"
+    },
+    {
+      "title": "All You Need Is Love",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Back in the U.S.S.R.",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Blackbird",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Eleanor Rigby",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Get Back",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Help!",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Helter Skelter",
+      "tier": "Schooler"
+    },
+    {
+      "title": "I Am the Walrus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "I Want to Hold Your Hand",
+      "tier": "Schooler"
+    },
+    {
+      "title": "In My Life",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Love Me Do",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Lucy in the Sky with Diamonds",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Norwegian Wood",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ob-La-Di, Ob-La-Da",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Octopus's Garden",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Penny Lane",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Revolution",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Something",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Strawberry Fields Forever",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Twist and Shout",
+      "tier": "Schooler"
+    },
+    {
+      "title": "When I'm Sixty-Four",
+      "tier": "Schooler"
+    },
+    {
+      "title": "While My Guitar Gently Weeps",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Yellow Submarine",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Revolution 9",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Come Together",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Here Comes the Sun",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Hey Jude",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Let It Be",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Yesterday",
+      "tier": "Plankton"
+    }
+  ]
+}

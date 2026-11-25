@@ -1,0 +1,233 @@
+{
+  "question": "Name a type of pasta",
+  "answers": [
+    {
+      "title": "Su filindeu",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Acini di pepe",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Anelli",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bigoli",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Calamarata",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cappelletti",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Casarecce",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cavatelli",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fideo",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fregola",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Garganelli",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Lumache",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mafaldine",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Malloreddus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Paccheri",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pici",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Radiatori",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Spatzle",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Stelline",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Strozzapreti",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tortiglioni",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Trenette",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Trofie",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Agnolotti",
+      "tier": "Rare"
+    },
+    {
+      "title": "Alphabet pasta",
+      "tier": "Rare"
+    },
+    {
+      "title": "Campanelle",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cannelloni",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cavatappi",
+      "tier": "Rare"
+    },
+    {
+      "title": "Ditalini",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gemelli",
+      "tier": "Rare"
+    },
+    {
+      "title": "Manicotti",
+      "tier": "Rare"
+    },
+    {
+      "title": "Mostaccioli",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pappardelle",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pastina",
+      "tier": "Rare"
+    },
+    {
+      "title": "Rotelle",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tagliatelle",
+      "tier": "Rare"
+    },
+    {
+      "title": "Vermicelli",
+      "tier": "Rare"
+    },
+    {
+      "title": "Angel hair",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Conchiglie",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Farfalle",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Fettuccine",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Fusilli",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Gnocchi",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Lasagna",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Linguine",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Orzo",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ravioli",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Rigatoni",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Rotini",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Tortellini",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ziti",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Bucatini",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Couscous",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Orecchiette",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Macaroni",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Penne",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Spaghetti",
+      "tier": "Plankton"
+    }
+  ]
+}

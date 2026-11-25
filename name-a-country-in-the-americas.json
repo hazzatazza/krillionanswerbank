@@ -1,0 +1,145 @@
+{
+  "question": "Name a country in the Americas",
+  "answers": [
+    {
+      "title": "Saint Kitts and Nevis",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Antigua and Barbuda",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dominica",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Grenada",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Saint Lucia",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Saint Vincent and the Grenadines",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bahamas",
+      "tier": "Rare"
+    },
+    {
+      "title": "Barbados",
+      "tier": "Rare"
+    },
+    {
+      "title": "Belize",
+      "tier": "Rare"
+    },
+    {
+      "title": "Guyana",
+      "tier": "Rare"
+    },
+    {
+      "title": "Paraguay",
+      "tier": "Rare"
+    },
+    {
+      "title": "Trinidad and Tobago",
+      "tier": "Rare"
+    },
+    {
+      "title": "Argentina",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Bolivia",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Chile",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Colombia",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Costa Rica",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cuba",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Dominican Republic",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ecuador",
+      "tier": "Schooler"
+    },
+    {
+      "title": "El Salvador",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Guatemala",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Haiti",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Honduras",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Jamaica",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Nicaragua",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Panama",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Peru",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Uruguay",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Venezuela",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Suriname",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Brazil",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Canada",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Mexico",
+      "tier": "Plankton"
+    },
+    {
+      "title": "United States",
+      "tier": "Plankton"
+    }
+  ]
+}

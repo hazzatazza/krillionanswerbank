@@ -1,0 +1,249 @@
+{
+  "question": "Name a cheese",
+  "answers": [
+    {
+      "title": "Vacherin Mont d'Or",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Appenzeller",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Beaufort",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Brunost",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Caerphilly",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cheshire",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Double Gloucester",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Epoisses",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Lancashire",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mimolette",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Morbier",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Neufchatel",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Oaxaca cheese",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ossau-Iraty",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Port Salut",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Raclette",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Reblochon",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Red Leicester",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Scamorza",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Taleggio",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Wensleydale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Asiago",
+      "tier": "Rare"
+    },
+    {
+      "title": "Comte",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cotija",
+      "tier": "Rare"
+    },
+    {
+      "title": "Edam",
+      "tier": "Rare"
+    },
+    {
+      "title": "Fontina",
+      "tier": "Rare"
+    },
+    {
+      "title": "Goat cheese",
+      "tier": "Rare"
+    },
+    {
+      "title": "Grana Padano",
+      "tier": "Rare"
+    },
+    {
+      "title": "Halloumi",
+      "tier": "Rare"
+    },
+    {
+      "title": "Havarti",
+      "tier": "Rare"
+    },
+    {
+      "title": "Jarlsberg",
+      "tier": "Rare"
+    },
+    {
+      "title": "Manchego",
+      "tier": "Rare"
+    },
+    {
+      "title": "Muenster",
+      "tier": "Rare"
+    },
+    {
+      "title": "Paneer",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pecorino",
+      "tier": "Rare"
+    },
+    {
+      "title": "Queso fresco",
+      "tier": "Rare"
+    },
+    {
+      "title": "Stilton",
+      "tier": "Rare"
+    },
+    {
+      "title": "Blue cheese",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Brie",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Burrata",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Camembert",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Colby",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cottage cheese",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cream cheese",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Feta",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Gorgonzola",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Gouda",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Gruyere",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Mascarpone",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Monterey Jack",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Provolone",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ricotta",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Roquefort",
+      "tier": "Schooler"
+    },
+    {
+      "title": "String cheese",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Casu martzu",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Limburger",
+      "tier": "Too clever"
+    },
+    {
+      "title": "American cheese",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Cheddar",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Mozzarella",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Parmesan",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Swiss cheese",
+      "tier": "Plankton"
+    }
+  ]
+}

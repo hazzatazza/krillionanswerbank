@@ -1,0 +1,205 @@
+{
+  "question": "Name a US state capital",
+  "answers": [
+    {
+      "title": "Montpelier",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Bismarck",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Carson City",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Concord",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dover",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Frankfort",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Helena",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Jefferson City",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Topeka",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Annapolis",
+      "tier": "Rare"
+    },
+    {
+      "title": "Augusta",
+      "tier": "Rare"
+    },
+    {
+      "title": "Baton Rouge",
+      "tier": "Rare"
+    },
+    {
+      "title": "Boise",
+      "tier": "Rare"
+    },
+    {
+      "title": "Charleston",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cheyenne",
+      "tier": "Rare"
+    },
+    {
+      "title": "Columbia",
+      "tier": "Rare"
+    },
+    {
+      "title": "Des Moines",
+      "tier": "Rare"
+    },
+    {
+      "title": "Harrisburg",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hartford",
+      "tier": "Rare"
+    },
+    {
+      "title": "Jackson",
+      "tier": "Rare"
+    },
+    {
+      "title": "Juneau",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lansing",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lincoln",
+      "tier": "Rare"
+    },
+    {
+      "title": "Little Rock",
+      "tier": "Rare"
+    },
+    {
+      "title": "Montgomery",
+      "tier": "Rare"
+    },
+    {
+      "title": "Oklahoma City",
+      "tier": "Rare"
+    },
+    {
+      "title": "Olympia",
+      "tier": "Rare"
+    },
+    {
+      "title": "Providence",
+      "tier": "Rare"
+    },
+    {
+      "title": "Salem",
+      "tier": "Rare"
+    },
+    {
+      "title": "Santa Fe",
+      "tier": "Rare"
+    },
+    {
+      "title": "St. Paul",
+      "tier": "Rare"
+    },
+    {
+      "title": "Trenton",
+      "tier": "Rare"
+    },
+    {
+      "title": "Atlanta",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Columbus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Denver",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Honolulu",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Indianapolis",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Madison",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Nashville",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Phoenix",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Raleigh",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Richmond",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Salt Lake City",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Springfield",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Tallahassee",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pierre",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Albany",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Austin",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Boston",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Sacramento",
+      "tier": "Plankton"
+    }
+  ]
+}

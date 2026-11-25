@@ -1,0 +1,257 @@
+{
+  "question": "Name a bird of prey",
+  "answers": [
+    {
+      "title": "Steller's sea eagle",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "African fish eagle",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bateleur",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Black kite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Black vulture",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Burrowing owl",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Caracara",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cooper's hawk",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Crane hawk",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Crowned eagle",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Egyptian vulture",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Elf owl",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Great gray owl",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Griffon vulture",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Honey buzzard",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "King vulture",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Lammergeier",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Lanner falcon",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Laughing falcon",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Little owl",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Long-eared owl",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Martial eagle",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Philippine eagle",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rough-legged hawk",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Saker falcon",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sharp-shinned hawk",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Short-eared owl",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Spotted owl",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Swallow-tailed kite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tawny owl",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Wedge-tailed eagle",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "White-tailed eagle",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Barn owl",
+      "tier": "Rare"
+    },
+    {
+      "title": "Barred owl",
+      "tier": "Rare"
+    },
+    {
+      "title": "Condor",
+      "tier": "Rare"
+    },
+    {
+      "title": "Eagle owl",
+      "tier": "Rare"
+    },
+    {
+      "title": "Goshawk",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gyrfalcon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Harris's hawk",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hobby",
+      "tier": "Rare"
+    },
+    {
+      "title": "Kestrel",
+      "tier": "Rare"
+    },
+    {
+      "title": "Merlin",
+      "tier": "Rare"
+    },
+    {
+      "title": "Red kite",
+      "tier": "Rare"
+    },
+    {
+      "title": "Screech owl",
+      "tier": "Rare"
+    },
+    {
+      "title": "Snowy owl",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sparrowhawk",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bald eagle",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Buzzard",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Golden eagle",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Great horned owl",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Harrier",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Kite",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Osprey",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Peregrine falcon",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Red-tailed hawk",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Turkey vulture",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Vulture",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Harpy eagle",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Secretary bird",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Eagle",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Falcon",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Hawk",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Owl",
+      "tier": "Plankton"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "question": "Name an orchestral instrument",
+  "answers": [
+    {
+      "title": "Wagner tuba",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Alto flute",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bass clarinet",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bass oboe",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bass trombone",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Basset horn",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Castanets",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Celesta",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Contrabass clarinet",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Contrabassoon",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cornet",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Crotales",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "E-flat clarinet",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Euphonium",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Harpsichord",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mandolin",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Oboe d'amore",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sleigh bells",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Vibraphone",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Wood block",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bass drum",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bassoon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cymbals",
+      "tier": "Rare"
+    },
+    {
+      "title": "English horn",
+      "tier": "Rare"
+    },
+    {
+      "title": "Glockenspiel",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gong",
+      "tier": "Rare"
+    },
+    {
+      "title": "Marimba",
+      "tier": "Rare"
+    },
+    {
+      "title": "Organ",
+      "tier": "Rare"
+    },
+    {
+      "title": "Piccolo",
+      "tier": "Rare"
+    },
+    {
+      "title": "Saxophone",
+      "tier": "Rare"
+    },
+    {
+      "title": "Snare drum",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tambourine",
+      "tier": "Rare"
+    },
+    {
+      "title": "Timpani",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tubular bells",
+      "tier": "Rare"
+    },
+    {
+      "title": "Xylophone",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cello",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Clarinet",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Double bass",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Drums",
+      "tier": "Schooler"
+    },
+    {
+      "title": "French horn",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Harp",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Oboe",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Piano",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Trombone",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Tuba",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Viola",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cowbell",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Triangle",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Flute",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Trumpet",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Violin",
+      "tier": "Plankton"
+    }
+  ]
+}

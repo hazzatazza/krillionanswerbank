@@ -1,0 +1,121 @@
+{
+  "question": "Name a Greek letter",
+  "answers": [
+    {
+      "title": "San",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Digamma",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Koppa",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sampi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Stigma",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Psi",
+      "tier": "Rare"
+    },
+    {
+      "title": "Upsilon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Chi",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Epsilon",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Eta",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Iota",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Kappa",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Lambda",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Mu",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Nu",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Phi",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Rho",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Sigma",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Tau",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Theta",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Xi",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Zeta",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Omicron",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Alpha",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Beta",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Delta",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Gamma",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Omega",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Pi",
+      "tier": "Plankton"
+    }
+  ]
+}

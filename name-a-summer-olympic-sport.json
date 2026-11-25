@@ -1,0 +1,217 @@
+{
+  "question": "Name a Summer Olympic sport",
+  "answers": [
+    {
+      "title": "Basque pelota",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Cricket",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Croquet",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Flag football",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Jeu de paume",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Lacrosse",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Motorboating",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Polo",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rackets",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Roque",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Squash",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tug of war",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Artistic swimming",
+      "tier": "Rare"
+    },
+    {
+      "title": "Canoeing",
+      "tier": "Rare"
+    },
+    {
+      "title": "Equestrian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Field hockey",
+      "tier": "Rare"
+    },
+    {
+      "title": "Handball",
+      "tier": "Rare"
+    },
+    {
+      "title": "Karate",
+      "tier": "Rare"
+    },
+    {
+      "title": "Marathon swimming",
+      "tier": "Rare"
+    },
+    {
+      "title": "Modern pentathlon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sport climbing",
+      "tier": "Rare"
+    },
+    {
+      "title": "Taekwondo",
+      "tier": "Rare"
+    },
+    {
+      "title": "Archery",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Badminton",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Baseball",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Boxing",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cycling",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Diving",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Fencing",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Golf",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Judo",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Rowing",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Rugby",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Sailing",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Shooting",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Skateboarding",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Softball",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Surfing",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Table tennis",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Triathlon",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Water polo",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Weightlifting",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Wrestling",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Breaking",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Race walking",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Trampoline",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Athletics",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Basketball",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Gymnastics",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Soccer",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Swimming",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Tennis",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Volleyball",
+      "tier": "Plankton"
+    }
+  ]
+}
