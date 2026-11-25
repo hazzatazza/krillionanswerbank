@@ -1,0 +1,381 @@
+{
+  "question": "Name a cocktail",
+  "answers": [
+    {
+      "title": "Remember the Maine",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Aviation",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bijou",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Blood and Sand",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bramble",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Corpse Reviver",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fernandito",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Gibson",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Godfather",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hanky Panky",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Jungle Bird",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Last Word",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Martinez",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mezcal Mule",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Naked and Famous",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Old Cuban",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Paper Plane",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Penicillin",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Planter's Punch",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ramos Gin Fizz",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rusty Nail",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Southside",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Toronto",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Trinidad Sour",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Vieux Carre",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "White Lady",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Amaretto Sour",
+      "tier": "Rare"
+    },
+    {
+      "title": "Appletini",
+      "tier": "Rare"
+    },
+    {
+      "title": "B-52",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bahama Mama",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bee's Knees",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bellini",
+      "tier": "Rare"
+    },
+    {
+      "title": "Black Russian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Blue Hawaiian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Brandy Alexander",
+      "tier": "Rare"
+    },
+    {
+      "title": "Caesar",
+      "tier": "Rare"
+    },
+    {
+      "title": "Caipirinha",
+      "tier": "Rare"
+    },
+    {
+      "title": "Clover Club",
+      "tier": "Rare"
+    },
+    {
+      "title": "Dark and Stormy",
+      "tier": "Rare"
+    },
+    {
+      "title": "El Diablo",
+      "tier": "Rare"
+    },
+    {
+      "title": "French 75",
+      "tier": "Rare"
+    },
+    {
+      "title": "Fuzzy Navel",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gimlet",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gin Fizz",
+      "tier": "Rare"
+    },
+    {
+      "title": "Grasshopper",
+      "tier": "Rare"
+    },
+    {
+      "title": "Harvey Wallbanger",
+      "tier": "Rare"
+    },
+    {
+      "title": "Highball",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hot Toddy",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hurricane",
+      "tier": "Rare"
+    },
+    {
+      "title": "Irish Coffee",
+      "tier": "Rare"
+    },
+    {
+      "title": "Kamikaze",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lemon Drop",
+      "tier": "Rare"
+    },
+    {
+      "title": "Michelada",
+      "tier": "Rare"
+    },
+    {
+      "title": "Mint Julep",
+      "tier": "Rare"
+    },
+    {
+      "title": "Mudslide",
+      "tier": "Rare"
+    },
+    {
+      "title": "Painkiller",
+      "tier": "Rare"
+    },
+    {
+      "title": "Paloma",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pisco Sour",
+      "tier": "Rare"
+    },
+    {
+      "title": "Porn Star Martini",
+      "tier": "Rare"
+    },
+    {
+      "title": "Rob Roy",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sazerac",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sea Breeze",
+      "tier": "Rare"
+    },
+    {
+      "title": "Shirley Temple",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sidecar",
+      "tier": "Rare"
+    },
+    {
+      "title": "Singapore Sling",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tom Collins",
+      "tier": "Rare"
+    },
+    {
+      "title": "Vesper",
+      "tier": "Rare"
+    },
+    {
+      "title": "Zombie",
+      "tier": "Rare"
+    },
+    {
+      "title": "Aperol Spritz",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Bloody Mary",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cuba Libre",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Daiquiri",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Espresso Martini",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Gin and Tonic",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Long Island Iced Tea",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Mai Tai",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Manhattan",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Mimosa",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Moscow Mule",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Negroni",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pina Colada",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Sangria",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Screwdriver",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Sex on the Beach",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Tequila Sunrise",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Whiskey Sour",
+      "tier": "Schooler"
+    },
+    {
+      "title": "White Russian",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Boulevardier",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Negroni Sbagliato",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Cosmopolitan",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Margarita",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Martini",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Mojito",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Old Fashioned",
+      "tier": "Plankton"
+    }
+  ]
+}

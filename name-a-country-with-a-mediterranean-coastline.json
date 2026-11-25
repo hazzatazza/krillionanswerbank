@@ -1,0 +1,89 @@
+{
+  "question": "Name a country with a Mediterranean coastline",
+  "answers": [
+    {
+      "title": "Bosnia and Herzegovina",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Montenegro",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Slovenia",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Syria",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Albania",
+      "tier": "Rare"
+    },
+    {
+      "title": "Algeria",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cyprus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lebanon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Libya",
+      "tier": "Rare"
+    },
+    {
+      "title": "Malta",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tunisia",
+      "tier": "Rare"
+    },
+    {
+      "title": "Croatia",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Egypt",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Israel",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Morocco",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Turkey",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Monaco",
+      "tier": "Too clever"
+    },
+    {
+      "title": "France",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Greece",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Italy",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Spain",
+      "tier": "Plankton"
+    }
+  ]
+}

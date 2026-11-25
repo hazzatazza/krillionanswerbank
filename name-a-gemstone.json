@@ -1,0 +1,261 @@
+{
+  "question": "Name a gemstone",
+  "answers": [
+    {
+      "title": "Benitoite",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Amazonite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ammolite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Apatite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Aventurine",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Azurite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Chalcedony",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Charoite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Chrysoberyl",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fluorite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Grandidierite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Iolite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kunzite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kyanite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Labradorite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Larimar",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Musgravite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Padparadscha",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Painite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pyrite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rhodochrosite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rhodonite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sodalite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sunstone",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Taaffeite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tsavorite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Agate",
+      "tier": "Rare"
+    },
+    {
+      "title": "Alexandrite",
+      "tier": "Rare"
+    },
+    {
+      "title": "Amber",
+      "tier": "Rare"
+    },
+    {
+      "title": "Beryl",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bloodstone",
+      "tier": "Rare"
+    },
+    {
+      "title": "Carnelian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Coral",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cubic zirconia",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hematite",
+      "tier": "Rare"
+    },
+    {
+      "title": "Jasper",
+      "tier": "Rare"
+    },
+    {
+      "title": "Jet",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lapis lazuli",
+      "tier": "Rare"
+    },
+    {
+      "title": "Malachite",
+      "tier": "Rare"
+    },
+    {
+      "title": "Morganite",
+      "tier": "Rare"
+    },
+    {
+      "title": "Peridot",
+      "tier": "Rare"
+    },
+    {
+      "title": "Spinel",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tanzanite",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tiger's eye",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tourmaline",
+      "tier": "Rare"
+    },
+    {
+      "title": "Zircon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Amethyst",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Aquamarine",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Citrine",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Garnet",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Jade",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Moonstone",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Onyx",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Opal",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pearl",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Quartz",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Topaz",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Turquoise",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Moldavite",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Obsidian",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Diamond",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Emerald",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Ruby",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Sapphire",
+      "tier": "Plankton"
+    }
+  ]
+}

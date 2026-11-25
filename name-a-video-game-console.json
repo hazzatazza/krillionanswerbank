@@ -1,0 +1,249 @@
+{
+  "question": "Name a video game console",
+  "answers": [
+    {
+      "title": "Epoch Game Pocket Computer",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "3DO",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Amiga CD32",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Apple Pippin",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Atari 5200",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Atari 7800",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Atari Lynx",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bally Astrocade",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bandai WonderSwan",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Casio Loopy",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fairchild Channel F",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Game.com",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Gizmondo",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Google Stadia",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Magnavox Odyssey",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Magnavox Odyssey 2",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Neo Geo Pocket",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nokia N-Gage",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nvidia Shield",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "PC-FX",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Philips CD-i",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Playdate",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "RCA Studio II",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sega Nomad",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sega Pico",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tiger Electronics",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "V.Smile",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Vectrex",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Watara Supervision",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Atari Jaguar",
+      "tier": "Rare"
+    },
+    {
+      "title": "ColecoVision",
+      "tier": "Rare"
+    },
+    {
+      "title": "Game & Watch",
+      "tier": "Rare"
+    },
+    {
+      "title": "Intellivision",
+      "tier": "Rare"
+    },
+    {
+      "title": "Neo Geo",
+      "tier": "Rare"
+    },
+    {
+      "title": "PlayStation 3",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sega 32X",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sega CD",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sega Game Gear",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sega Master System",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sega Saturn",
+      "tier": "Rare"
+    },
+    {
+      "title": "Steam Deck",
+      "tier": "Rare"
+    },
+    {
+      "title": "TurboGrafx-16",
+      "tier": "Rare"
+    },
+    {
+      "title": "Xbox 360",
+      "tier": "Rare"
+    },
+    {
+      "title": "Atari 2600",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Game Boy",
+      "tier": "Schooler"
+    },
+    {
+      "title": "GameCube",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Nintendo 64",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Nintendo DS",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Nintendo Entertainment System",
+      "tier": "Schooler"
+    },
+    {
+      "title": "PlayStation Portable",
+      "tier": "Schooler"
+    },
+    {
+      "title": "PlayStation Vita",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Sega Dreamcast",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Sega Genesis",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Super Nintendo",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Wii",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Wii U",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ouya",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Virtual Boy",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Nintendo Switch",
+      "tier": "Plankton"
+    },
+    {
+      "title": "PlayStation",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Xbox",
+      "tier": "Plankton"
+    }
+  ]
+}

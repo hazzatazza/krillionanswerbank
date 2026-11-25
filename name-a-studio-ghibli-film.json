@@ -1,0 +1,113 @@
+{
+  "question": "Name a Studio Ghibli film",
+  "answers": [
+    {
+      "title": "Boro the Caterpillar",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Earwig and the Witch",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ocean Waves",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "On Your Mark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "From Up on Poppy Hill",
+      "tier": "Rare"
+    },
+    {
+      "title": "My Neighbors the Yamadas",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tales from Earthsea",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Red Turtle",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Tale of Princess Kaguya",
+      "tier": "Rare"
+    },
+    {
+      "title": "When Marnie Was There",
+      "tier": "Rare"
+    },
+    {
+      "title": "Arrietty",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Castle in the Sky",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Nausicaä of the Valley of the Wind",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Only Yesterday",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pom Poko",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ponyo",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Porco Rosso",
+      "tier": "Schooler"
+    },
+    {
+      "title": "The Boy and the Heron",
+      "tier": "Schooler"
+    },
+    {
+      "title": "The Cat Returns",
+      "tier": "Schooler"
+    },
+    {
+      "title": "The Wind Rises",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Whisper of the Heart",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Grave of the Fireflies",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Howl's Moving Castle",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Kiki's Delivery Service",
+      "tier": "Plankton"
+    },
+    {
+      "title": "My Neighbor Totoro",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Princess Mononoke",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Spirited Away",
+      "tier": "Plankton"
+    }
+  ]
+}

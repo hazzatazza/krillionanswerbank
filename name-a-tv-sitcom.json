@@ -1,0 +1,481 @@
+{
+  "question": "Name a TV sitcom",
+  "answers": [
+    {
+      "title": "Detectorists",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "2 Broke Girls",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "3rd Rock from the Sun",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "A.P. Bio",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Absolutely Fabulous",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "ALF",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Archer",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Better Off Ted",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bewitched",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Black-ish",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "BoJack Horseman",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bored to Death",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dad's Army",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Diff'rent Strokes",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Drake & Josh",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Enlisted",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Everybody Hates Chris",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Family Ties",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Father Ted",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "George Lopez",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Good Times",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Green Wing",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hannah Montana",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Laverne & Shirley",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Martin",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mork & Mindy",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "NewsRadio",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Night Court",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Only Murders in the Building",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Raising Hope",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Red Dwarf",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rutherford Falls",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sabrina the Teenage Witch",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Spaced",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Superstore",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Taxi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "That's So Raven",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "The Beverly Hillbillies",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "The Dick Van Dyke Show",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "The Facts of Life",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "The Inbetweeners",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "The Marvelous Mrs. Maisel",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "The Mary Tyler Moore Show",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "The Unbreakable Kimmy Schmidt",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Abbott Elementary",
+      "tier": "Rare"
+    },
+    {
+      "title": "All in the Family",
+      "tier": "Rare"
+    },
+    {
+      "title": "American Dad",
+      "tier": "Rare"
+    },
+    {
+      "title": "Arrested Development",
+      "tier": "Rare"
+    },
+    {
+      "title": "Barry",
+      "tier": "Rare"
+    },
+    {
+      "title": "Black Books",
+      "tier": "Rare"
+    },
+    {
+      "title": "Blackadder",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bob's Burgers",
+      "tier": "Rare"
+    },
+    {
+      "title": "Boy Meets World",
+      "tier": "Rare"
+    },
+    {
+      "title": "Curb Your Enthusiasm",
+      "tier": "Rare"
+    },
+    {
+      "title": "Derry Girls",
+      "tier": "Rare"
+    },
+    {
+      "title": "Everybody Loves Raymond",
+      "tier": "Rare"
+    },
+    {
+      "title": "Family Guy",
+      "tier": "Rare"
+    },
+    {
+      "title": "Family Matters",
+      "tier": "Rare"
+    },
+    {
+      "title": "Fawlty Towers",
+      "tier": "Rare"
+    },
+    {
+      "title": "Futurama",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gavin and Stacey",
+      "tier": "Rare"
+    },
+    {
+      "title": "Ghosts",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gilligan's Island",
+      "tier": "Rare"
+    },
+    {
+      "title": "Home Improvement",
+      "tier": "Rare"
+    },
+    {
+      "title": "iCarly",
+      "tier": "Rare"
+    },
+    {
+      "title": "King of the Hill",
+      "tier": "Rare"
+    },
+    {
+      "title": "Leave It to Beaver",
+      "tier": "Rare"
+    },
+    {
+      "title": "Malcolm in the Middle",
+      "tier": "Rare"
+    },
+    {
+      "title": "Married with Children",
+      "tier": "Rare"
+    },
+    {
+      "title": "Mr. Bean",
+      "tier": "Rare"
+    },
+    {
+      "title": "Only Fools and Horses",
+      "tier": "Rare"
+    },
+    {
+      "title": "Peep Show",
+      "tier": "Rare"
+    },
+    {
+      "title": "Rick and Morty",
+      "tier": "Rare"
+    },
+    {
+      "title": "Roseanne",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sanford and Son",
+      "tier": "Rare"
+    },
+    {
+      "title": "Saved by the Bell",
+      "tier": "Rare"
+    },
+    {
+      "title": "Schitt's Creek",
+      "tier": "Rare"
+    },
+    {
+      "title": "Silicon Valley",
+      "tier": "Rare"
+    },
+    {
+      "title": "South Park",
+      "tier": "Rare"
+    },
+    {
+      "title": "Ted Lasso",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Andy Griffith Show",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Brady Bunch",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Cosby Show",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Good Place",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Honeymooners",
+      "tier": "Rare"
+    },
+    {
+      "title": "The IT Crowd",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Jeffersons",
+      "tier": "Rare"
+    },
+    {
+      "title": "The King of Queens",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Nanny",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Simpsons",
+      "tier": "Rare"
+    },
+    {
+      "title": "Three's Company",
+      "tier": "Rare"
+    },
+    {
+      "title": "Veep",
+      "tier": "Rare"
+    },
+    {
+      "title": "What We Do in the Shadows",
+      "tier": "Rare"
+    },
+    {
+      "title": "Young Sheldon",
+      "tier": "Rare"
+    },
+    {
+      "title": "30 Rock",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Brooklyn Nine-Nine",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cheers",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Community",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Frasier",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Full House",
+      "tier": "Schooler"
+    },
+    {
+      "title": "How I Met Your Mother",
+      "tier": "Schooler"
+    },
+    {
+      "title": "I Love Lucy",
+      "tier": "Schooler"
+    },
+    {
+      "title": "It's Always Sunny in Philadelphia",
+      "tier": "Schooler"
+    },
+    {
+      "title": "M*A*S*H",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Modern Family",
+      "tier": "Schooler"
+    },
+    {
+      "title": "New Girl",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Parks and Recreation",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Scrubs",
+      "tier": "Schooler"
+    },
+    {
+      "title": "That '70s Show",
+      "tier": "Schooler"
+    },
+    {
+      "title": "The Big Bang Theory",
+      "tier": "Schooler"
+    },
+    {
+      "title": "The Fresh Prince of Bel-Air",
+      "tier": "Schooler"
+    },
+    {
+      "title": "The Golden Girls",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Two and a Half Men",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Will & Grace",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Get Smart",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Happy Days",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Friends",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Seinfeld",
+      "tier": "Plankton"
+    },
+    {
+      "title": "The Office",
+      "tier": "Plankton"
+    }
+  ]
+}

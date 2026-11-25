@@ -1,0 +1,165 @@
+{
+  "question": "Name a species of wild cat",
+  "answers": [
+    {
+      "title": "Iriomote cat",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "African golden cat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Asian golden cat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bay cat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Black-footed cat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Chinese mountain cat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fishing cat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Flat-headed cat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Iberian lynx",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Jungle cat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Leopard cat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Marbled cat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rusty-spotted cat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sunda clouded leopard",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "African wildcat",
+      "tier": "Rare"
+    },
+    {
+      "title": "Andean cat",
+      "tier": "Rare"
+    },
+    {
+      "title": "Canada lynx",
+      "tier": "Rare"
+    },
+    {
+      "title": "Eurasian lynx",
+      "tier": "Rare"
+    },
+    {
+      "title": "Geoffroy's cat",
+      "tier": "Rare"
+    },
+    {
+      "title": "Jaguarundi",
+      "tier": "Rare"
+    },
+    {
+      "title": "Kodkod",
+      "tier": "Rare"
+    },
+    {
+      "title": "Margay",
+      "tier": "Rare"
+    },
+    {
+      "title": "Oncilla",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pampas cat",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sand cat",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bobcat",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Caracal",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Clouded leopard",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cougar",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Jaguar",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Lynx",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ocelot",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Panther",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Serval",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Snow leopard",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pallas's cat",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Cheetah",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Leopard",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Lion",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Tiger",
+      "tier": "Plankton"
+    }
+  ]
+}

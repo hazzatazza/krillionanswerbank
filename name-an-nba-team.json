@@ -1,0 +1,277 @@
+{
+  "question": "Name an NBA team",
+  "answers": [
+    {
+      "title": "Kansas City Kings",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Toronto Huskies",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Anderson Packers",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Baltimore Bullets",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Buffalo Braves",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Capital Bullets",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Charlotte Bobcats",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Chicago Packers",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Chicago Stags",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Chicago Zephyrs",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cincinnati Royals",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cleveland Rebels",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Detroit Falcons",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fort Wayne Pistons",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Indianapolis Jets",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Indianapolis Olympians",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Milwaukee Hawks",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Minneapolis Lakers",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "New Jersey Nets",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "New Orleans Hornets",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "New Orleans Jazz",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Philadelphia Warriors",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pittsburgh Ironmen",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Providence Steamrollers",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rochester Royals",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "San Diego Clippers",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "San Diego Rockets",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "San Francisco Warriors",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sheboygan Red Skins",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "St. Louis Bombers",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "St. Louis Hawks",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Syracuse Nationals",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tri-Cities Blackhawks",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Vancouver Grizzlies",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Washington Bullets",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Washington Capitols",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Waterloo Hawks",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Atlanta Hawks",
+      "tier": "Rare"
+    },
+    {
+      "title": "Charlotte Hornets",
+      "tier": "Rare"
+    },
+    {
+      "title": "Indiana Pacers",
+      "tier": "Rare"
+    },
+    {
+      "title": "Los Angeles Clippers",
+      "tier": "Rare"
+    },
+    {
+      "title": "Memphis Grizzlies",
+      "tier": "Rare"
+    },
+    {
+      "title": "Minnesota Timberwolves",
+      "tier": "Rare"
+    },
+    {
+      "title": "New Orleans Pelicans",
+      "tier": "Rare"
+    },
+    {
+      "title": "Oklahoma City Thunder",
+      "tier": "Rare"
+    },
+    {
+      "title": "Portland Trail Blazers",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sacramento Kings",
+      "tier": "Rare"
+    },
+    {
+      "title": "Utah Jazz",
+      "tier": "Rare"
+    },
+    {
+      "title": "Washington Wizards",
+      "tier": "Rare"
+    },
+    {
+      "title": "Brooklyn Nets",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cleveland Cavaliers",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Dallas Mavericks",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Denver Nuggets",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Detroit Pistons",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Houston Rockets",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Milwaukee Bucks",
+      "tier": "Schooler"
+    },
+    {
+      "title": "New York Knicks",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Orlando Magic",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Philadelphia 76ers",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Phoenix Suns",
+      "tier": "Schooler"
+    },
+    {
+      "title": "San Antonio Spurs",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Toronto Raptors",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Seattle SuperSonics",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Boston Celtics",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Chicago Bulls",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Golden State Warriors",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Los Angeles Lakers",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Miami Heat",
+      "tier": "Plankton"
+    }
+  ]
+}

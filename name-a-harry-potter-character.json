@@ -1,0 +1,445 @@
+{
+  "question": "Name a Harry Potter character",
+  "answers": [
+    {
+      "title": "Bathilda Bagshot",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Aberforth",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Albus Severus Potter",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Angelina Johnson",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Aragog",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Aunt Marge",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Barty Crouch",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Blaise Zabini",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bloody Baron",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Colin Creevey",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Crookshanks",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fang",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fat Lady",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fawkes",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fenrir Greyback",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Firenze",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fluffy",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Godric Gryffindor",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Grawp",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Grey Lady",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Griphook",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Helga Hufflepuff",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Igor Karkaroff",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Katie Bell",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kingsley Shacklebolt",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kreacher",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Lavender Brown",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Lee Jordan",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ludo Bagman",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Madam Hooch",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Madam Pomfrey",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Madame Maxime",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mrs Norris",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mundungus Fletcher",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Newt Scamander",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nicolas Flamel",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Norbert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Padma Patil",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pansy Parkinson",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Parvati Patil",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Professor Binns",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Regulus Black",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rowena Ravenclaw",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rufus Scrimgeour",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Salazar Slytherin",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Scorpius Malfoy",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sorting Hat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Stan Shunpike",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Winky",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Xenophilius Lovegood",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Argus Filch",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bill Weasley",
+      "tier": "Rare"
+    },
+    {
+      "title": "Buckbeak",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cedric Diggory",
+      "tier": "Rare"
+    },
+    {
+      "title": "Charlie Weasley",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cho Chang",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cornelius Fudge",
+      "tier": "Rare"
+    },
+    {
+      "title": "Crabbe",
+      "tier": "Rare"
+    },
+    {
+      "title": "Dean Thomas",
+      "tier": "Rare"
+    },
+    {
+      "title": "Dolores Umbridge",
+      "tier": "Rare"
+    },
+    {
+      "title": "Dudley Dursley",
+      "tier": "Rare"
+    },
+    {
+      "title": "Fleur Delacour",
+      "tier": "Rare"
+    },
+    {
+      "title": "Flitwick",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gellert Grindelwald",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gilderoy Lockhart",
+      "tier": "Rare"
+    },
+    {
+      "title": "Goyle",
+      "tier": "Rare"
+    },
+    {
+      "title": "Horace Slughorn",
+      "tier": "Rare"
+    },
+    {
+      "title": "James Potter",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lily Potter",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lucius Malfoy",
+      "tier": "Rare"
+    },
+    {
+      "title": "Mad-Eye Moody",
+      "tier": "Rare"
+    },
+    {
+      "title": "Moaning Myrtle",
+      "tier": "Rare"
+    },
+    {
+      "title": "Nagini",
+      "tier": "Rare"
+    },
+    {
+      "title": "Narcissa Malfoy",
+      "tier": "Rare"
+    },
+    {
+      "title": "Nearly Headless Nick",
+      "tier": "Rare"
+    },
+    {
+      "title": "Nymphadora Tonks",
+      "tier": "Rare"
+    },
+    {
+      "title": "Oliver Wood",
+      "tier": "Rare"
+    },
+    {
+      "title": "Ollivander",
+      "tier": "Rare"
+    },
+    {
+      "title": "Percy Weasley",
+      "tier": "Rare"
+    },
+    {
+      "title": "Peter Pettigrew",
+      "tier": "Rare"
+    },
+    {
+      "title": "Petunia Dursley",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pomona Sprout",
+      "tier": "Rare"
+    },
+    {
+      "title": "Quirrell",
+      "tier": "Rare"
+    },
+    {
+      "title": "Rita Skeeter",
+      "tier": "Rare"
+    },
+    {
+      "title": "Seamus Finnigan",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sybill Trelawney",
+      "tier": "Rare"
+    },
+    {
+      "title": "Vernon Dursley",
+      "tier": "Rare"
+    },
+    {
+      "title": "Viktor Krum",
+      "tier": "Rare"
+    },
+    {
+      "title": "Arthur Weasley",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Bellatrix Lestrange",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Dobby",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Draco Malfoy",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Fred Weasley",
+      "tier": "Schooler"
+    },
+    {
+      "title": "George Weasley",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ginny Weasley",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Hagrid",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Hedwig",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Luna Lovegood",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Minerva McGonagall",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Molly Weasley",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Neville Longbottom",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Remus Lupin",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Severus Snape",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Sirius Black",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Peeves",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Dumbledore",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Harry Potter",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Hermione Granger",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Ron Weasley",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Voldemort",
+      "tier": "Plankton"
+    }
+  ]
+}

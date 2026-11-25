@@ -1,0 +1,361 @@
+{
+  "question": "Name a board game",
+  "answers": [
+    {
+      "title": "Senet",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Ark Nova",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Betrayal at House on the Hill",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Brass: Birmingham",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Carrom",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cascadia",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Concordia",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cribbage",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Crokinole",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dungeon Petz",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Everdell",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Food Chain Magnate",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "HeroQuest",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hive",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hnefatafl",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Le Havre",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mage Knight",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nine Men's Morris",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pax Pamir",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Puerto Rico",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Qwirkle",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Root",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Royal Game of Ur",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Santorini",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Shogi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Small World",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Spirit Island",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Terra Mystica",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Through the Ages",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Twilight Imperium",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Xiangqi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "7 Wonders",
+      "tier": "Rare"
+    },
+    {
+      "title": "Agricola",
+      "tier": "Rare"
+    },
+    {
+      "title": "Arkham Horror",
+      "tier": "Rare"
+    },
+    {
+      "title": "Axis and Allies",
+      "tier": "Rare"
+    },
+    {
+      "title": "Azul",
+      "tier": "Rare"
+    },
+    {
+      "title": "Chinese checkers",
+      "tier": "Rare"
+    },
+    {
+      "title": "Codenames",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cranium",
+      "tier": "Rare"
+    },
+    {
+      "title": "Diplomacy",
+      "tier": "Rare"
+    },
+    {
+      "title": "Dominion",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gloomhaven",
+      "tier": "Rare"
+    },
+    {
+      "title": "Go",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hungry Hungry Hippos",
+      "tier": "Rare"
+    },
+    {
+      "title": "King of Tokyo",
+      "tier": "Rare"
+    },
+    {
+      "title": "Mahjong",
+      "tier": "Rare"
+    },
+    {
+      "title": "Mancala",
+      "tier": "Rare"
+    },
+    {
+      "title": "Mastermind",
+      "tier": "Rare"
+    },
+    {
+      "title": "Mousetrap",
+      "tier": "Rare"
+    },
+    {
+      "title": "Mysterium",
+      "tier": "Rare"
+    },
+    {
+      "title": "Operation",
+      "tier": "Rare"
+    },
+    {
+      "title": "Othello",
+      "tier": "Rare"
+    },
+    {
+      "title": "Parcheesi",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pictionary",
+      "tier": "Rare"
+    },
+    {
+      "title": "Power Grid",
+      "tier": "Rare"
+    },
+    {
+      "title": "Rummikub",
+      "tier": "Rare"
+    },
+    {
+      "title": "Scotland Yard",
+      "tier": "Rare"
+    },
+    {
+      "title": "Scythe",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sequence",
+      "tier": "Rare"
+    },
+    {
+      "title": "Splendor",
+      "tier": "Rare"
+    },
+    {
+      "title": "Stratego",
+      "tier": "Rare"
+    },
+    {
+      "title": "Terraforming Mars",
+      "tier": "Rare"
+    },
+    {
+      "title": "Trouble",
+      "tier": "Rare"
+    },
+    {
+      "title": "Twister",
+      "tier": "Rare"
+    },
+    {
+      "title": "Wingspan",
+      "tier": "Rare"
+    },
+    {
+      "title": "Backgammon",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Battleship",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Boggle",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Candyland",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Checkers",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Chutes and Ladders",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Connect Four",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Dominoes",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Guess Who?",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Jenga",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Life",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pandemic",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Settlers of Catan",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Sorry!",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ticket to Ride",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Trivial Pursuit",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Uno",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Yahtzee",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Carcassonne",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Chess",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Clue",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Monopoly",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Risk",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Scrabble",
+      "tier": "Plankton"
+    }
+  ]
+}

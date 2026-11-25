@@ -1,0 +1,341 @@
+{
+  "question": "Name a river in Europe",
+  "answers": [
+    {
+      "title": "Maritsa",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Aare",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Adige",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Axios",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Boyne",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bug",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cam",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Clyde",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Daugava",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dee",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dordogne",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Douro",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Drava",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Drina",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Forth",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Glomma",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Guadiana",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Isar",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kama",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Maas",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Marne",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mersey",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mino",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Morava",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Moskva",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Neckar",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Neman",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Neretva",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Northern Dvina",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Oise",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Oka",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Olt",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ouse",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pechora",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pripyat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Prut",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ruhr",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Saone",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sava",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Somme",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Spey",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tay",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tisza",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Trent",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tweed",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tyne",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Vardar",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Warta",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Wye",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Arno",
+      "tier": "Rare"
+    },
+    {
+      "title": "Avon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Dnieper",
+      "tier": "Rare"
+    },
+    {
+      "title": "Dniester",
+      "tier": "Rare"
+    },
+    {
+      "title": "Don",
+      "tier": "Rare"
+    },
+    {
+      "title": "Garonne",
+      "tier": "Rare"
+    },
+    {
+      "title": "Guadalquivir",
+      "tier": "Rare"
+    },
+    {
+      "title": "Inn",
+      "tier": "Rare"
+    },
+    {
+      "title": "Liffey",
+      "tier": "Rare"
+    },
+    {
+      "title": "Main",
+      "tier": "Rare"
+    },
+    {
+      "title": "Meuse",
+      "tier": "Rare"
+    },
+    {
+      "title": "Moselle",
+      "tier": "Rare"
+    },
+    {
+      "title": "Neva",
+      "tier": "Rare"
+    },
+    {
+      "title": "Scheldt",
+      "tier": "Rare"
+    },
+    {
+      "title": "Severn",
+      "tier": "Rare"
+    },
+    {
+      "title": "Shannon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Spree",
+      "tier": "Rare"
+    },
+    {
+      "title": "Ural",
+      "tier": "Rare"
+    },
+    {
+      "title": "Vltava",
+      "tier": "Rare"
+    },
+    {
+      "title": "Weser",
+      "tier": "Rare"
+    },
+    {
+      "title": "Ebro",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Elbe",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Loire",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Oder",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Po",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Rhone",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Tagus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Tiber",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Vistula",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Volga",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Rubicon",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Danube",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Rhine",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Seine",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Thames",
+      "tier": "Plankton"
+    }
+  ]
+}

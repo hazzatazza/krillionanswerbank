@@ -1,0 +1,181 @@
+{
+  "question": "Name a Shakespeare play",
+  "answers": [
+    {
+      "title": "Cardenio",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Arden of Faversham",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cymbeline",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Edward III",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Love's Labour's Won",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pericles",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sir Thomas More",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "The Merry Devil of Edmonton",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "The Two Noble Kinsmen",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Timon of Athens",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Two Gentlemen of Verona",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "All's Well That Ends Well",
+      "tier": "Rare"
+    },
+    {
+      "title": "Antony and Cleopatra",
+      "tier": "Rare"
+    },
+    {
+      "title": "Coriolanus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Henry IV Part 1",
+      "tier": "Rare"
+    },
+    {
+      "title": "Henry IV Part 2",
+      "tier": "Rare"
+    },
+    {
+      "title": "Henry VI Part 1",
+      "tier": "Rare"
+    },
+    {
+      "title": "Henry VI Part 2",
+      "tier": "Rare"
+    },
+    {
+      "title": "Henry VI Part 3",
+      "tier": "Rare"
+    },
+    {
+      "title": "Henry VIII",
+      "tier": "Rare"
+    },
+    {
+      "title": "King John",
+      "tier": "Rare"
+    },
+    {
+      "title": "Love's Labour's Lost",
+      "tier": "Rare"
+    },
+    {
+      "title": "Measure for Measure",
+      "tier": "Rare"
+    },
+    {
+      "title": "Richard II",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Comedy of Errors",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Merry Wives of Windsor",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Winter's Tale",
+      "tier": "Rare"
+    },
+    {
+      "title": "Troilus and Cressida",
+      "tier": "Rare"
+    },
+    {
+      "title": "As You Like It",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Henry V",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Julius Caesar",
+      "tier": "Schooler"
+    },
+    {
+      "title": "King Lear",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Much Ado About Nothing",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Othello",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Richard III",
+      "tier": "Schooler"
+    },
+    {
+      "title": "The Merchant of Venice",
+      "tier": "Schooler"
+    },
+    {
+      "title": "The Taming of the Shrew",
+      "tier": "Schooler"
+    },
+    {
+      "title": "The Tempest",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Twelfth Night",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Titus Andronicus",
+      "tier": "Too clever"
+    },
+    {
+      "title": "A Midsummer Night's Dream",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Hamlet",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Macbeth",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Romeo and Juliet",
+      "tier": "Plankton"
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "question": "Name a language spoken in Europe",
+  "answers": [
+    {
+      "title": "Ladino",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Alsatian",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Aragonese",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Aromanian",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Asturian",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Azerbaijani",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Breton",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Chuvash",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cornish",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Corsican",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Crimean Tatar",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Elfdalian",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Faroese",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Frisian",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Friulian",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kalmyk",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kashubian",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ladin",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Low German",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Manx",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Neapolitan",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Occitan",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Romani",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Romansh",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sámi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sardinian",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Scots",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sicilian",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sorbian",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tatar",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Venetian",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Walloon",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Albanian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Arabic",
+      "tier": "Rare"
+    },
+    {
+      "title": "Armenian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Belarusian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bosnian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bulgarian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Croatian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Esperanto",
+      "tier": "Rare"
+    },
+    {
+      "title": "Estonian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Galician",
+      "tier": "Rare"
+    },
+    {
+      "title": "Georgian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Icelandic",
+      "tier": "Rare"
+    },
+    {
+      "title": "Irish",
+      "tier": "Rare"
+    },
+    {
+      "title": "Latvian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lithuanian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Luxembourgish",
+      "tier": "Rare"
+    },
+    {
+      "title": "Macedonian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Maltese",
+      "tier": "Rare"
+    },
+    {
+      "title": "Montenegrin",
+      "tier": "Rare"
+    },
+    {
+      "title": "Scottish Gaelic",
+      "tier": "Rare"
+    },
+    {
+      "title": "Serbian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Slovenian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Welsh",
+      "tier": "Rare"
+    },
+    {
+      "title": "Yiddish",
+      "tier": "Rare"
+    },
+    {
+      "title": "Catalan",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Czech",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Danish",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Dutch",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Finnish",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Greek",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Hungarian",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Norwegian",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Polish",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Portuguese",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Romanian",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Russian",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Slovak",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Swedish",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Turkish",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ukrainian",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Basque",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Latin",
+      "tier": "Too clever"
+    },
+    {
+      "title": "English",
+      "tier": "Plankton"
+    },
+    {
+      "title": "French",
+      "tier": "Plankton"
+    },
+    {
+      "title": "German",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Italian",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Spanish",
+      "tier": "Plankton"
+    }
+  ]
+}

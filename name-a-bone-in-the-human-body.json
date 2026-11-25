@@ -1,0 +1,237 @@
+{
+  "question": "Name a bone in the human body",
+  "answers": [
+    {
+      "title": "Stapes",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Atlas",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Axis",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Capitate",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cuboid",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cuneiforms",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ethmoid",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hamate",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hyoid",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Incus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Inferior nasal concha",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Lacrimal bone",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Lunate",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Malleus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Navicular",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Palatine bone",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pisiform",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Scaphoid",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sphenoid",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Trapezium",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Trapezoid bone",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Triquetrum",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Vomer",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Calcaneus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Carpals",
+      "tier": "Rare"
+    },
+    {
+      "title": "Frontal bone",
+      "tier": "Rare"
+    },
+    {
+      "title": "Ilium",
+      "tier": "Rare"
+    },
+    {
+      "title": "Ischium",
+      "tier": "Rare"
+    },
+    {
+      "title": "Maxilla",
+      "tier": "Rare"
+    },
+    {
+      "title": "Metacarpals",
+      "tier": "Rare"
+    },
+    {
+      "title": "Metatarsals",
+      "tier": "Rare"
+    },
+    {
+      "title": "Nasal bone",
+      "tier": "Rare"
+    },
+    {
+      "title": "Occipital bone",
+      "tier": "Rare"
+    },
+    {
+      "title": "Parietal bone",
+      "tier": "Rare"
+    },
+    {
+      "title": "Phalanges",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pubis",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sacrum",
+      "tier": "Rare"
+    },
+    {
+      "title": "Talus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tarsals",
+      "tier": "Rare"
+    },
+    {
+      "title": "Temporal bone",
+      "tier": "Rare"
+    },
+    {
+      "title": "Zygomatic bone",
+      "tier": "Rare"
+    },
+    {
+      "title": "Clavicle",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Fibula",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Humerus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Mandible",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Patella",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pelvis",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Radius",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Scapula",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Sternum",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Tibia",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ulna",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Vertebra",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Coccyx",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Femur",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Rib",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Skull",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Spine",
+      "tier": "Plankton"
+    }
+  ]
+}

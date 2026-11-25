@@ -1,0 +1,209 @@
+{
+  "question": "Name the capital city of a European country",
+  "answers": [
+    {
+      "title": "Valletta",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Andorra la Vella",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Astana",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Baku",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Luxembourg City",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Monaco",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nicosia",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "San Marino",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tbilisi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Vaduz",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Vatican City",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Yerevan",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Belgrade",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bratislava",
+      "tier": "Rare"
+    },
+    {
+      "title": "Chisinau",
+      "tier": "Rare"
+    },
+    {
+      "title": "Ljubljana",
+      "tier": "Rare"
+    },
+    {
+      "title": "Minsk",
+      "tier": "Rare"
+    },
+    {
+      "title": "Podgorica",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pristina",
+      "tier": "Rare"
+    },
+    {
+      "title": "Riga",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sarajevo",
+      "tier": "Rare"
+    },
+    {
+      "title": "Skopje",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sofia",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tallinn",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tirana",
+      "tier": "Rare"
+    },
+    {
+      "title": "Vilnius",
+      "tier": "Rare"
+    },
+    {
+      "title": "Zagreb",
+      "tier": "Rare"
+    },
+    {
+      "title": "Amsterdam",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Athens",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Brussels",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Bucharest",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Budapest",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Copenhagen",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Dublin",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Helsinki",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Kyiv",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Lisbon",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Moscow",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Oslo",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Prague",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Reykjavik",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Stockholm",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Vienna",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Warsaw",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ankara",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Bern",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Berlin",
+      "tier": "Plankton"
+    },
+    {
+      "title": "London",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Madrid",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Paris",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Rome",
+      "tier": "Plankton"
+    }
+  ]
+}

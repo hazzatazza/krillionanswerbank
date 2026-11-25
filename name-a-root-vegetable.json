@@ -1,0 +1,165 @@
+{
+  "question": "Name a root vegetable",
+  "answers": [
+    {
+      "title": "Crosne",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Arracacha",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Arrowroot",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Burdock",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Galangal",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Maca",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Malanga",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Oca",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Salsify",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Scorzonera",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Turmeric",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ulluco",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Wasabi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Water chestnut",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Yacon",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cassava",
+      "tier": "Rare"
+    },
+    {
+      "title": "Celeriac",
+      "tier": "Rare"
+    },
+    {
+      "title": "Daikon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Fennel bulb",
+      "tier": "Rare"
+    },
+    {
+      "title": "Jerusalem artichoke",
+      "tier": "Rare"
+    },
+    {
+      "title": "Jicama",
+      "tier": "Rare"
+    },
+    {
+      "title": "Kohlrabi",
+      "tier": "Rare"
+    },
+    {
+      "title": "Leek",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lotus root",
+      "tier": "Rare"
+    },
+    {
+      "title": "Shallot",
+      "tier": "Rare"
+    },
+    {
+      "title": "Taro",
+      "tier": "Rare"
+    },
+    {
+      "title": "Ube",
+      "tier": "Rare"
+    },
+    {
+      "title": "Beet",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ginger",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Horseradish",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Parsnip",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Radish",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Sweet potato",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Turnip",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Yam",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Rutabaga",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Carrot",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Garlic",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Onion",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Potato",
+      "tier": "Plankton"
+    }
+  ]
+}

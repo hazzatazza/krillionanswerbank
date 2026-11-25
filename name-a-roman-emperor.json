@@ -1,0 +1,385 @@
+{
+  "question": "Name a Roman emperor",
+  "answers": [
+    {
+      "title": "Silbannacus",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Aemilianus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Alexios I Komnenos",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Anastasius I",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Anthemius",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Arcadius",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Avitus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Balbinus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Basil II",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Carausius",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Carinus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Carus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Claudius Gothicus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Constans",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Constantine II",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Constantine XI",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Constantius Chlorus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Constantius II",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Decius",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Didius Julianus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Domitian II",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Florianus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Galba",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Galerius",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Gallienus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Geta",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Glycerius",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Gordian I",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Gordian II",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Gordian III",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Gratian",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Heraclius",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Honorius",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Irene",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Jovian",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Julius Nepos",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Justin I",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Justinian II",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Leo I",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Licinius",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Lucius Verus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Macrinus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Majorian",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Marcian",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Maurice",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Maxentius",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Maximinus Daza",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Numerian",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Olybrius",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Otho",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pertinax",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Petronius Maximus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Phocas",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Probus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pupienus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Quintillus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Severus Alexander",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Severus II",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tacitus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Theodosius II",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Trebonianus Gallus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Valentinian I",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Valentinian II",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Valentinian III",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Vitellius",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Zeno",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Antoninus Pius",
+      "tier": "Rare"
+    },
+    {
+      "title": "Aurelian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Caracalla",
+      "tier": "Rare"
+    },
+    {
+      "title": "Domitian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Julian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Justinian I",
+      "tier": "Rare"
+    },
+    {
+      "title": "Maximian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Maximinus Thrax",
+      "tier": "Rare"
+    },
+    {
+      "title": "Nerva",
+      "tier": "Rare"
+    },
+    {
+      "title": "Philip the Arab",
+      "tier": "Rare"
+    },
+    {
+      "title": "Romulus Augustulus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Septimius Severus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Theodosius I",
+      "tier": "Rare"
+    },
+    {
+      "title": "Valens",
+      "tier": "Rare"
+    },
+    {
+      "title": "Valerian",
+      "tier": "Rare"
+    },
+    {
+      "title": "Claudius",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Diocletian",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Hadrian",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Marcus Aurelius",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Tiberius",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Titus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Trajan",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Vespasian",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Commodus",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Elagabalus",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Augustus",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Caligula",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Constantine the Great",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Nero",
+      "tier": "Plankton"
+    }
+  ]
+}

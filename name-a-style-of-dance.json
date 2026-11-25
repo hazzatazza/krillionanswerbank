@@ -1,0 +1,373 @@
+{
+  "question": "Name a style of dance",
+  "answers": [
+    {
+      "title": "Tarantella",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Bharatanatyam",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bolero",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Boogaloo",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Boogie-woogie",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Burlesque",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Butoh",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Contra dance",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Csardas",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cueca",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dabke",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dancehall",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fandango",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Forro",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Garba",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Haka",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Highland dance",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hopak",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hora",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "House dance",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kathak",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kathakali",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kizomba",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kolo",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kuchipudi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Lambada",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Manipuri",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mazurka",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mexican hat dance",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Milonga",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mohiniyattam",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Morris dance",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Odissi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Polonaise",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Robot",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sardana",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Shag",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Shuffle",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sirtaki",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sufi whirling",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tinikling",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tutting",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Waacking",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "West Coast Swing",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Zouk",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bachata",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bhangra",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bollywood",
+      "tier": "Rare"
+    },
+    {
+      "title": "Can-can",
+      "tier": "Rare"
+    },
+    {
+      "title": "Charleston",
+      "tier": "Rare"
+    },
+    {
+      "title": "Clogging",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cumbia",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hula",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hustle",
+      "tier": "Rare"
+    },
+    {
+      "title": "Irish step dance",
+      "tier": "Rare"
+    },
+    {
+      "title": "Jitterbug",
+      "tier": "Rare"
+    },
+    {
+      "title": "Jive",
+      "tier": "Rare"
+    },
+    {
+      "title": "Krumping",
+      "tier": "Rare"
+    },
+    {
+      "title": "Locking",
+      "tier": "Rare"
+    },
+    {
+      "title": "Mambo",
+      "tier": "Rare"
+    },
+    {
+      "title": "Merengue",
+      "tier": "Rare"
+    },
+    {
+      "title": "Paso doble",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pole dance",
+      "tier": "Rare"
+    },
+    {
+      "title": "Polka",
+      "tier": "Rare"
+    },
+    {
+      "title": "Popping",
+      "tier": "Rare"
+    },
+    {
+      "title": "Quickstep",
+      "tier": "Rare"
+    },
+    {
+      "title": "Reggaeton",
+      "tier": "Rare"
+    },
+    {
+      "title": "Twerking",
+      "tier": "Rare"
+    },
+    {
+      "title": "Two-step",
+      "tier": "Rare"
+    },
+    {
+      "title": "Zumba",
+      "tier": "Rare"
+    },
+    {
+      "title": "Ballroom",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Belly dance",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Breakdancing",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cha-cha",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Contemporary",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Disco",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Flamenco",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Foxtrot",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Jazz",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Line dancing",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Rumba",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Samba",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Square dance",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Swing",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Tango",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Waltz",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Lindy hop",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Voguing",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Ballet",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Hip hop",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Salsa",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Tap",
+      "tier": "Plankton"
+    }
+  ]
+}

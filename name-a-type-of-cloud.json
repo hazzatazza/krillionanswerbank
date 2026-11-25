@@ -1,0 +1,145 @@
+{
+  "question": "Name a type of cloud",
+  "answers": [
+    {
+      "title": "Morning Glory cloud",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Asperitas",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Banner cloud",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Castellanus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cavum",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cirrus uncinus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kelvin-Helmholtz",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nacreous",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Noctilucent",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pyrocumulus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Undulatus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Wall cloud",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Anvil cloud",
+      "tier": "Rare"
+    },
+    {
+      "title": "Contrail",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cumulus congestus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Fog",
+      "tier": "Rare"
+    },
+    {
+      "title": "Fractus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Funnel cloud",
+      "tier": "Rare"
+    },
+    {
+      "title": "Nimbus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pileus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Roll cloud",
+      "tier": "Rare"
+    },
+    {
+      "title": "Shelf cloud",
+      "tier": "Rare"
+    },
+    {
+      "title": "Virga",
+      "tier": "Rare"
+    },
+    {
+      "title": "Altocumulus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Altostratus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cirrocumulus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cirrostratus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cumulonimbus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Nimbostratus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Stratocumulus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Lenticular",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Mammatus",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Cirrus",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Cumulus",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Stratus",
+      "tier": "Plankton"
+    }
+  ]
+}

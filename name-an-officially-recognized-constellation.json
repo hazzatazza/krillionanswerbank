@@ -1,0 +1,365 @@
+{
+  "question": "Name an officially recognized constellation",
+  "answers": [
+    {
+      "title": "Equuleus",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Antlia",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Apus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ara",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Caelum",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Camelopardalis",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Canes Venatici",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Carina",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cetus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Chamaeleon",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Circinus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Columba",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Coma Berenices",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Corona Australis",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Corvus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Crater",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Delphinus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dorado",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Eridanus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fornax",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Grus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Horologium",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hydrus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Indus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Lacerta",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Leo Minor",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Lupus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Lynx",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mensa",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Microscopium",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Monoceros",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Musca",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Norma",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Octans",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pictor",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Piscis Austrinus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Puppis",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pyxis",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Reticulum",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sagitta",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sculptor",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Scutum",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Serpens",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sextans",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Telescopium",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Triangulum",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Triangulum Australe",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Vela",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Volans",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Vulpecula",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Aquila",
+      "tier": "Rare"
+    },
+    {
+      "title": "Auriga",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bootes",
+      "tier": "Rare"
+    },
+    {
+      "title": "Canis Minor",
+      "tier": "Rare"
+    },
+    {
+      "title": "Centaurus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cepheus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Corona Borealis",
+      "tier": "Rare"
+    },
+    {
+      "title": "Crux",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cygnus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hydra",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lepus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lyra",
+      "tier": "Rare"
+    },
+    {
+      "title": "Ophiuchus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pavo",
+      "tier": "Rare"
+    },
+    {
+      "title": "Phoenix",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tucana",
+      "tier": "Rare"
+    },
+    {
+      "title": "Andromeda",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Aquarius",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Aries",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cancer",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Canis Major",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Capricornus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Draco",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Gemini",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Hercules",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Libra",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pegasus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Perseus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pisces",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Sagittarius",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Taurus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ursa Minor",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Virgo",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Big Dipper",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Pleiades",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Cassiopeia",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Leo",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Orion",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Scorpius",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Ursa Major",
+      "tier": "Plankton"
+    }
+  ]
+}

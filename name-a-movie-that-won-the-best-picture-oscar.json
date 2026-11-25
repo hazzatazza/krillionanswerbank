@@ -1,0 +1,393 @@
+{
+  "question": "Name a movie that won the Best Picture Oscar",
+  "answers": [
+    {
+      "title": "Wings",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "A Man for All Seasons",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "All About Eve",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "All Quiet on the Western Front",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "All the King's Men",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Around the World in 80 Days",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cavalcade",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Chariots of Fire",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cimarron",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Driving Miss Daisy",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Gentleman's Agreement",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Gigi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Going My Way",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Grand Hotel",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hamlet",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "How Green Was My Valley",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "It Happened One Night",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Marty",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mrs. Miniver",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mutiny on the Bounty",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Oliver!",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ordinary People",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Out of Africa",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Terms of Endearment",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "The Best Years of Our Lives",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "The Broadway Melody",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "The Great Ziegfeld",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "The Greatest Show on Earth",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "The Life of Emile Zola",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "The Lost Weekend",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tom Jones",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "You Can't Take It with You",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Amadeus",
+      "tier": "Rare"
+    },
+    {
+      "title": "An American in Paris",
+      "tier": "Rare"
+    },
+    {
+      "title": "Annie Hall",
+      "tier": "Rare"
+    },
+    {
+      "title": "Dances with Wolves",
+      "tier": "Rare"
+    },
+    {
+      "title": "From Here to Eternity",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gandhi",
+      "tier": "Rare"
+    },
+    {
+      "title": "In the Heat of the Night",
+      "tier": "Rare"
+    },
+    {
+      "title": "Kramer vs. Kramer",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lawrence of Arabia",
+      "tier": "Rare"
+    },
+    {
+      "title": "Midnight Cowboy",
+      "tier": "Rare"
+    },
+    {
+      "title": "My Fair Lady",
+      "tier": "Rare"
+    },
+    {
+      "title": "On the Waterfront",
+      "tier": "Rare"
+    },
+    {
+      "title": "Patton",
+      "tier": "Rare"
+    },
+    {
+      "title": "Platoon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Rain Man",
+      "tier": "Rare"
+    },
+    {
+      "title": "Rebecca",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Apartment",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Bridge on the River Kwai",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Deer Hunter",
+      "tier": "Rare"
+    },
+    {
+      "title": "The English Patient",
+      "tier": "Rare"
+    },
+    {
+      "title": "The French Connection",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Last Emperor",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "tier": "Rare"
+    },
+    {
+      "title": "The Sting",
+      "tier": "Rare"
+    },
+    {
+      "title": "Unforgiven",
+      "tier": "Rare"
+    },
+    {
+      "title": "West Side Story",
+      "tier": "Rare"
+    },
+    {
+      "title": "12 Years a Slave",
+      "tier": "Schooler"
+    },
+    {
+      "title": "A Beautiful Mind",
+      "tier": "Schooler"
+    },
+    {
+      "title": "American Beauty",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Anora",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Argo",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ben-Hur",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Birdman",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Braveheart",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Casablanca",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Chicago",
+      "tier": "Schooler"
+    },
+    {
+      "title": "CODA",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Crash",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Gladiator",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Gone with the Wind",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Green Book",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Million Dollar Baby",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Moonlight",
+      "tier": "Schooler"
+    },
+    {
+      "title": "No Country for Old Men",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Nomadland",
+      "tier": "Schooler"
+    },
+    {
+      "title": "One Flew Over the Cuckoo's Nest",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Oppenheimer",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Parasite",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Rocky",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Slumdog Millionaire",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Spotlight",
+      "tier": "Schooler"
+    },
+    {
+      "title": "The Artist",
+      "tier": "Schooler"
+    },
+    {
+      "title": "The Departed",
+      "tier": "Schooler"
+    },
+    {
+      "title": "The Godfather Part II",
+      "tier": "Schooler"
+    },
+    {
+      "title": "The Hurt Locker",
+      "tier": "Schooler"
+    },
+    {
+      "title": "The King's Speech",
+      "tier": "Schooler"
+    },
+    {
+      "title": "The Shape of Water",
+      "tier": "Schooler"
+    },
+    {
+      "title": "The Sound of Music",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Shakespeare in Love",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Forrest Gump",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Schindler's List",
+      "tier": "Plankton"
+    },
+    {
+      "title": "The Godfather",
+      "tier": "Plankton"
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Titanic",
+      "tier": "Plankton"
+    }
+  ]
+}

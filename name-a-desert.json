@@ -1,0 +1,217 @@
+{
+  "question": "Name a desert",
+  "answers": [
+    {
+      "title": "Pinnacles Desert",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Accona Desert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Aralkum",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Arctic Desert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Badain Jaran",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Black Rock Desert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bolson de Mapimi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Chalbi Desert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Colorado Desert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Danakil Desert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dasht-e Lut",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Erg Chebbi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Judean Desert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Karoo",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Libyan Desert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Little Sandy Desert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nafud Desert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nubian Desert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Painted Desert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Registan Desert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ryn Desert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sechura Desert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sinai Desert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Strzelecki Desert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sturt Stony Desert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tabernas Desert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tanami Desert",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Wadi Rum",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "White Sands",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Death Valley",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gibson Desert",
+      "tier": "Rare"
+    },
+    {
+      "title": "Great Sandy Desert",
+      "tier": "Rare"
+    },
+    {
+      "title": "Great Victoria Desert",
+      "tier": "Rare"
+    },
+    {
+      "title": "Iranian Desert",
+      "tier": "Rare"
+    },
+    {
+      "title": "Karakum Desert",
+      "tier": "Rare"
+    },
+    {
+      "title": "Kyzylkum Desert",
+      "tier": "Rare"
+    },
+    {
+      "title": "Negev",
+      "tier": "Rare"
+    },
+    {
+      "title": "Simpson Desert",
+      "tier": "Rare"
+    },
+    {
+      "title": "Syrian Desert",
+      "tier": "Rare"
+    },
+    {
+      "title": "Taklamakan",
+      "tier": "Rare"
+    },
+    {
+      "title": "Thar Desert",
+      "tier": "Rare"
+    },
+    {
+      "title": "Arabian Desert",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Atacama",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Chihuahuan Desert",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Great Basin Desert",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Kalahari",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Namib",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Patagonian Desert",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Sonoran Desert",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Antarctic Desert",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Gobi",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Mojave",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Sahara",
+      "tier": "Plankton"
+    }
+  ]
+}

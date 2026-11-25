@@ -1,0 +1,289 @@
+{
+  "question": "Name an herb or spice",
+  "answers": [
+    {
+      "title": "Mahleb",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Annatto",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Asafoetida",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Borage",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Celery seed",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Chervil",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Curry leaf",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Epazote",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Galangal",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Grains of paradise",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Herbes de Provence",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Juniper berries",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Long pepper",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Lovage",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mace",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Makrut lime leaves",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nigella",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ras el hanout",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Savory",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Shiso",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sorrel",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Szechuan pepper",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Za'atar",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Allspice",
+      "tier": "Rare"
+    },
+    {
+      "title": "Anise",
+      "tier": "Rare"
+    },
+    {
+      "title": "Caraway",
+      "tier": "Rare"
+    },
+    {
+      "title": "Chipotle",
+      "tier": "Rare"
+    },
+    {
+      "title": "Chives",
+      "tier": "Rare"
+    },
+    {
+      "title": "Fennel",
+      "tier": "Rare"
+    },
+    {
+      "title": "Fenugreek",
+      "tier": "Rare"
+    },
+    {
+      "title": "Five spice",
+      "tier": "Rare"
+    },
+    {
+      "title": "Garam masala",
+      "tier": "Rare"
+    },
+    {
+      "title": "Horseradish",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lemongrass",
+      "tier": "Rare"
+    },
+    {
+      "title": "Marjoram",
+      "tier": "Rare"
+    },
+    {
+      "title": "Mustard seed",
+      "tier": "Rare"
+    },
+    {
+      "title": "Onion powder",
+      "tier": "Rare"
+    },
+    {
+      "title": "Poppy seeds",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sesame seeds",
+      "tier": "Rare"
+    },
+    {
+      "title": "Star anise",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sumac",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tarragon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Wasabi",
+      "tier": "Rare"
+    },
+    {
+      "title": "White pepper",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bay leaf",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cardamom",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cayenne",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Chili powder",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cilantro",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cloves",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cumin",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Curry powder",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Dill",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ginger",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Mint",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Nutmeg",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Oregano",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Paprika",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Parsley",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Red pepper flakes",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Rosemary",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Sage",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Thyme",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Turmeric",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Vanilla",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Saffron",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Basil",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Cinnamon",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Garlic",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Pepper",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Salt",
+      "tier": "Plankton"
+    }
+  ]
+}

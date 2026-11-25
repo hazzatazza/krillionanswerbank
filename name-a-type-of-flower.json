@@ -1,0 +1,353 @@
+{
+  "question": "Name a type of flower",
+  "answers": [
+    {
+      "title": "Middlemist's Red",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Agapanthus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Alstroemeria",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Anthurium",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bleeding heart",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Columbine",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Coneflower",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cornflower",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Delphinium",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Edelweiss",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fritillary",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Goldenrod",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Heather",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hellebore",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Impatiens",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Lupine",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nasturtium",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nigella",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Protea",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rafflesia",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ranunculus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Scabiosa",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Snowdrop",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Thistle",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Trillium",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Verbena",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Yarrow",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Amaryllis",
+      "tier": "Rare"
+    },
+    {
+      "title": "Anemone",
+      "tier": "Rare"
+    },
+    {
+      "title": "Aster",
+      "tier": "Rare"
+    },
+    {
+      "title": "Azalea",
+      "tier": "Rare"
+    },
+    {
+      "title": "Baby's breath",
+      "tier": "Rare"
+    },
+    {
+      "title": "Begonia",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bird of paradise",
+      "tier": "Rare"
+    },
+    {
+      "title": "Black-eyed Susan",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bougainvillea",
+      "tier": "Rare"
+    },
+    {
+      "title": "Calla lily",
+      "tier": "Rare"
+    },
+    {
+      "title": "Camellia",
+      "tier": "Rare"
+    },
+    {
+      "title": "Chamomile",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cosmos",
+      "tier": "Rare"
+    },
+    {
+      "title": "Crocus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Dahlia",
+      "tier": "Rare"
+    },
+    {
+      "title": "Forget-me-not",
+      "tier": "Rare"
+    },
+    {
+      "title": "Foxglove",
+      "tier": "Rare"
+    },
+    {
+      "title": "Freesia",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gardenia",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gerbera",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gladiolus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Honeysuckle",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hyacinth",
+      "tier": "Rare"
+    },
+    {
+      "title": "Morning glory",
+      "tier": "Rare"
+    },
+    {
+      "title": "Petunia",
+      "tier": "Rare"
+    },
+    {
+      "title": "Plumeria",
+      "tier": "Rare"
+    },
+    {
+      "title": "Poinsettia",
+      "tier": "Rare"
+    },
+    {
+      "title": "Primrose",
+      "tier": "Rare"
+    },
+    {
+      "title": "Snapdragon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sweet pea",
+      "tier": "Rare"
+    },
+    {
+      "title": "Wisteria",
+      "tier": "Rare"
+    },
+    {
+      "title": "Zinnia",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bluebell",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Buttercup",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Carnation",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cherry blossom",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Chrysanthemum",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Daffodil",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Dandelion",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Geranium",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Hibiscus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Hydrangea",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Iris",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Jasmine",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Lavender",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Lilac",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Lotus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Magnolia",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Marigold",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Orchid",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pansy",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Peony",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Poppy",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Violet",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Corpse flower",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Daisy",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Lily",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Rose",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Sunflower",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Tulip",
+      "tier": "Plankton"
+    }
+  ]
+}

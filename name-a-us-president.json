@@ -1,0 +1,185 @@
+{
+  "question": "Name a US president",
+  "answers": [
+    {
+      "title": "Martin Van Buren",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Benjamin Harrison",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Chester A. Arthur",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Franklin Pierce",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "James A. Garfield",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "James Buchanan",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "John Quincy Adams",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "John Tyler",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rutherford B. Hayes",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Warren G. Harding",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Zachary Taylor",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Andrew Johnson",
+      "tier": "Rare"
+    },
+    {
+      "title": "Calvin Coolidge",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gerald Ford",
+      "tier": "Rare"
+    },
+    {
+      "title": "Grover Cleveland",
+      "tier": "Rare"
+    },
+    {
+      "title": "Herbert Hoover",
+      "tier": "Rare"
+    },
+    {
+      "title": "James K. Polk",
+      "tier": "Rare"
+    },
+    {
+      "title": "James Madison",
+      "tier": "Rare"
+    },
+    {
+      "title": "James Monroe",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lyndon B. Johnson",
+      "tier": "Rare"
+    },
+    {
+      "title": "William Howard Taft",
+      "tier": "Rare"
+    },
+    {
+      "title": "William McKinley",
+      "tier": "Rare"
+    },
+    {
+      "title": "Woodrow Wilson",
+      "tier": "Rare"
+    },
+    {
+      "title": "Andrew Jackson",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Bill Clinton",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Dwight D. Eisenhower",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Franklin D. Roosevelt",
+      "tier": "Schooler"
+    },
+    {
+      "title": "George H.W. Bush",
+      "tier": "Schooler"
+    },
+    {
+      "title": "George W. Bush",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Harry S. Truman",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Jimmy Carter",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Joe Biden",
+      "tier": "Schooler"
+    },
+    {
+      "title": "John Adams",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Richard Nixon",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ronald Reagan",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Theodore Roosevelt",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Thomas Jefferson",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ulysses S. Grant",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Millard Fillmore",
+      "tier": "Too clever"
+    },
+    {
+      "title": "William Henry Harrison",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Abraham Lincoln",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Barack Obama",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Donald Trump",
+      "tier": "Plankton"
+    },
+    {
+      "title": "George Washington",
+      "tier": "Plankton"
+    },
+    {
+      "title": "John F. Kennedy",
+      "tier": "Plankton"
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "question": "Name a programming language",
+  "answers": [
+    {
+      "title": "APL",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "ActionScript",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "ALGOL",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Awk",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Befunge",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Chef",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "CoffeeScript",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Crystal",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "D",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Elm",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Emojicode",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Forth",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Groovy",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "HolyC",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Intercal",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Logo",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "LOLCODE",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Malbolge",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mojo",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nim",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "OCaml",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ook!",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Piet",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "PostScript",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Racket",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Raku",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rockstar",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "SAS",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Shakespeare",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Simula",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Solidity",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tcl",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Unlambda",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Velato",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Zig",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ada",
+      "tier": "Rare"
+    },
+    {
+      "title": "Assembly",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bash",
+      "tier": "Rare"
+    },
+    {
+      "title": "BASIC",
+      "tier": "Rare"
+    },
+    {
+      "title": "Clojure",
+      "tier": "Rare"
+    },
+    {
+      "title": "COBOL",
+      "tier": "Rare"
+    },
+    {
+      "title": "Dart",
+      "tier": "Rare"
+    },
+    {
+      "title": "Elixir",
+      "tier": "Rare"
+    },
+    {
+      "title": "Erlang",
+      "tier": "Rare"
+    },
+    {
+      "title": "F#",
+      "tier": "Rare"
+    },
+    {
+      "title": "Fortran",
+      "tier": "Rare"
+    },
+    {
+      "title": "Haskell",
+      "tier": "Rare"
+    },
+    {
+      "title": "Julia",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lisp",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lua",
+      "tier": "Rare"
+    },
+    {
+      "title": "Objective-C",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pascal",
+      "tier": "Rare"
+    },
+    {
+      "title": "Perl",
+      "tier": "Rare"
+    },
+    {
+      "title": "PowerShell",
+      "tier": "Rare"
+    },
+    {
+      "title": "Prolog",
+      "tier": "Rare"
+    },
+    {
+      "title": "Scala",
+      "tier": "Rare"
+    },
+    {
+      "title": "Scheme",
+      "tier": "Rare"
+    },
+    {
+      "title": "Scratch",
+      "tier": "Rare"
+    },
+    {
+      "title": "Smalltalk",
+      "tier": "Rare"
+    },
+    {
+      "title": "Visual Basic",
+      "tier": "Rare"
+    },
+    {
+      "title": "C",
+      "tier": "Schooler"
+    },
+    {
+      "title": "C#",
+      "tier": "Schooler"
+    },
+    {
+      "title": "C++",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Go",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Kotlin",
+      "tier": "Schooler"
+    },
+    {
+      "title": "MATLAB",
+      "tier": "Schooler"
+    },
+    {
+      "title": "PHP",
+      "tier": "Schooler"
+    },
+    {
+      "title": "R",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ruby",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Rust",
+      "tier": "Schooler"
+    },
+    {
+      "title": "SQL",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Swift",
+      "tier": "Schooler"
+    },
+    {
+      "title": "TypeScript",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Brainfuck",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Whitespace",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Java",
+      "tier": "Plankton"
+    },
+    {
+      "title": "JavaScript",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Python",
+      "tier": "Plankton"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "question": "Name a city that has hosted the Summer or Winter Olympics",
+  "answers": [
+    {
+      "title": "Chamonix",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Colombes",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cortina d'Ampezzo",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Garmisch-Partenkirchen",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Oslo",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sapporo",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Squaw Valley",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "St. Moritz",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Albertville",
+      "tier": "Rare"
+    },
+    {
+      "title": "Amsterdam",
+      "tier": "Rare"
+    },
+    {
+      "title": "Antwerp",
+      "tier": "Rare"
+    },
+    {
+      "title": "Calgary",
+      "tier": "Rare"
+    },
+    {
+      "title": "Grenoble",
+      "tier": "Rare"
+    },
+    {
+      "title": "Helsinki",
+      "tier": "Rare"
+    },
+    {
+      "title": "Innsbruck",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lake Placid",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lillehammer",
+      "tier": "Rare"
+    },
+    {
+      "title": "Melbourne",
+      "tier": "Rare"
+    },
+    {
+      "title": "Nagano",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sarajevo",
+      "tier": "Rare"
+    },
+    {
+      "title": "Stockholm",
+      "tier": "Rare"
+    },
+    {
+      "title": "Turin",
+      "tier": "Rare"
+    },
+    {
+      "title": "Atlanta",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Barcelona",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Berlin",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Mexico City",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Milan",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Montreal",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Moscow",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Munich",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pyeongchang",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Rio de Janeiro",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Rome",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Salt Lake City",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Seoul",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Sochi",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Sydney",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Vancouver",
+      "tier": "Schooler"
+    },
+    {
+      "title": "St. Louis",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Athens",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Beijing",
+      "tier": "Plankton"
+    },
+    {
+      "title": "London",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Los Angeles",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Paris",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Tokyo",
+      "tier": "Plankton"
+    }
+  ]
+}

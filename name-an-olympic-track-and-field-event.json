@@ -1,0 +1,181 @@
+{
+  "question": "Name an Olympic track and field event",
+  "answers": [
+    {
+      "title": "Tug of war",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "10km race walk",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "200 metres hurdles",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "3000 metres",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "3000 metres team race",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "5 mile run",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "56-pound weight throw",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "60 metres",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "80 metres hurdles",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cross country running",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Marathon race walk mixed relay",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Medley relay",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mixed relay",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pentathlon for women",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Standing high jump",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Standing triple jump",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "10000 metres",
+      "tier": "Rare"
+    },
+    {
+      "title": "3000 metres steeplechase",
+      "tier": "Rare"
+    },
+    {
+      "title": "5000 metres",
+      "tier": "Rare"
+    },
+    {
+      "title": "50km race walk",
+      "tier": "Rare"
+    },
+    {
+      "title": "Heptathlon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pentathlon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Standing long jump",
+      "tier": "Rare"
+    },
+    {
+      "title": "100 metres hurdles",
+      "tier": "Schooler"
+    },
+    {
+      "title": "110 metres hurdles",
+      "tier": "Schooler"
+    },
+    {
+      "title": "1500 metres",
+      "tier": "Schooler"
+    },
+    {
+      "title": "200 metres",
+      "tier": "Schooler"
+    },
+    {
+      "title": "400 metres",
+      "tier": "Schooler"
+    },
+    {
+      "title": "400 metres hurdles",
+      "tier": "Schooler"
+    },
+    {
+      "title": "4x100 metres relay",
+      "tier": "Schooler"
+    },
+    {
+      "title": "4x400 metres relay",
+      "tier": "Schooler"
+    },
+    {
+      "title": "800 metres",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Decathlon",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Discus throw",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Hammer throw",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Javelin throw",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pole vault",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Shot put",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Triple jump",
+      "tier": "Schooler"
+    },
+    {
+      "title": "20km race walk",
+      "tier": "Too clever"
+    },
+    {
+      "title": "100 metres",
+      "tier": "Plankton"
+    },
+    {
+      "title": "High jump",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Long jump",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Marathon",
+      "tier": "Plankton"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "question": "Name a breakfast cereal brand",
+  "answers": [
+    {
+      "title": "Kaboom",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Boo Berry",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cracklin' Oat Bran",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Crunchy Nut",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ezekiel 4:9",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Franken Berry",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "French Toast Crunch",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fruit Brute",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "King Vitaman",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Magic Spoon",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Malt-O-Meal",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nesquik cereal",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nutri-Grain",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Oreo O's",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Post Grape-Nuts Flakes",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Product 19",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Quaker Oat Squares",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Quaker Oats",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Quisp",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Shreddies",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "All-Bran",
+      "tier": "Rare"
+    },
+    {
+      "title": "Alpha-Bits",
+      "tier": "Rare"
+    },
+    {
+      "title": "Apple Jacks",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bran Flakes",
+      "tier": "Rare"
+    },
+    {
+      "title": "Chex",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cocoa Krispies",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cocoa Pebbles",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cookie Crisp",
+      "tier": "Rare"
+    },
+    {
+      "title": "Corn Pops",
+      "tier": "Rare"
+    },
+    {
+      "title": "Count Chocula",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cream of Wheat",
+      "tier": "Rare"
+    },
+    {
+      "title": "Crispix",
+      "tier": "Rare"
+    },
+    {
+      "title": "Fiber One",
+      "tier": "Rare"
+    },
+    {
+      "title": "Frosted Mini-Wheats",
+      "tier": "Rare"
+    },
+    {
+      "title": "Fruity Pebbles",
+      "tier": "Rare"
+    },
+    {
+      "title": "Golden Crisp",
+      "tier": "Rare"
+    },
+    {
+      "title": "Golden Grahams",
+      "tier": "Rare"
+    },
+    {
+      "title": "Granola",
+      "tier": "Rare"
+    },
+    {
+      "title": "Honey Comb",
+      "tier": "Rare"
+    },
+    {
+      "title": "Kashi",
+      "tier": "Rare"
+    },
+    {
+      "title": "Kix",
+      "tier": "Rare"
+    },
+    {
+      "title": "Muesli",
+      "tier": "Rare"
+    },
+    {
+      "title": "Puffins",
+      "tier": "Rare"
+    },
+    {
+      "title": "Reese's Puffs",
+      "tier": "Rare"
+    },
+    {
+      "title": "Shredded Wheat",
+      "tier": "Rare"
+    },
+    {
+      "title": "Total",
+      "tier": "Rare"
+    },
+    {
+      "title": "Trix",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cap'n Crunch",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cinnamon Toast Crunch",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cocoa Puffs",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Froot Loops",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Grape Nuts",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Honey Bunches of Oats",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Honey Nut Cheerios",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Honey Smacks",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Life",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Raisin Bran",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Special K",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Wheaties",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Weetabix",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Cheerios",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Corn Flakes",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Frosted Flakes",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Lucky Charms",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Rice Krispies",
+      "tier": "Plankton"
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "question": "Name a Greek god or goddess",
+  "answers": [
+    {
+      "title": "Coeus",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Aeolus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Aether",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Amphitrite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ananke",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Asclepius",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Boreas",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Calypso",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Chaos",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Charon",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Crius",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Deimos",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dione",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Enyo",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Epimetheus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Erebus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Eurus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hebe",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hemera",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hygeia",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hypnos",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Iapetus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kratos",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Leto",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Maia",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Metis",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nemesis",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nereus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Notus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Phobos",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Phoebe",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pontus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Priapus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Proteus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Styx",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tartarus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Thanatos",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Theia",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Triton",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Zephyrus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Circe",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cronus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Eos",
+      "tier": "Rare"
+    },
+    {
+      "title": "Eris",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gaia",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hecate",
+      "tier": "Rare"
+    },
+    {
+      "title": "Helios",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hestia",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hyperion",
+      "tier": "Rare"
+    },
+    {
+      "title": "Iris",
+      "tier": "Rare"
+    },
+    {
+      "title": "Mnemosyne",
+      "tier": "Rare"
+    },
+    {
+      "title": "Morpheus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Nyx",
+      "tier": "Rare"
+    },
+    {
+      "title": "Oceanus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pan",
+      "tier": "Rare"
+    },
+    {
+      "title": "Rhea",
+      "tier": "Rare"
+    },
+    {
+      "title": "Selene",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tethys",
+      "tier": "Rare"
+    },
+    {
+      "title": "Themis",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tyche",
+      "tier": "Rare"
+    },
+    {
+      "title": "Uranus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Aphrodite",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ares",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Artemis",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Atlas",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Demeter",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Dionysus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Eros",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Hephaestus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Hercules",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Hermes",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Persephone",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Prometheus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Nike",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Apollo",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Athena",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Hades",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Hera",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Poseidon",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Zeus",
+      "tier": "Plankton"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "question": "Name a shark species",
+  "answers": [
+    {
+      "title": "Cookie cutter shark",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Angel shark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bamboo shark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Broadnose sevengill shark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bronze whaler",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Catshark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dogfish shark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dusky shark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dwarf lanternshark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Epaulette shark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Frilled shark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Galapagos shark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Greenland shark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Gummy shark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Megamouth shark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ninja lanternshark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pacific sleeper shark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Porbeagle",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Port Jackson shark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pyjama shark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Salmon shark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sandbar shark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sawshark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Silvertip shark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sixgill shark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Smooth-hound",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Swell shark",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tasselled wobbegong",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tope",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Basking shark",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bonnethead",
+      "tier": "Rare"
+    },
+    {
+      "title": "Goblin shark",
+      "tier": "Rare"
+    },
+    {
+      "title": "Horn shark",
+      "tier": "Rare"
+    },
+    {
+      "title": "Leopard shark",
+      "tier": "Rare"
+    },
+    {
+      "title": "Oceanic whitetip shark",
+      "tier": "Rare"
+    },
+    {
+      "title": "Silky shark",
+      "tier": "Rare"
+    },
+    {
+      "title": "Spinner shark",
+      "tier": "Rare"
+    },
+    {
+      "title": "Wobbegong",
+      "tier": "Rare"
+    },
+    {
+      "title": "Zebra shark",
+      "tier": "Rare"
+    },
+    {
+      "title": "Blacktip shark",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Blue shark",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Lemon shark",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Mako shark",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Nurse shark",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Reef shark",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Sand tiger shark",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Thresher shark",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Whale shark",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Megalodon",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Bull shark",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Great white shark",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Hammerhead shark",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Tiger shark",
+      "tier": "Plankton"
+    }
+  ]
+}

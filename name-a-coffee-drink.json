@@ -1,0 +1,269 @@
+{
+  "question": "Name a coffee drink",
+  "answers": [
+    {
+      "title": "Egg coffee",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Aeropress",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bicerin",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Breve",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cafe bombon",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cafe de olla",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cafe Touba",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Caffe corretto",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Carajillo",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cowboy coffee",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dirty chai",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Einspanner",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Espresso con panna",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Espresso Romano",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Espresso tonic",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ethiopian coffee ceremony",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Freddo espresso",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Galao",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Greek coffee",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Karsk",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kopi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kopi luwak",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Magic",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Marocchino",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mazagran",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Moka",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Oliang",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Percolator coffee",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Piccolo",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Shakerato",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Wiener Melange",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Yuanyang",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Affogato",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cafe au lait",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cafe con leche",
+      "tier": "Rare"
+    },
+    {
+      "title": "Caramel macchiato",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cuban coffee",
+      "tier": "Rare"
+    },
+    {
+      "title": "Decaf",
+      "tier": "Rare"
+    },
+    {
+      "title": "Doppio",
+      "tier": "Rare"
+    },
+    {
+      "title": "Frappe",
+      "tier": "Rare"
+    },
+    {
+      "title": "Frappuccino",
+      "tier": "Rare"
+    },
+    {
+      "title": "Instant coffee",
+      "tier": "Rare"
+    },
+    {
+      "title": "Irish coffee",
+      "tier": "Rare"
+    },
+    {
+      "title": "Long black",
+      "tier": "Rare"
+    },
+    {
+      "title": "Lungo",
+      "tier": "Rare"
+    },
+    {
+      "title": "Nitro cold brew",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pumpkin spice latte",
+      "tier": "Rare"
+    },
+    {
+      "title": "Red eye",
+      "tier": "Rare"
+    },
+    {
+      "title": "Ristretto",
+      "tier": "Rare"
+    },
+    {
+      "title": "Turkish coffee",
+      "tier": "Rare"
+    },
+    {
+      "title": "Vietnamese iced coffee",
+      "tier": "Rare"
+    },
+    {
+      "title": "Americano",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cold brew",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cortado",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Drip coffee",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Flat white",
+      "tier": "Schooler"
+    },
+    {
+      "title": "French press",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Iced coffee",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Macchiato",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Mocha",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pour over",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Bulletproof coffee",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Dalgona coffee",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Cappuccino",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Espresso",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Latte",
+      "tier": "Plankton"
+    }
+  ]
+}

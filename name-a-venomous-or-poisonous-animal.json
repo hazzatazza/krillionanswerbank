@@ -1,0 +1,249 @@
+{
+  "question": "Name a venomous or poisonous animal",
+  "answers": [
+    {
+      "title": "Spanish dancer nudibranch",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Assassin bug",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Beaded lizard",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Boomslang",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Brown snake",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bushmaster",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fer-de-lance",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hooded pitohui",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Krait",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Puff adder",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Scorpionfish",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sea anemone",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sea snake",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sea urchin",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Shrew",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Slow loris",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Solenodon",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Stinging catfish",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tarantula hawk",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tiger snake",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Vampire bat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Velvet ant",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Wandering spider",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Weever fish",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Adder",
+      "tier": "Rare"
+    },
+    {
+      "title": "Brown recluse spider",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bullet ant",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cane toad",
+      "tier": "Rare"
+    },
+    {
+      "title": "Centipede",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cone snail",
+      "tier": "Rare"
+    },
+    {
+      "title": "Coral snake",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cottonmouth",
+      "tier": "Rare"
+    },
+    {
+      "title": "Death adder",
+      "tier": "Rare"
+    },
+    {
+      "title": "Fire ant",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gila monster",
+      "tier": "Rare"
+    },
+    {
+      "title": "Komodo dragon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Portuguese man o' war",
+      "tier": "Rare"
+    },
+    {
+      "title": "Redback spider",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sydney funnel-web spider",
+      "tier": "Rare"
+    },
+    {
+      "title": "Taipan",
+      "tier": "Rare"
+    },
+    {
+      "title": "Yellow jacket",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bee",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Blue-ringed octopus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Box jellyfish",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Copperhead",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Hornet",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Jellyfish",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Lionfish",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Mamba",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Poison dart frog",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pufferfish",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Stingray",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Stonefish",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Tarantula",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Viper",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Wasp",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Platypus",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Black widow spider",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Cobra",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Rattlesnake",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Scorpion",
+      "tier": "Plankton"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "question": "Name a whale species",
+  "answers": [
+    {
+      "title": "Spade-toothed whale",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Andrews' beaked whale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Arnoux's beaked whale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Baird's beaked whale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Blainville's beaked whale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dwarf sperm whale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "False killer whale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Gervais' beaked whale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Gray's beaked whale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hector's beaked whale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Longman's beaked whale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Melon-headed whale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Omura's whale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pygmy killer whale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pygmy right whale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Shepherd's beaked whale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Southern bottlenose whale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sowerby's beaked whale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Stejneger's beaked whale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Strap-toothed whale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "True's beaked whale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Antarctic minke whale",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bryde's whale",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cuvier's beaked whale",
+      "tier": "Rare"
+    },
+    {
+      "title": "Northern bottlenose whale",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pygmy sperm whale",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sei whale",
+      "tier": "Rare"
+    },
+    {
+      "title": "Beluga",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Bowhead whale",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Fin whale",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Gray whale",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Minke whale",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pilot whale",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Right whale",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Narwhal",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Blue whale",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Humpback whale",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Orca",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Sperm whale",
+      "tier": "Plankton"
+    }
+  ]
+}

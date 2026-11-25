@@ -1,0 +1,265 @@
+{
+  "question": "Name a style of hat",
+  "answers": [
+    {
+      "title": "Zucchetto",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Akubra",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bicorne",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Biretta",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Campaign hat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Capotain",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Chullo",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Conical hat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dunce cap",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hennin",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Homburg",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Jester hat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kepi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kippah",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kofia",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kolah",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mitre",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Montera",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mortarboard",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nightcap",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Party hat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Peaked cap",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Phrygian cap",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pith helmet",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sailor hat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Shako",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tam o'shanter",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tricorne",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Balaclava",
+      "tier": "Rare"
+    },
+    {
+      "title": "Boater",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bonnet",
+      "tier": "Rare"
+    },
+    {
+      "title": "Boonie hat",
+      "tier": "Rare"
+    },
+    {
+      "title": "Chef's hat",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cloche hat",
+      "tier": "Rare"
+    },
+    {
+      "title": "Coonskin cap",
+      "tier": "Rare"
+    },
+    {
+      "title": "Deerstalker",
+      "tier": "Rare"
+    },
+    {
+      "title": "Fascinator",
+      "tier": "Rare"
+    },
+    {
+      "title": "Flat cap",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hard hat",
+      "tier": "Rare"
+    },
+    {
+      "title": "Newsboy cap",
+      "tier": "Rare"
+    },
+    {
+      "title": "Panama hat",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pillbox hat",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pork pie hat",
+      "tier": "Rare"
+    },
+    {
+      "title": "Propeller beanie",
+      "tier": "Rare"
+    },
+    {
+      "title": "Santa hat",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sombrero",
+      "tier": "Rare"
+    },
+    {
+      "title": "Straw hat",
+      "tier": "Rare"
+    },
+    {
+      "title": "Trucker hat",
+      "tier": "Rare"
+    },
+    {
+      "title": "Turban",
+      "tier": "Rare"
+    },
+    {
+      "title": "Visor",
+      "tier": "Rare"
+    },
+    {
+      "title": "Witch hat",
+      "tier": "Rare"
+    },
+    {
+      "title": "Beanie",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Bearskin",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Beret",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Bowler hat",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Bucket hat",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Fedora",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Fez",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Snapback",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Sun hat",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Trilby",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ushanka",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Baseball cap",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Cowboy hat",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Top hat",
+      "tier": "Plankton"
+    }
+  ]
+}

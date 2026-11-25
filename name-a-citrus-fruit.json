@@ -1,0 +1,145 @@
+{
+  "question": "Name a citrus fruit",
+  "answers": [
+    {
+      "title": "Etrog",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Buddha's hand",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Calamansi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Chinotto",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Finger lime",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kabosu",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kinnow",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Limequat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ponkan",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rangpur",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sudachi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bergamot",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bitter orange",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cara cara orange",
+      "tier": "Rare"
+    },
+    {
+      "title": "Citron",
+      "tier": "Rare"
+    },
+    {
+      "title": "Dekopon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Kaffir lime",
+      "tier": "Rare"
+    },
+    {
+      "title": "Key lime",
+      "tier": "Rare"
+    },
+    {
+      "title": "Meyer lemon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Navel orange",
+      "tier": "Rare"
+    },
+    {
+      "title": "Satsuma",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tangelo",
+      "tier": "Rare"
+    },
+    {
+      "title": "Ugli fruit",
+      "tier": "Rare"
+    },
+    {
+      "title": "Valencia orange",
+      "tier": "Rare"
+    },
+    {
+      "title": "Blood orange",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Clementine",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Mandarin",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pomelo",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Tangerine",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Kumquat",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Yuzu",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Grapefruit",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Lemon",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Lime",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Orange",
+      "tier": "Plankton"
+    }
+  ]
+}

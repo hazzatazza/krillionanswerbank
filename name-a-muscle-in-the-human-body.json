@@ -1,0 +1,281 @@
+{
+  "question": "Name a muscle in the human body",
+  "answers": [
+    {
+      "title": "Stapedius",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Arrector pili",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Brachioradialis",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Buccinator",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ciliary muscle",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Coracobrachialis",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Detrusor",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Extensor digitorum",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Flexor digitorum longus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Frontalis",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Gemellus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Gracilis",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Levator labii superioris alaeque nasi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Levator scapulae",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Multifidus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Obturator",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Orbicularis oculi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Orbicularis oris",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Palmaris longus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pectineus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pelvic floor",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Peroneus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Piriformis",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Plantaris",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Platysma",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Popliteus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pronator teres",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Quadratus lumborum",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rectus femoris",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Scalenes",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sternocleidomastoid",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Supinator",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Temporalis",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tensor fasciae latae",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Teres major",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tibialis posterior",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Vastus intermedius",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Vastus lateralis",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Vastus medialis",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Zygomaticus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Abductors",
+      "tier": "Rare"
+    },
+    {
+      "title": "Adductors",
+      "tier": "Rare"
+    },
+    {
+      "title": "Erector spinae",
+      "tier": "Rare"
+    },
+    {
+      "title": "Iliopsoas",
+      "tier": "Rare"
+    },
+    {
+      "title": "Intercostal muscles",
+      "tier": "Rare"
+    },
+    {
+      "title": "Masseter",
+      "tier": "Rare"
+    },
+    {
+      "title": "Rhomboids",
+      "tier": "Rare"
+    },
+    {
+      "title": "Rotator cuff",
+      "tier": "Rare"
+    },
+    {
+      "title": "Serratus anterior",
+      "tier": "Rare"
+    },
+    {
+      "title": "Soleus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tibialis anterior",
+      "tier": "Rare"
+    },
+    {
+      "title": "Transverse abdominis",
+      "tier": "Rare"
+    },
+    {
+      "title": "Calves",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Deltoids",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Diaphragm",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Forearms",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Glutes",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Hamstrings",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Latissimus dorsi",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Obliques",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pectorals",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Quadriceps",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Trapezius",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Sartorius",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Tongue",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Abs",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Biceps",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Heart",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Triceps",
+      "tier": "Plankton"
+    }
+  ]
+}

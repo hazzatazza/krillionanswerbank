@@ -1,0 +1,237 @@
+{
+  "question": "Name a martial art",
+  "answers": [
+    {
+      "title": "Systema",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Baguazhang",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bajiquan",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bartitsu",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bokator",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bokh",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Catch wrestling",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dambe",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Gatka",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Glima",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "HEMA",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Iaido",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kalaripayattu",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kenjutsu",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kenpo",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kyokushin",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kyudo",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Lethwei",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Muay Boran",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pankration",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pehlwani",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pencak Silat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sanda",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Savate",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Shaolin kung fu",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Shotokan",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Shuai jiao",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ssireum",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Taekkyeon",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tang Soo Do",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Vale Tudo",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Xingyiquan",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Zui quan",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Escrima",
+      "tier": "Rare"
+    },
+    {
+      "title": "Fencing",
+      "tier": "Rare"
+    },
+    {
+      "title": "Jeet Kune Do",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sambo",
+      "tier": "Rare"
+    },
+    {
+      "title": "Silat",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sumo",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tai Chi",
+      "tier": "Rare"
+    },
+    {
+      "title": "Wing Chun",
+      "tier": "Rare"
+    },
+    {
+      "title": "Aikido",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Brazilian jiu-jitsu",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Capoeira",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Hapkido",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Jujutsu",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Kendo",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Kickboxing",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Krav Maga",
+      "tier": "Schooler"
+    },
+    {
+      "title": "MMA",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Muay Thai",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Wrestling",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ninjutsu",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Boxing",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Judo",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Karate",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Kung Fu",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Taekwondo",
+      "tier": "Plankton"
+    }
+  ]
+}

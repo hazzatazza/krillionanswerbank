@@ -1,0 +1,309 @@
+{
+  "question": "Name a dinosaur",
+  "answers": [
+    {
+      "title": "Leaellynasaura",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Megalosaurus",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Albertosaurus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Amargasaurus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Baryonyx",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Camarasaurus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Carcharodontosaurus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Coelophysis",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cryolophosaurus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dreadnoughtus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Edmontosaurus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Elasmosaurus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Eoraptor",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Gastonia",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ichthyosaurus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Liopleurodon",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Microraptor",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Minmi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Muttaburrasaurus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nanotyrannus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nodosaurus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nothosaurus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ophthalmosaurus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ornithomimus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ouranosaurus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Patagotitan",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sauroposeidon",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Seismosaurus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sinosauropteryx",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Stygimoloch",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Suchomimus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Supersaurus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tarbosaurus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Titanosaurus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Zuniceratops",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Argentinosaurus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Carnotaurus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Ceratosaurus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Corythosaurus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Deinonychus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Dilophosaurus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Dimetrodon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gallimimus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Giganotosaurus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hadrosaurus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Kentrosaurus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Maiasaura",
+      "tier": "Rare"
+    },
+    {
+      "title": "Mamenchisaurus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Mosasaurus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Oviraptor",
+      "tier": "Rare"
+    },
+    {
+      "title": "Plesiosaur",
+      "tier": "Rare"
+    },
+    {
+      "title": "Protoceratops",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pteranodon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Quetzalcoatlus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Scelidosaurus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Styracosaurus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Therizinosaurus",
+      "tier": "Rare"
+    },
+    {
+      "title": "Troodon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Utahraptor",
+      "tier": "Rare"
+    },
+    {
+      "title": "Allosaurus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ankylosaurus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Apatosaurus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Diplodocus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Iguanodon",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pachycephalosaurus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Parasaurolophus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Spinosaurus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Archaeopteryx",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Compsognathus",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Megalodon",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Brachiosaurus",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Pterodactyl",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Stegosaurus",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Triceratops",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Tyrannosaurus rex",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Velociraptor",
+      "tier": "Plankton"
+    }
+  ]
+}

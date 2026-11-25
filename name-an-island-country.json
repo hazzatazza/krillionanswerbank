@@ -1,0 +1,193 @@
+{
+  "question": "Name an island country",
+  "answers": [
+    {
+      "title": "Tuvalu",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Antigua and Barbuda",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bahrain",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Brunei",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dominica",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kiribati",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Marshall Islands",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Micronesia",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Palau",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Saint Kitts and Nevis",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Saint Vincent and the Grenadines",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sao Tome and Principe",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Solomon Islands",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Vanuatu",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bahamas",
+      "tier": "Rare"
+    },
+    {
+      "title": "Barbados",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cabo Verde",
+      "tier": "Rare"
+    },
+    {
+      "title": "Comoros",
+      "tier": "Rare"
+    },
+    {
+      "title": "Grenada",
+      "tier": "Rare"
+    },
+    {
+      "title": "Mauritius",
+      "tier": "Rare"
+    },
+    {
+      "title": "Papua New Guinea",
+      "tier": "Rare"
+    },
+    {
+      "title": "Saint Lucia",
+      "tier": "Rare"
+    },
+    {
+      "title": "Samoa",
+      "tier": "Rare"
+    },
+    {
+      "title": "Seychelles",
+      "tier": "Rare"
+    },
+    {
+      "title": "Timor-Leste",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tonga",
+      "tier": "Rare"
+    },
+    {
+      "title": "Trinidad and Tobago",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cyprus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Dominican Republic",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Fiji",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Haiti",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Iceland",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Indonesia",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ireland",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Jamaica",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Madagascar",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Maldives",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Malta",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Philippines",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Singapore",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Sri Lanka",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Nauru",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Australia",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Cuba",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Japan",
+      "tier": "Plankton"
+    },
+    {
+      "title": "New Zealand",
+      "tier": "Plankton"
+    },
+    {
+      "title": "United Kingdom",
+      "tier": "Plankton"
+    }
+  ]
+}

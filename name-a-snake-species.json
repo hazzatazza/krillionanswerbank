@@ -1,0 +1,289 @@
+{
+  "question": "Name a snake species",
+  "answers": [
+    {
+      "title": "Tentacled snake",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Amethystine python",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Barbados threadsnake",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Blind snake",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bush viper",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Carpet python",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Coachwhip",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Egg-eating snake",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Emerald tree boa",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Eyelash viper",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Glossy snake",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Green tree python",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Horned viper",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Krait",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Long-nosed whip snake",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mangrove snake",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Massasauga",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mud snake",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pine snake",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Racer",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rainbow boa",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rhinoceros viper",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ribbon snake",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Ringneck snake",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rough green snake",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rubber boa",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Scarlet snake",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sharp-tailed snake",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Smooth snake",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Worm snake",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Asp",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bull snake",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bushmaster",
+      "tier": "Rare"
+    },
+    {
+      "title": "Death adder",
+      "tier": "Rare"
+    },
+    {
+      "title": "Eastern brown snake",
+      "tier": "Rare"
+    },
+    {
+      "title": "Fer-de-lance",
+      "tier": "Rare"
+    },
+    {
+      "title": "Flying snake",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gaboon viper",
+      "tier": "Rare"
+    },
+    {
+      "title": "Grass snake",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hognose snake",
+      "tier": "Rare"
+    },
+    {
+      "title": "Indigo snake",
+      "tier": "Rare"
+    },
+    {
+      "title": "Kingsnake",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pit viper",
+      "tier": "Rare"
+    },
+    {
+      "title": "Puff adder",
+      "tier": "Rare"
+    },
+    {
+      "title": "Rat snake",
+      "tier": "Rare"
+    },
+    {
+      "title": "Russell's viper",
+      "tier": "Rare"
+    },
+    {
+      "title": "Saw-scaled viper",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sea snake",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sidewinder",
+      "tier": "Rare"
+    },
+    {
+      "title": "Taipan",
+      "tier": "Rare"
+    },
+    {
+      "title": "Tiger snake",
+      "tier": "Rare"
+    },
+    {
+      "title": "Water snake",
+      "tier": "Rare"
+    },
+    {
+      "title": "Adder",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Anaconda",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ball python",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Copperhead",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Coral snake",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Corn snake",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cottonmouth",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Garter snake",
+      "tier": "Schooler"
+    },
+    {
+      "title": "King cobra",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Mamba",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Milk snake",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Reticulated python",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Viper",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Boomslang",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Titanoboa",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Boa constrictor",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Cobra",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Python",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Rattlesnake",
+      "tier": "Plankton"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "question": "Name a penguin species",
+  "answers": [
+    {
+      "title": "White-flippered penguin",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Erect-crested penguin",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fiordland penguin",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Snares penguin",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Yellow-eyed penguin",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Northern rockhopper penguin",
+      "tier": "Rare"
+    },
+    {
+      "title": "Royal penguin",
+      "tier": "Rare"
+    },
+    {
+      "title": "Southern rockhopper penguin",
+      "tier": "Rare"
+    },
+    {
+      "title": "Adélie penguin",
+      "tier": "Schooler"
+    },
+    {
+      "title": "African penguin",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Chinstrap penguin",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Galapagos penguin",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Gentoo penguin",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Humboldt penguin",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Magellanic penguin",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Rockhopper penguin",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Macaroni penguin",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Emperor penguin",
+      "tier": "Plankton"
+    },
+    {
+      "title": "King penguin",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Little penguin",
+      "tier": "Plankton"
+    }
+  ]
+}

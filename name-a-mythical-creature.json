@@ -1,0 +1,393 @@
+{
+  "question": "Name a mythical creature",
+  "answers": [
+    {
+      "title": "Catoblepas",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Ammit",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Aswang",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Baku",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Behemoth",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Boggart",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Brownie",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bunyip",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Carbuncle",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Changeling",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Charybdis",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Cockatrice",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Crocotta",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Doppelganger",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dryad",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fenrir",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Garuda",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hippocampus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Imp",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Jormungandr",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kappa",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kelpie",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Lamia",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Naga",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nuckelavee",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Peryton",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pooka",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Qilin",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Roc",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rusalka",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Scylla",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Selkie",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sleipnir",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sprite",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Succubus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tengu",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Thunderbird",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Typhon",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Will-o'-the-wisp",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Yale",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Yowie",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Banshee",
+      "tier": "Rare"
+    },
+    {
+      "title": "Basilisk",
+      "tier": "Rare"
+    },
+    {
+      "title": "Chimera",
+      "tier": "Rare"
+    },
+    {
+      "title": "Chupacabra",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cthulhu",
+      "tier": "Rare"
+    },
+    {
+      "title": "Dwarf",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gargoyle",
+      "tier": "Rare"
+    },
+    {
+      "title": "Ghoul",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gnome",
+      "tier": "Rare"
+    },
+    {
+      "title": "Goblin",
+      "tier": "Rare"
+    },
+    {
+      "title": "Golem",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gorgon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gremlin",
+      "tier": "Rare"
+    },
+    {
+      "title": "Harpy",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hellhound",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hippogriff",
+      "tier": "Rare"
+    },
+    {
+      "title": "Jackalope",
+      "tier": "Rare"
+    },
+    {
+      "title": "Kitsune",
+      "tier": "Rare"
+    },
+    {
+      "title": "Leviathan",
+      "tier": "Rare"
+    },
+    {
+      "title": "Nymph",
+      "tier": "Rare"
+    },
+    {
+      "title": "Ogre",
+      "tier": "Rare"
+    },
+    {
+      "title": "Orc",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pixie",
+      "tier": "Rare"
+    },
+    {
+      "title": "Satyr",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sea serpent",
+      "tier": "Rare"
+    },
+    {
+      "title": "Siren",
+      "tier": "Rare"
+    },
+    {
+      "title": "Valkyrie",
+      "tier": "Rare"
+    },
+    {
+      "title": "Wendigo",
+      "tier": "Rare"
+    },
+    {
+      "title": "Wyvern",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bigfoot",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Centaur",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cerberus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cyclops",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Elf",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Fairy",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Genie",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Hydra",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Kraken",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Leprechaun",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Loch Ness Monster",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Medusa",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Minotaur",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pegasus",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Sphinx",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Troll",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Vampire",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Werewolf",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Yeti",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Zombie",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Manticore",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Mothman",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Dragon",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Griffin",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Mermaid",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Phoenix",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Unicorn",
+      "tier": "Plankton"
+    }
+  ]
+}

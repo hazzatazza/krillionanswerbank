@@ -1,0 +1,317 @@
+{
+  "question": "Name a card game",
+  "answers": [
+    {
+      "title": "Nain Jaune",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "6 Nimmt!",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bang!",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Bezique",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Big Two",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Briscola",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Casino",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Durak",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Dutch Blitz",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Five Crowns",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Garbage",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Golf",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hanabi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hanafuda",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Klabberjass",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Lost Cities",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mao",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Monopoly Deal",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Mus",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Nertz",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Oh Hell",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Palace",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Piquet",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pitch",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Rook",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Schnapsen",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Scopa",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Skat",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Skull",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Sushi Go",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Truco",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Apples to Apples",
+      "tier": "Rare"
+    },
+    {
+      "title": "Baccarat",
+      "tier": "Rare"
+    },
+    {
+      "title": "Belote",
+      "tier": "Rare"
+    },
+    {
+      "title": "Concentration",
+      "tier": "Rare"
+    },
+    {
+      "title": "Coup",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cribbage",
+      "tier": "Rare"
+    },
+    {
+      "title": "Dominion",
+      "tier": "Rare"
+    },
+    {
+      "title": "Exploding Kittens",
+      "tier": "Rare"
+    },
+    {
+      "title": "Freecell",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hand and Foot",
+      "tier": "Rare"
+    },
+    {
+      "title": "Hearthstone",
+      "tier": "Rare"
+    },
+    {
+      "title": "Kings",
+      "tier": "Rare"
+    },
+    {
+      "title": "Klondike",
+      "tier": "Rare"
+    },
+    {
+      "title": "Love Letter",
+      "tier": "Rare"
+    },
+    {
+      "title": "Magic: The Gathering",
+      "tier": "Rare"
+    },
+    {
+      "title": "Munchkin",
+      "tier": "Rare"
+    },
+    {
+      "title": "Phase 10",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pinochle",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pokemon Trading Card Game",
+      "tier": "Rare"
+    },
+    {
+      "title": "President",
+      "tier": "Rare"
+    },
+    {
+      "title": "Set",
+      "tier": "Rare"
+    },
+    {
+      "title": "Skip-Bo",
+      "tier": "Rare"
+    },
+    {
+      "title": "Slapjack",
+      "tier": "Rare"
+    },
+    {
+      "title": "Spider Solitaire",
+      "tier": "Rare"
+    },
+    {
+      "title": "Spit",
+      "tier": "Rare"
+    },
+    {
+      "title": "Whist",
+      "tier": "Rare"
+    },
+    {
+      "title": "Yu-Gi-Oh",
+      "tier": "Rare"
+    },
+    {
+      "title": "Bridge",
+      "tier": "Schooler"
+    },
+    {
+      "title": "BS",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Canasta",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Cards Against Humanity",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Crazy Eights",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Euchre",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Hearts",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Old Maid",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Rummy",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Snap",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Spades",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Speed",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Spoons",
+      "tier": "Schooler"
+    },
+    {
+      "title": "War",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Egyptian Ratscrew",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Blackjack",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Go Fish",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Poker",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Solitaire",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Uno",
+      "tier": "Plankton"
+    }
+  ]
+}

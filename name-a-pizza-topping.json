@@ -1,0 +1,237 @@
+{
+  "question": "Name a pizza topping",
+  "answers": [
+    {
+      "title": "Nduja",
+      "tier": "One in a Krillion"
+    },
+    {
+      "title": "Banana peppers",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "BBQ sauce",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Burrata",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Caramelized onions",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Chorizo",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Clams",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Corn",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Egg",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Fig",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Hot honey",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Kimchi",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Meatballs",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Potato",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Pulled pork",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Red pepper flakes",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Shrimp",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Smoked salmon",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Tuna",
+      "tier": "Deep cut"
+    },
+    {
+      "title": "Artichokes",
+      "tier": "Rare"
+    },
+    {
+      "title": "Arugula",
+      "tier": "Rare"
+    },
+    {
+      "title": "BBQ chicken",
+      "tier": "Rare"
+    },
+    {
+      "title": "Broccoli",
+      "tier": "Rare"
+    },
+    {
+      "title": "Canadian bacon",
+      "tier": "Rare"
+    },
+    {
+      "title": "Capers",
+      "tier": "Rare"
+    },
+    {
+      "title": "Cheddar",
+      "tier": "Rare"
+    },
+    {
+      "title": "Eggplant",
+      "tier": "Rare"
+    },
+    {
+      "title": "Feta cheese",
+      "tier": "Rare"
+    },
+    {
+      "title": "Goat cheese",
+      "tier": "Rare"
+    },
+    {
+      "title": "Gorgonzola",
+      "tier": "Rare"
+    },
+    {
+      "title": "Parmesan",
+      "tier": "Rare"
+    },
+    {
+      "title": "Pesto",
+      "tier": "Rare"
+    },
+    {
+      "title": "Prosciutto",
+      "tier": "Rare"
+    },
+    {
+      "title": "Red onion",
+      "tier": "Rare"
+    },
+    {
+      "title": "Ricotta",
+      "tier": "Rare"
+    },
+    {
+      "title": "Roasted garlic",
+      "tier": "Rare"
+    },
+    {
+      "title": "Salami",
+      "tier": "Rare"
+    },
+    {
+      "title": "Sun-dried tomatoes",
+      "tier": "Rare"
+    },
+    {
+      "title": "Truffle",
+      "tier": "Rare"
+    },
+    {
+      "title": "Zucchini",
+      "tier": "Rare"
+    },
+    {
+      "title": "Anchovies",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Bacon",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Basil",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Bell peppers",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Chicken",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Garlic",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ground beef",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Ham",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Jalapeños",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Olives",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Onions",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Spinach",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Tomatoes",
+      "tier": "Schooler"
+    },
+    {
+      "title": "Pineapple",
+      "tier": "Too clever"
+    },
+    {
+      "title": "Cheese",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Mushrooms",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Pepperoni",
+      "tier": "Plankton"
+    },
+    {
+      "title": "Sausage",
+      "tier": "Plankton"
+    }
+  ]
+}
